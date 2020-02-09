@@ -1,0 +1,3260 @@
+./train_images/Set12_273 r.jpg,28,163,748,218,line
+./train_images/Set12_273 r.jpg,26,238,755,284,line
+./train_images/Set12_273 r.jpg,31,359,750,405,line
+./train_images/Set12_273 r.jpg,30,429,764,472,line
+./train_images/Set12_273 r.jpg,24,605,758,666,line
+./train_images/Set12_273 r.jpg,28,803,771,861,line
+./train_images/Set12_273 r.jpg,25,865,772,935,line
+./train_images/Set17_190 v.jpg,164,69,834,121,line
+./train_images/Set17_190 v.jpg,165,129,832,165,line
+./train_images/Set17_190 v.jpg,165,172,830,211,line
+./train_images/Set17_190 v.jpg,165,215,836,268,line
+./train_images/Set17_190 v.jpg,165,273,843,331,line
+./train_images/Set17_190 v.jpg,168,333,842,371,line
+./train_images/Set17_190 v.jpg,168,380,811,428,line
+./train_images/Set17_190 v.jpg,166,434,815,478,line
+./train_images/Set17_190 v.jpg,166,479,848,521,line
+./train_images/Set17_190 v.jpg,163,533,845,574,line
+./train_images/Set17_190 v.jpg,167,590,841,628,line
+./train_images/Set17_190 v.jpg,167,637,832,676,line
+./train_images/Set17_190 v.jpg,170,689,842,733,line
+./train_images/Set17_190 v.jpg,169,745,866,785,line
+./train_images/Set17_190 v.jpg,178,797,864,841,line
+./train_images/Set17_190 v.jpg,176,849,867,887,line
+./train_images/Set17_190 v.jpg,162,896,833,947,line
+./train_images/Set17_190 v.jpg,164,946,854,995,line
+./train_images/Set17_193 v.jpg,193,72,857,154,line
+./train_images/Set17_193 v.jpg,188,156,624,200,line
+./train_images/Set17_193 v.jpg,190,203,834,250,line
+./train_images/Set17_193 v.jpg,188,257,841,303,line
+./train_images/Set17_193 v.jpg,188,306,849,358,line
+./train_images/Set17_193 v.jpg,172,354,884,401,line
+./train_images/Set17_193 v.jpg,183,403,857,449,line
+./train_images/Set17_193 v.jpg,185,457,868,499,line
+./train_images/Set17_193 v.jpg,186,506,877,552,line
+./train_images/Set17_193 v.jpg,189,551,861,598,line
+./train_images/Set17_193 v.jpg,191,605,886,650,line
+./train_images/Set17_193 v.jpg,188,654,862,703,line
+./train_images/Set17_193 v.jpg,186,712,878,765,line
+./train_images/Set17_193 v.jpg,186,769,872,805,line
+./train_images/Set17_193 v.jpg,189,812,858,851,line
+./train_images/Set17_193 v.jpg,187,856,877,895,line
+./train_images/Set17_193 v.jpg,186,906,877,953,line
+./train_images/Set17_193 v.jpg,189,956,881,999,line
+./train_images/Set17_193 v.jpg,188,1003,508,1056,line
+./train_images/Set14_178.jpg,254,281,951,361,line
+./train_images/Set14_178.jpg,327,365,958,432,line
+./train_images/Set14_178.jpg,314,434,942,484,line
+./train_images/Set14_178.jpg,307,510,940,564,line
+./train_images/Set14_178.jpg,311,574,938,636,line
+./train_images/Set14_178.jpg,310,650,927,709,line
+./train_images/Set14_178.jpg,307,717,932,791,line
+./train_images/Set14_178.jpg,311,796,927,840,line
+./train_images/Set14_178.jpg,308,850,939,915,line
+./train_images/Set14_178.jpg,310,921,934,977,line
+./train_images/Set14_178.jpg,310,990,932,1042,line
+./train_images/Set14_178.jpg,301,1053,951,1108,line
+./train_images/Set14_178.jpg,286,1110,944,1178,line
+./train_images/Set14_178.jpg,297,1191,945,1258,line
+./train_images/Set14_178.jpg,303,1259,924,1309,line
+./train_images/Set14_178.jpg,286,1316,936,1385,line
+./train_images/Set14_178.jpg,311,1407,932,1462,line
+./train_images/Set16_005.jpg,75,76,777,164,line
+./train_images/Set16_005.jpg,53,156,819,233,line
+./train_images/Set16_005.jpg,48,235,845,320,line
+./train_images/Set16_005.jpg,51,330,821,406,line
+./train_images/Set16_005.jpg,47,410,920,487,line
+./train_images/Set16_005.jpg,45,474,849,559,line
+./train_images/Set16_005.jpg,46,558,874,642,line
+./train_images/Set16_005.jpg,46,639,877,724,line
+./train_images/Set16_005.jpg,43,732,854,829,line
+./train_images/Set16_005.jpg,37,831,850,892,line
+./train_images/Set16_005.jpg,35,900,856,978,line
+./train_images/Set16_005.jpg,32,988,886,1062,line
+./train_images/Set16_005.jpg,55,1062,815,1152,line
+./train_images/Set16_005.jpg,141,1158,817,1222,line
+./train_images/Set16_005.jpg,83,1238,827,1327,line
+./train_images/Set16_005.jpg,79,1323,830,1380,line
+./train_images/Set16_005.jpg,251,1415,407,1466,line
+./train_images/Set11_065.jpg,8,126,1229,266,line
+./train_images/Set11_065.jpg,34,252,1230,363,line
+./train_images/Set11_065.jpg,11,340,1230,454,line
+./train_images/Set11_065.jpg,16,430,1228,560,line
+./train_images/Set11_065.jpg,12,562,1231,658,line
+./train_images/Set11_065.jpg,24,654,1238,747,line
+./train_images/Set11_065.jpg,21,751,1237,851,line
+./train_images/Set11_065.jpg,11,844,1232,925,line
+./train_images/Set11_065.jpg,11,929,1237,1021,line
+./train_images/Set11_065.jpg,12,1027,1240,1131,line
+./train_images/Set11_065.jpg,13,1124,1240,1225,line
+./train_images/Set11_065.jpg,4,1229,1237,1341,line
+./train_images/Set11_065.jpg,5,1344,1233,1442,line
+./train_images/Set11_065.jpg,8,1432,1234,1527,line
+./train_images/Set11_065.jpg,9,1533,1235,1635,line
+./train_images/Set11_065.jpg,10,1639,1151,1732,line
+./train_images/Set11_065.jpg,5,1722,1258,1829,line
+./train_images/Set11_065.jpg,5,1828,1226,1938,line
+./train_images/Set16_010.jpg,41,95,825,156,line
+./train_images/Set16_010.jpg,44,161,822,246,line
+./train_images/Set16_010.jpg,33,261,827,348,line
+./train_images/Set16_010.jpg,30,339,842,403,line
+./train_images/Set16_010.jpg,27,413,851,481,line
+./train_images/Set16_010.jpg,17,551,833,672,line
+./train_images/Set16_010.jpg,46,678,837,745,line
+./train_images/Set16_010.jpg,35,748,810,827,line
+./train_images/Set16_010.jpg,28,836,793,917,line
+./train_images/Set16_010.jpg,27,912,816,1004,line
+./train_images/Set16_010.jpg,30,1006,923,1086,line
+./train_images/Set16_010.jpg,33,1091,838,1157,line
+./train_images/Set16_010.jpg,33,1174,816,1258,line
+./train_images/Set16_010.jpg,40,1262,877,1335,line
+./train_images/Set16_010.jpg,42,1341,823,1404,line
+./train_images/Set16_010.jpg,44,1420,831,1467,line
+./train_images/Set11_320.jpg,249,102,1469,181,line
+./train_images/Set11_320.jpg,257,176,1471,260,line
+./train_images/Set11_320.jpg,262,262,1473,328,line
+./train_images/Set11_320.jpg,262,333,1450,397,line
+./train_images/Set11_320.jpg,265,404,1466,481,line
+./train_images/Set11_320.jpg,262,482,1463,546,line
+./train_images/Set11_320.jpg,259,550,1471,624,line
+./train_images/Set11_320.jpg,259,627,1469,697,line
+./train_images/Set11_320.jpg,256,698,1465,768,line
+./train_images/Set11_320.jpg,259,775,1469,840,line
+./train_images/Set11_320.jpg,256,836,1462,910,line
+./train_images/Set11_320.jpg,256,918,1462,989,line
+./train_images/Set11_320.jpg,260,989,1478,1063,line
+./train_images/Set11_320.jpg,259,1068,1471,1133,line
+./train_images/Set11_320.jpg,260,1136,1466,1207,line
+./train_images/Set11_320.jpg,262,1213,1469,1276,line
+./train_images/Set11_320.jpg,263,1281,1478,1342,line
+./train_images/Set11_320.jpg,263,1350,1471,1420,line
+./train_images/Set11_320.jpg,266,1427,1476,1494,line
+./train_images/Set11_320.jpg,265,1505,1485,1566,line
+./train_images/Set11_320.jpg,333,1576,1475,1639,line
+./train_images/Set11_320.jpg,275,1646,1472,1740,line
+./train_images/Set11_320.jpg,257,1746,1482,1840,line
+./train_images/Set11_320.jpg,353,1857,1360,1931,line
+./train_images/Set16_009.jpg,137,97,917,158,line
+./train_images/Set16_009.jpg,129,180,897,241,line
+./train_images/Set16_009.jpg,122,252,902,327,line
+./train_images/Set16_009.jpg,122,340,886,402,line
+./train_images/Set16_009.jpg,127,421,898,517,line
+./train_images/Set16_009.jpg,123,515,893,580,line
+./train_images/Set16_009.jpg,122,572,896,641,line
+./train_images/Set16_009.jpg,127,659,902,733,line
+./train_images/Set16_009.jpg,134,754,913,825,line
+./train_images/Set16_009.jpg,139,843,917,887,line
+./train_images/Set16_009.jpg,143,905,883,990,line
+./train_images/Set16_009.jpg,144,1007,889,1075,line
+./train_images/Set16_009.jpg,150,1087,886,1148,line
+./train_images/Set16_009.jpg,145,1160,879,1229,line
+./train_images/Set16_009.jpg,145,1236,883,1300,line
+./train_images/Set16_009.jpg,153,1313,891,1388,line
+./train_images/Set16_009.jpg,375,1417,842,1479,line
+./train_images/Set17_185 v.jpg,194,53,868,116,line
+./train_images/Set17_185 v.jpg,190,100,871,164,line
+./train_images/Set17_185 v.jpg,190,161,877,218,line
+./train_images/Set17_185 v.jpg,190,216,899,266,line
+./train_images/Set17_185 v.jpg,191,264,876,316,line
+./train_images/Set17_185 v.jpg,187,315,879,362,line
+./train_images/Set17_185 v.jpg,188,366,874,420,line
+./train_images/Set17_185 v.jpg,187,414,883,475,line
+./train_images/Set17_185 v.jpg,185,469,874,526,line
+./train_images/Set17_185 v.jpg,183,525,874,576,line
+./train_images/Set17_185 v.jpg,187,574,865,623,line
+./train_images/Set17_185 v.jpg,183,619,875,679,line
+./train_images/Set17_185 v.jpg,180,681,858,730,line
+./train_images/Set17_185 v.jpg,180,729,862,777,line
+./train_images/Set17_185 v.jpg,185,782,851,833,line
+./train_images/Set17_185 v.jpg,181,834,850,896,line
+./train_images/Set17_185 v.jpg,169,892,852,949,line
+./train_images/Set17_185 v.jpg,169,941,857,1000,line
+./train_images/Set13_057 r.jpg,88,85,726,136,line
+./train_images/Set13_057 r.jpg,92,140,765,180,line
+./train_images/Set13_057 r.jpg,95,188,726,227,line
+./train_images/Set13_057 r.jpg,96,236,753,277,line
+./train_images/Set13_057 r.jpg,97,289,741,333,line
+./train_images/Set13_057 r.jpg,98,328,748,381,line
+./train_images/Set13_057 r.jpg,106,381,758,422,line
+./train_images/Set13_057 r.jpg,95,424,780,485,line
+./train_images/Set13_057 r.jpg,98,489,718,535,line
+./train_images/Set13_057 r.jpg,99,538,756,592,line
+./train_images/Set13_057 r.jpg,99,591,751,639,line
+./train_images/Set13_057 r.jpg,97,641,737,697,line
+./train_images/Set13_057 r.jpg,99,697,739,746,line
+./train_images/Set13_057 r.jpg,104,749,748,794,line
+./train_images/Set13_057 r.jpg,101,799,787,850,line
+./train_images/Set13_057 r.jpg,518,192,518,192,line
+./train_images/Set13_057 r.jpg,100,901,750,958,line
+./train_images/Set13_057 r.jpg,96,956,793,1022,line
+./train_images/Set13_057 r.jpg,98,1015,753,1068,line
+./train_images/Set13_057 r.jpg,99,1066,753,1122,line
+./train_images/Set13_057 r.jpg,101,1113,810,1162,line
+./train_images/Set13_057 r.jpg,108,1163,769,1213,line
+./train_images/Set13_057 r.jpg,109,1218,736,1269,line
+./train_images/Set13_057 r.jpg,106,1270,746,1318,line
+./train_images/Set13_057 r.jpg,49,1317,758,1378,line
+./train_images/Set13_057 r.jpg,111,1372,811,1434,line
+./train_images/Set2_102 r.jpg,91,85,906,153,line
+./train_images/Set2_102 r.jpg,88,161,892,235,line
+./train_images/Set2_102 r.jpg,100,247,904,321,line
+./train_images/Set2_102 r.jpg,102,328,893,402,line
+./train_images/Set2_102 r.jpg,108,405,891,479,line
+./train_images/Set2_102 r.jpg,111,480,898,556,line
+./train_images/Set2_102 r.jpg,185,571,901,632,line
+./train_images/Set2_102 r.jpg,133,642,919,710,line
+./train_images/Set13_065 v.jpg,280,56,976,111,line
+./train_images/Set13_065 v.jpg,277,108,979,161,line
+./train_images/Set13_065 v.jpg,274,163,975,213,line
+./train_images/Set13_045 r.jpg,64,68,779,156,line
+./train_images/Set13_045 r.jpg,118,154,759,202,line
+./train_images/Set13_045 r.jpg,90,200,749,259,line
+./train_images/Set13_045 r.jpg,88,263,761,314,line
+./train_images/Set13_045 r.jpg,76,316,769,368,line
+./train_images/Set13_045 r.jpg,71,365,774,419,line
+./train_images/Set13_045 r.jpg,69,418,782,467,line
+./train_images/Set13_045 r.jpg,70,468,786,514,line
+./train_images/Set13_045 r.jpg,71,514,802,565,line
+./train_images/Set13_045 r.jpg,87,565,787,622,line
+./train_images/Set13_045 r.jpg,97,624,779,672,line
+./train_images/Set13_045 r.jpg,98,675,819,722,line
+./train_images/Set13_045 r.jpg,103,728,793,773,line
+./train_images/Set13_045 r.jpg,99,778,819,826,line
+./train_images/Set13_045 r.jpg,100,832,773,885,line
+./train_images/Set13_045 r.jpg,104,889,808,941,line
+./train_images/Set13_045 r.jpg,63,934,752,1001,line
+./train_images/Set13_045 r.jpg,131,1010,755,1050,line
+./train_images/Set13_045 r.jpg,143,1063,761,1098,line
+./train_images/Set13_045 r.jpg,123,1104,783,1146,line
+./train_images/Set13_045 r.jpg,115,1155,771,1206,line
+./train_images/Set13_045 r.jpg,112,1207,810,1257,line
+./train_images/Set13_045 r.jpg,115,1261,779,1312,line
+./train_images/Set13_045 r.jpg,115,1317,798,1368,line
+./train_images/Set13_045 r.jpg,115,1367,782,1412,line
+./train_images/Set13_045 r.jpg,110,1409,771,1469,line
+./train_images/Set14_469.jpg,157,235,807,306,line
+./train_images/Set14_469.jpg,155,308,784,372,line
+./train_images/Set14_469.jpg,148,375,839,440,line
+./train_images/Set14_469.jpg,157,453,773,513,line
+./train_images/Set14_469.jpg,157,524,773,591,line
+./train_images/Set14_469.jpg,152,601,830,670,line
+./train_images/Set14_469.jpg,155,680,833,746,line
+./train_images/Set14_469.jpg,154,760,861,825,line
+./train_images/Set14_469.jpg,155,835,856,896,line
+./train_images/Set14_469.jpg,154,906,879,987,line
+./train_images/Set14_469.jpg,157,988,877,1050,line
+./train_images/Set14_469.jpg,160,1058,872,1124,line
+./train_images/Set14_469.jpg,158,1130,835,1203,line
+./train_images/Set14_469.jpg,158,1208,838,1277,line
+./train_images/Set14_469.jpg,152,1281,822,1352,line
+./train_images/Set14_469.jpg,157,1361,821,1444,line
+./train_images/Set11_114.jpg,248,179,1454,263,line
+./train_images/Set11_114.jpg,244,271,1460,367,line
+./train_images/Set11_114.jpg,248,373,1459,466,line
+./train_images/Set11_114.jpg,246,479,1462,559,line
+./train_images/Set11_114.jpg,251,570,1458,650,line
+./train_images/Set11_114.jpg,253,651,1470,729,line
+./train_images/Set11_114.jpg,364,738,1468,798,line
+./train_images/Set11_114.jpg,257,809,1464,874,line
+./train_images/Set11_114.jpg,252,886,1461,944,line
+./train_images/Set11_114.jpg,256,956,1459,1020,line
+./train_images/Set11_114.jpg,259,1022,1469,1084,line
+./train_images/Set11_114.jpg,258,1092,1464,1172,line
+./train_images/Set11_114.jpg,366,1177,1408,1240,line
+./train_images/Set11_114.jpg,261,1243,1471,1346,line
+./train_images/Set11_114.jpg,425,1365,1469,1424,line
+./train_images/Set11_114.jpg,278,1438,1477,1532,line
+./train_images/Set11_114.jpg,277,1540,1480,1624,line
+./train_images/Set11_114.jpg,273,1643,1472,1721,line
+./train_images/Set11_114.jpg,282,1740,1482,1818,line
+./train_images/Set11_114.jpg,283,1831,1484,1922,line
+./train_images/Set16_007.jpg,53,63,794,151,line
+./train_images/Set16_007.jpg,48,146,805,231,line
+./train_images/Set16_007.jpg,41,235,786,310,line
+./train_images/Set16_007.jpg,48,316,802,396,line
+./train_images/Set16_007.jpg,38,397,817,473,line
+./train_images/Set16_007.jpg,39,477,818,552,line
+./train_images/Set16_007.jpg,41,558,829,630,line
+./train_images/Set16_007.jpg,36,645,838,726,line
+./train_images/Set16_007.jpg,39,732,800,815,line
+./train_images/Set16_007.jpg,19,816,762,897,line
+./train_images/Set16_007.jpg,29,901,796,1000,line
+./train_images/Set16_007.jpg,24,993,800,1067,line
+./train_images/Set16_007.jpg,38,1072,823,1160,line
+./train_images/Set16_007.jpg,27,1160,803,1217,line
+./train_images/Set16_007.jpg,32,1223,822,1307,line
+./train_images/Set16_007.jpg,36,1318,804,1389,line
+./train_images/Set16_007.jpg,254,1412,584,1472,line
+./train_images/Set6_0066.JPG,1025,543,2660,639,line
+./train_images/Set6_0066.JPG,1009,672,2596,766,line
+./train_images/Set6_0066.JPG,1013,809,2615,900,line
+./train_images/Set6_0066.JPG,1005,923,2609,1025,line
+./train_images/Set6_0066.JPG,1013,1060,2639,1164,line
+./train_images/Set6_0066.JPG,1009,1200,2603,1325,line
+./train_images/Set6_0066.JPG,1015,1343,2613,1449,line
+./train_images/Set6_0066.JPG,1015,1470,2619,1570,line
+./train_images/Set6_0066.JPG,1013,1594,2639,1703,line
+./train_images/Set6_0066.JPG,1001,1721,2609,1856,line
+./train_images/Set6_0066.JPG,996,1876,2576,1974,line
+./train_images/Set6_0066.JPG,1013,1994,2572,2100,line
+./train_images/Set6_0066.JPG,1005,2125,2633,2249,line
+./train_images/Set6_0066.JPG,1005,2262,2568,2366,line
+./train_images/Set6_0066.JPG,1009,2384,2600,2515,line
+./train_images/Set6_0066.JPG,1001,2531,2582,2645,line
+./train_images/Set6_0066.JPG,1003,2656,2574,2762,line
+./train_images/Set6_0066.JPG,1003,2778,2558,2874,line
+./train_images/Set6_0066.JPG,992,2901,2600,3013,line
+./train_images/Set6_0066.JPG,976,3041,2621,3143,line
+./train_images/Set6_0066.JPG,984,3170,2613,3272,line
+./train_images/Set6_0066.JPG,990,3298,2623,3431,line
+./train_images/Set6_0066.JPG,3409,543,4958,637,line
+./train_images/Set6_0066.JPG,3409,670,4945,762,line
+./train_images/Set6_0066.JPG,3401,792,4980,905,line
+./train_images/Set6_0066.JPG,3417,933,4958,1025,line
+./train_images/Set6_0066.JPG,3419,1047,4992,1176,line
+./train_images/Set6_0066.JPG,3421,1207,4949,1311,line
+./train_images/Set6_0066.JPG,3413,1349,4970,1435,line
+./train_images/Set6_0066.JPG,3423,1460,4994,1574,line
+./train_images/Set6_0066.JPG,3431,1611,4954,1725,line
+./train_images/Set6_0066.JPG,3439,1743,4986,1862,line
+./train_images/Set6_0066.JPG,3439,1874,4964,2000,line
+./train_images/Set6_0066.JPG,3445,2017,4964,2107,line
+./train_images/Set6_0066.JPG,3454,2158,4994,2250,line
+./train_images/Set6_0066.JPG,3464,2280,4992,2384,line
+./train_images/Set6_0066.JPG,3466,2421,4978,2515,line
+./train_images/Set6_0066.JPG,3468,2539,4935,2639,line
+./train_images/Set6_0066.JPG,3462,2658,4968,2754,line
+./train_images/Set6_0066.JPG,3468,2788,4964,2886,line
+./train_images/Set6_0066.JPG,3480,2907,5062,3007,line
+./train_images/Set6_0066.JPG,3486,3054,5003,3152,line
+./train_images/Set6_0066.JPG,3486,3196,5000,3286,line
+./train_images/Set6_0066.JPG,3482,3321,5058,3431,line
+./train_images/Set14_131.jpg,132,225,781,293,line
+./train_images/Set14_131.jpg,125,294,777,361,line
+./train_images/Set14_131.jpg,122,361,783,428,line
+./train_images/Set14_131.jpg,122,428,763,501,line
+./train_images/Set14_131.jpg,110,496,805,570,line
+./train_images/Set14_131.jpg,109,562,759,642,line
+./train_images/Set14_131.jpg,106,637,797,719,line
+./train_images/Set14_131.jpg,102,700,790,777,line
+./train_images/Set14_131.jpg,103,768,776,840,line
+./train_images/Set14_131.jpg,105,833,802,912,line
+./train_images/Set14_131.jpg,100,911,788,980,line
+./train_images/Set14_131.jpg,105,968,767,1042,line
+./train_images/Set14_131.jpg,88,1033,759,1127,line
+./train_images/Set14_131.jpg,90,1112,727,1181,line
+./train_images/Set14_131.jpg,88,1168,736,1245,line
+./train_images/Set14_131.jpg,87,1237,715,1331,line
+./train_images/Set14_131.jpg,84,1307,710,1401,line
+./train_images/Set13_024 v.jpg,222,115,939,161,line
+./train_images/Set13_024 v.jpg,217,171,919,222,line
+./train_images/Set13_024 v.jpg,211,221,927,277,line
+./train_images/Set13_024 v.jpg,216,279,945,323,line
+./train_images/Set13_024 v.jpg,213,315,940,376,line
+./train_images/Set13_024 v.jpg,211,376,932,426,line
+./train_images/Set13_024 v.jpg,211,420,927,478,line
+./train_images/Set13_024 v.jpg,214,476,941,534,line
+./train_images/Set13_024 v.jpg,220,533,935,589,line
+./train_images/Set13_024 v.jpg,216,582,942,641,line
+./train_images/Set13_024 v.jpg,265,645,965,697,line
+./train_images/Set13_024 v.jpg,223,680,940,746,line
+./train_images/Set13_024 v.jpg,220,739,971,805,line
+./train_images/Set13_024 v.jpg,221,803,969,864,line
+./train_images/Set13_024 v.jpg,217,850,959,913,line
+./train_images/Set13_024 v.jpg,219,916,975,977,line
+./train_images/Set13_024 v.jpg,223,964,964,1025,line
+./train_images/Set13_024 v.jpg,227,1011,964,1084,line
+./train_images/Set13_024 v.jpg,221,1080,967,1141,line
+./train_images/Set13_024 v.jpg,228,1142,973,1186,line
+./train_images/Set13_024 v.jpg,229,1194,959,1240,line
+./train_images/Set13_024 v.jpg,232,1240,964,1290,line
+./train_images/Set13_024 v.jpg,230,1294,977,1345,line
+./train_images/Set13_024 v.jpg,225,1348,958,1396,line
+./train_images/Set13_024 v.jpg,244,1392,948,1453,line
+./train_images/Set2_037 r.jpg,38,131,950,241,line
+./train_images/Set2_037 r.jpg,44,253,995,339,line
+./train_images/Set2_037 r.jpg,58,341,965,422,line
+./train_images/Set2_037 r.jpg,63,425,846,507,line
+./train_images/Set2_037 r.jpg,63,517,1006,595,line
+./train_images/Set2_037 r.jpg,279,609,1004,677,line
+./train_images/Set2_037 r.jpg,31,680,992,758,line
+./train_images/Set2_037 r.jpg,36,765,1012,846,line
+./train_images/Set2_037 r.jpg,46,852,996,923,line
+./train_images/Set2_037 r.jpg,41,931,1009,1014,line
+./train_images/Set2_037 r.jpg,42,1017,992,1092,line
+./train_images/Set2_037 r.jpg,47,1101,995,1174,line
+./train_images/Set2_037 r.jpg,49,1182,992,1260,line
+./train_images/Set2_037 r.jpg,61,1280,973,1346,line
+./train_images/Set2_037 r.jpg,60,1352,976,1428,line
+./train_images/Set17_179 r.jpg,40,50,734,103,line
+./train_images/Set17_179 r.jpg,22,104,720,153,line
+./train_images/Set17_179 r.jpg,46,208,764,267,line
+./train_images/Set17_179 r.jpg,38,267,726,321,line
+./train_images/Set17_179 r.jpg,42,360,744,426,line
+./train_images/Set17_179 r.jpg,44,465,721,516,line
+./train_images/Set17_179 r.jpg,37,581,721,633,line
+./train_images/Set17_179 r.jpg,34,741,717,791,line
+./train_images/Set17_179 r.jpg,34,898,737,946,line
+./train_images/Set13_046 r.jpg,76,71,756,136,line
+./train_images/Set13_046 r.jpg,74,125,758,186,line
+./train_images/Set13_046 r.jpg,70,176,778,234,line
+./train_images/Set13_046 r.jpg,73,231,771,282,line
+./train_images/Set13_046 r.jpg,68,281,781,336,line
+./train_images/Set13_046 r.jpg,68,330,775,386,line
+./train_images/Set13_046 r.jpg,70,381,774,432,line
+./train_images/Set13_046 r.jpg,74,432,780,491,line
+./train_images/Set13_046 r.jpg,74,490,800,539,line
+./train_images/Set13_046 r.jpg,76,532,741,591,line
+./train_images/Set13_046 r.jpg,63,576,768,639,line
+./train_images/Set13_046 r.jpg,65,642,747,698,line
+./train_images/Set13_046 r.jpg,70,700,757,748,line
+./train_images/Set13_046 r.jpg,69,751,767,802,line
+./train_images/Set13_046 r.jpg,59,797,764,864,line
+./train_images/Set13_046 r.jpg,65,859,763,912,line
+./train_images/Set13_046 r.jpg,64,908,756,969,line
+./train_images/Set13_046 r.jpg,67,965,756,1028,line
+./train_images/Set13_046 r.jpg,63,1019,743,1076,line
+./train_images/Set13_046 r.jpg,65,1065,741,1129,line
+./train_images/Set13_046 r.jpg,60,1120,747,1178,line
+./train_images/Set13_046 r.jpg,67,1178,780,1229,line
+./train_images/Set13_046 r.jpg,71,1224,758,1275,line
+./train_images/Set13_046 r.jpg,69,1280,753,1340,line
+./train_images/Set13_046 r.jpg,68,1331,746,1387,line
+./train_images/Set13_046 r.jpg,60,1389,765,1452,line
+./train_images/Set14_206.jpg,232,256,919,333,line
+./train_images/Set14_206.jpg,232,334,934,401,line
+./train_images/Set14_206.jpg,235,411,894,473,line
+./train_images/Set14_206.jpg,233,485,924,547,line
+./train_images/Set14_206.jpg,226,558,906,620,line
+./train_images/Set14_206.jpg,233,632,902,701,line
+./train_images/Set14_206.jpg,232,710,893,778,line
+./train_images/Set14_206.jpg,228,782,894,847,line
+./train_images/Set14_206.jpg,230,851,957,921,line
+./train_images/Set14_206.jpg,219,923,943,992,line
+./train_images/Set14_206.jpg,219,1000,900,1079,line
+./train_images/Set14_206.jpg,221,1078,911,1138,line
+./train_images/Set14_206.jpg,219,1137,905,1210,line
+./train_images/Set14_206.jpg,229,1219,856,1287,line
+./train_images/Set14_206.jpg,226,1292,910,1353,line
+./train_images/Set14_206.jpg,226,1356,884,1426,line
+./train_images/Set12_193 r.jpg,45,46,874,130,line
+./train_images/Set12_193 r.jpg,39,125,819,196,line
+./train_images/Set12_193 r.jpg,39,187,834,251,line
+./train_images/Set12_193 r.jpg,34,243,847,317,line
+./train_images/Set12_193 r.jpg,30,311,849,376,line
+./train_images/Set12_193 r.jpg,36,379,837,439,line
+./train_images/Set12_193 r.jpg,20,438,823,508,line
+./train_images/Set12_193 r.jpg,13,499,838,571,line
+./train_images/Set12_193 r.jpg,18,576,817,630,line
+./train_images/Set12_193 r.jpg,18,633,829,700,line
+./train_images/Set12_193 r.jpg,20,706,818,766,line
+./train_images/Set17_187 r.jpg,49,53,716,114,line
+./train_images/Set17_187 r.jpg,46,109,739,166,line
+./train_images/Set17_187 r.jpg,48,168,725,218,line
+./train_images/Set17_187 r.jpg,50,218,727,269,line
+./train_images/Set17_187 r.jpg,52,269,719,314,line
+./train_images/Set17_187 r.jpg,56,315,718,371,line
+./train_images/Set17_187 r.jpg,54,376,727,421,line
+./train_images/Set17_187 r.jpg,51,421,733,473,line
+./train_images/Set17_187 r.jpg,51,472,706,518,line
+./train_images/Set17_187 r.jpg,51,517,758,572,line
+./train_images/Set17_187 r.jpg,47,574,759,625,line
+./train_images/Set17_187 r.jpg,52,627,755,683,line
+./train_images/Set17_187 r.jpg,54,682,760,730,line
+./train_images/Set17_187 r.jpg,54,728,753,779,line
+./train_images/Set17_187 r.jpg,54,774,749,832,line
+./train_images/Set17_187 r.jpg,49,829,725,892,line
+./train_images/Set17_187 r.jpg,52,890,726,937,line
+./train_images/Set17_187 r.jpg,53,933,730,999,line
+./train_images/Set12_255 v.jpg,84,40,912,110,line
+./train_images/Set12_255 v.jpg,84,108,907,187,line
+./train_images/Set12_255 v.jpg,55,239,890,316,line
+./train_images/Set12_255 v.jpg,40,311,915,388,line
+./train_images/Set12_255 v.jpg,84,382,899,452,line
+./train_images/Set12_255 v.jpg,67,442,893,517,line
+./train_images/Set12_255 v.jpg,26,508,892,586,line
+./train_images/Set12_255 v.jpg,11,653,872,731,line
+./train_images/Set12_255 v.jpg,56,800,887,876,line
+./train_images/Set12_255 v.jpg,56,872,884,931,line
+./train_images/Set12_255 v.jpg,20,997,869,1082,line
+./train_images/Set12_255 v.jpg,51,1154,912,1214,line
+./train_images/Set12_255 v.jpg,48,1215,898,1285,line
+./train_images/Set16_001.jpg,28,21,748,270,line
+./train_images/Set16_001.jpg,61,298,825,393,line
+./train_images/Set16_001.jpg,136,382,825,460,line
+./train_images/Set16_001.jpg,142,457,798,536,line
+./train_images/Set16_001.jpg,45,530,805,623,line
+./train_images/Set16_001.jpg,42,621,800,685,line
+./train_images/Set16_001.jpg,39,691,832,795,line
+./train_images/Set16_001.jpg,41,801,833,870,line
+./train_images/Set16_001.jpg,35,881,833,964,line
+./train_images/Set16_001.jpg,39,975,832,1048,line
+./train_images/Set16_001.jpg,37,1045,820,1113,line
+./train_images/Set16_001.jpg,38,1121,816,1191,line
+./train_images/Set16_001.jpg,43,1210,803,1264,line
+./train_images/Set16_001.jpg,35,1280,789,1368,line
+./train_images/Set16_001.jpg,280,1388,764,1438,line
+./train_images/Set12_246 r.jpg,42,86,720,141,line
+./train_images/Set12_246 r.jpg,36,139,395,183,line
+./train_images/Set14_235.jpg,140,246,779,307,line
+./train_images/Set14_235.jpg,135,316,758,385,line
+./train_images/Set14_235.jpg,133,383,807,460,line
+./train_images/Set14_235.jpg,131,456,805,535,line
+./train_images/Set14_235.jpg,129,538,789,610,line
+./train_images/Set14_235.jpg,123,615,786,679,line
+./train_images/Set14_235.jpg,121,683,810,758,line
+./train_images/Set14_235.jpg,110,763,790,825,line
+./train_images/Set14_235.jpg,125,838,737,903,line
+./train_images/Set14_235.jpg,105,904,771,975,line
+./train_images/Set14_235.jpg,119,977,731,1038,line
+./train_images/Set14_235.jpg,128,1058,791,1120,line
+./train_images/Set14_235.jpg,131,1124,783,1193,line
+./train_images/Set14_235.jpg,133,1199,769,1267,line
+./train_images/Set14_235.jpg,126,1275,812,1347,line
+./train_images/Set14_235.jpg,118,1342,829,1424,line
+./train_images/Set17_191 v.jpg,219,110,842,157,line
+./train_images/Set17_191 v.jpg,216,159,867,201,line
+./train_images/Set17_191 v.jpg,216,200,876,248,line
+./train_images/Set17_191 v.jpg,220,250,851,298,line
+./train_images/Set17_191 v.jpg,208,297,862,356,line
+./train_images/Set17_191 v.jpg,214,355,859,397,line
+./train_images/Set17_191 v.jpg,212,402,868,451,line
+./train_images/Set17_191 v.jpg,211,457,866,499,line
+./train_images/Set17_191 v.jpg,216,501,879,551,line
+./train_images/Set17_191 v.jpg,204,550,863,599,line
+./train_images/Set17_191 v.jpg,213,601,867,643,line
+./train_images/Set17_191 v.jpg,209,650,866,695,line
+./train_images/Set17_191 v.jpg,210,701,875,760,line
+./train_images/Set17_191 v.jpg,210,763,854,800,line
+./train_images/Set17_191 v.jpg,205,795,851,857,line
+./train_images/Set17_191 v.jpg,212,860,866,901,line
+./train_images/Set17_191 v.jpg,208,899,863,948,line
+./train_images/Set17_191 v.jpg,213,956,873,1008,line
+./train_images/Set2_067 r.jpg,70,119,878,187,line
+./train_images/Set2_067 r.jpg,61,248,790,327,line
+./train_images/Set2_067 r.jpg,74,398,934,477,line
+./train_images/Set2_067 r.jpg,90,564,596,625,line
+./train_images/Set2_067 r.jpg,73,620,915,698,line
+./train_images/Set2_067 r.jpg,77,704,869,770,line
+./train_images/Set2_067 r.jpg,56,872,963,947,line
+./train_images/Set2_067 r.jpg,70,941,1009,1014,line
+./train_images/Set2_067 r.jpg,70,999,1066,1091,line
+./train_images/Set2_067 r.jpg,87,1232,859,1318,line
+./train_images/Set2_067 r.jpg,87,1316,1059,1400,line
+./train_images/Set11_250.jpg,264,121,1476,225,line
+./train_images/Set11_250.jpg,266,228,1459,307,line
+./train_images/Set11_250.jpg,273,324,1364,408,line
+./train_images/Set11_250.jpg,274,426,1482,509,line
+./train_images/Set11_250.jpg,264,518,1487,602,line
+./train_images/Set11_250.jpg,257,615,1475,715,line
+./train_images/Set11_250.jpg,260,726,1466,801,line
+./train_images/Set11_250.jpg,258,817,1481,907,line
+./train_images/Set11_250.jpg,259,914,1476,1005,line
+./train_images/Set11_250.jpg,258,1012,1474,1101,line
+./train_images/Set11_250.jpg,264,1101,1462,1195,line
+./train_images/Set11_250.jpg,260,1217,1480,1298,line
+./train_images/Set11_250.jpg,263,1311,1321,1386,line
+./train_images/Set11_250.jpg,257,1608,1461,1717,line
+./train_images/Set11_250.jpg,245,1740,1453,1828,line
+./train_images/Set11_250.jpg,247,1839,1448,1915,line
+./train_images/Set11_115.jpg,50,163,1270,283,line
+./train_images/Set11_115.jpg,45,280,1263,367,line
+./train_images/Set11_115.jpg,36,372,1245,472,line
+./train_images/Set11_115.jpg,38,474,1245,589,line
+./train_images/Set11_115.jpg,43,587,1272,672,line
+./train_images/Set11_115.jpg,36,667,1270,765,line
+./train_images/Set11_115.jpg,34,774,1269,887,line
+./train_images/Set11_115.jpg,34,887,1181,972,line
+./train_images/Set11_115.jpg,29,963,1261,1072,line
+./train_images/Set11_115.jpg,127,1070,1252,1160,line
+./train_images/Set11_115.jpg,32,1163,1256,1260,line
+./train_images/Set11_115.jpg,32,1260,1263,1369,line
+./train_images/Set11_115.jpg,49,1372,1256,1456,line
+./train_images/Set11_115.jpg,49,1467,1252,1558,line
+./train_images/Set11_115.jpg,199,1574,550,1649,line
+./train_images/Set11_115.jpg,49,1654,1269,1763,line
+./train_images/Set11_115.jpg,141,1769,1250,1839,line
+./train_images/Set11_115.jpg,14,1852,1270,1947,line
+./train_images/Set13_041 r.jpg,74,50,806,100,line
+./train_images/Set13_041 r.jpg,80,98,797,164,line
+./train_images/Set13_041 r.jpg,67,157,798,213,line
+./train_images/Set13_041 r.jpg,72,208,803,265,line
+./train_images/Set13_041 r.jpg,63,248,804,322,line
+./train_images/Set13_041 r.jpg,64,310,802,373,line
+./train_images/Set13_041 r.jpg,50,366,786,421,line
+./train_images/Set13_041 r.jpg,57,416,802,473,line
+./train_images/Set13_041 r.jpg,50,466,801,532,line
+./train_images/Set13_041 r.jpg,43,517,790,582,line
+./train_images/Set13_041 r.jpg,45,575,796,634,line
+./train_images/Set13_041 r.jpg,43,629,789,693,line
+./train_images/Set13_041 r.jpg,39,682,785,744,line
+./train_images/Set13_041 r.jpg,47,742,778,801,line
+./train_images/Set13_041 r.jpg,54,797,774,855,line
+./train_images/Set13_041 r.jpg,51,852,782,909,line
+./train_images/Set13_041 r.jpg,62,909,777,970,line
+./train_images/Set13_041 r.jpg,65,954,801,1021,line
+./train_images/Set13_041 r.jpg,67,1019,778,1080,line
+./train_images/Set13_041 r.jpg,66,1083,768,1141,line
+./train_images/Set13_041 r.jpg,68,1137,795,1190,line
+./train_images/Set13_041 r.jpg,67,1190,785,1235,line
+./train_images/Set13_041 r.jpg,67,1235,825,1290,line
+./train_images/Set13_041 r.jpg,71,1291,786,1347,line
+./train_images/Set13_041 r.jpg,71,1342,794,1393,line
+./train_images/Set13_041 r.jpg,70,1390,800,1448,line
+./train_images/Set12_241 r.jpg,72,27,684,97,line
+./train_images/Set12_241 r.jpg,73,75,703,153,line
+./train_images/Set12_241 r.jpg,58,141,681,198,line
+./train_images/Set12_241 r.jpg,56,228,655,292,line
+./train_images/Set12_241 r.jpg,55,341,667,396,line
+./train_images/Set12_241 r.jpg,62,393,617,438,line
+./train_images/Set12_241 r.jpg,52,537,664,595,line
+./train_images/Set12_241 r.jpg,47,685,666,732,line
+./train_images/Set12_241 r.jpg,42,832,575,877,line
+./train_images/Set12_241 r.jpg,30,925,671,976,line
+./train_images/Set12_241 r.jpg,32,1016,671,1075,line
+./train_images/Set12_217 r.jpg,32,67,805,129,line
+./train_images/Set12_217 r.jpg,30,130,810,202,line
+./train_images/Set12_217 r.jpg,23,208,854,272,line
+./train_images/Set12_217 r.jpg,26,272,847,331,line
+./train_images/Set12_217 r.jpg,29,388,820,469,line
+./train_images/Set12_217 r.jpg,31,529,834,611,line
+./train_images/Set12_217 r.jpg,27,605,815,681,line
+./train_images/Set12_217 r.jpg,21,676,811,754,line
+./train_images/Set12_217 r.jpg,26,794,843,878,line
+./train_images/Set12_217 r.jpg,18,875,837,943,line
+./train_images/Set12_217 r.jpg,27,996,852,1071,line
+./train_images/Set12_217 r.jpg,31,1132,804,1213,line
+./train_images/Set12_217 r.jpg,29,1214,810,1285,line
+./train_images/Set16_006.jpg,98,47,903,140,line
+./train_images/Set16_006.jpg,102,158,894,215,line
+./train_images/Set16_006.jpg,96,235,902,314,line
+./train_images/Set16_006.jpg,96,325,882,402,line
+./train_images/Set16_006.jpg,100,402,897,472,line
+./train_images/Set16_006.jpg,88,463,901,563,line
+./train_images/Set16_006.jpg,92,572,902,646,line
+./train_images/Set16_006.jpg,95,648,884,739,line
+./train_images/Set16_006.jpg,113,732,878,811,line
+./train_images/Set16_006.jpg,114,820,861,902,line
+./train_images/Set16_006.jpg,115,903,903,980,line
+./train_images/Set16_006.jpg,141,985,891,1073,line
+./train_images/Set16_006.jpg,145,1084,884,1144,line
+./train_images/Set16_006.jpg,146,1154,913,1228,line
+./train_images/Set16_006.jpg,136,1222,907,1307,line
+./train_images/Set16_006.jpg,140,1317,886,1397,line
+./train_images/Set6_0201.JPG,985,588,2622,720,line
+./train_images/Set6_0201.JPG,997,725,2620,822,line
+./train_images/Set6_0201.JPG,1008,837,2628,960,line
+./train_images/Set6_0201.JPG,1022,957,2628,1100,line
+./train_images/Set6_0201.JPG,1002,1100,2620,1242,line
+./train_images/Set6_0201.JPG,1031,1245,2674,1377,line
+./train_images/Set6_0201.JPG,1020,1382,2691,1511,line
+./train_images/Set6_0201.JPG,1031,1500,2660,1637,line
+./train_images/Set6_0201.JPG,1045,1628,2685,1771,line
+./train_images/Set6_0201.JPG,1034,1774,2657,1902,line
+./train_images/Set6_0201.JPG,1040,1917,2708,2042,line
+./train_images/Set6_0201.JPG,1028,2060,2654,2168,line
+./train_images/Set6_0201.JPG,1045,2180,2651,2314,line
+./train_images/Set6_0201.JPG,1042,2314,2662,2428,line
+./train_images/Set6_0201.JPG,1054,2442,2648,2565,line
+./train_images/Set6_0201.JPG,1045,2834,2654,2954,line
+./train_images/Set6_0201.JPG,1254,2965,2668,3085,line
+./train_images/Set6_0201.JPG,1274,3108,2720,3220,line
+./train_images/Set6_0201.JPG,1254,3228,2720,3354,line
+./train_images/Set6_0201.JPG,1285,3351,2708,3480,line
+./train_images/Set6_0201.JPG,3714,502,5268,717,line
+./train_images/Set6_0201.JPG,3714,697,5262,834,line
+./train_images/Set6_0201.JPG,3720,831,5220,977,line
+./train_images/Set6_0201.JPG,3720,954,5271,1108,line
+./train_images/Set6_0201.JPG,3717,1102,5231,1237,line
+./train_images/Set6_0201.JPG,3717,1240,5225,1394,line
+./train_images/Set6_0201.JPG,3717,1380,5254,1517,line
+./train_images/Set6_0201.JPG,3717,1502,5251,1645,line
+./train_images/Set6_0201.JPG,3705,1651,5265,1780,line
+./train_images/Set6_0201.JPG,3700,1771,5234,1917,line
+./train_images/Set6_0201.JPG,3714,1905,5254,2054,line
+./train_images/Set6_0201.JPG,3720,2037,5242,2174,line
+./train_images/Set6_0201.JPG,3714,2182,5248,2320,line
+./train_images/Set6_0201.JPG,3697,2308,5240,2457,line
+./train_images/Set6_0201.JPG,3694,2557,5240,2731,line
+./train_images/Set6_0201.JPG,3888,2728,5268,2837,line
+./train_images/Set6_0201.JPG,3891,2817,5251,2965,line
+./train_images/Set6_0201.JPG,3902,2980,5225,3102,line
+./train_images/Set6_0201.JPG,3905,3094,5231,3225,line
+./train_images/Set6_0201.JPG,3851,3251,5208,3362,line
+./train_images/Set6_0201.JPG,3931,3362,5225,3494,line
+./train_images/Set17_191 r.jpg,45,56,708,112,line
+./train_images/Set17_191 r.jpg,46,111,703,160,line
+./train_images/Set17_191 r.jpg,45,160,714,204,line
+./train_images/Set17_191 r.jpg,30,198,722,261,line
+./train_images/Set17_191 r.jpg,37,261,711,317,line
+./train_images/Set17_191 r.jpg,39,315,700,373,line
+./train_images/Set17_191 r.jpg,43,372,710,417,line
+./train_images/Set17_191 r.jpg,46,419,697,471,line
+./train_images/Set17_191 r.jpg,47,469,713,517,line
+./train_images/Set17_191 r.jpg,48,521,717,569,line
+./train_images/Set17_191 r.jpg,50,568,720,626,line
+./train_images/Set17_191 r.jpg,46,626,704,670,line
+./train_images/Set17_191 r.jpg,46,673,730,727,line
+./train_images/Set17_191 r.jpg,46,726,741,782,line
+./train_images/Set17_191 r.jpg,45,778,721,830,line
+./train_images/Set17_191 r.jpg,50,830,713,876,line
+./train_images/Set17_191 r.jpg,51,877,711,937,line
+./train_images/Set17_191 r.jpg,50,932,720,987,line
+./train_images/Set16_002.jpg,182,34,876,131,line
+./train_images/Set16_002.jpg,194,143,872,216,line
+./train_images/Set16_002.jpg,180,213,892,309,line
+./train_images/Set16_002.jpg,182,314,896,367,line
+./train_images/Set16_002.jpg,172,376,866,448,line
+./train_images/Set16_002.jpg,172,447,858,525,line
+./train_images/Set16_002.jpg,180,531,880,614,line
+./train_images/Set16_002.jpg,110,617,873,687,line
+./train_images/Set16_002.jpg,171,707,898,770,line
+./train_images/Set16_002.jpg,182,778,879,845,line
+./train_images/Set16_002.jpg,187,858,834,932,line
+./train_images/Set16_002.jpg,191,940,780,1017,line
+./train_images/Set16_002.jpg,292,1025,917,1090,line
+./train_images/Set16_002.jpg,205,1107,880,1162,line
+./train_images/Set16_002.jpg,200,1182,894,1241,line
+./train_images/Set16_002.jpg,197,1237,903,1316,line
+./train_images/Set16_002.jpg,488,1346,712,1400,line
+./train_images/Set14_047.jpg,128,253,871,357,line
+./train_images/Set14_047.jpg,153,353,819,419,line
+./train_images/Set14_047.jpg,158,419,831,492,line
+./train_images/Set14_047.jpg,158,488,861,561,line
+./train_images/Set14_047.jpg,158,561,857,631,line
+./train_images/Set14_047.jpg,141,625,840,716,line
+./train_images/Set14_047.jpg,149,712,806,779,line
+./train_images/Set14_047.jpg,142,772,832,848,line
+./train_images/Set14_047.jpg,145,844,819,910,line
+./train_images/Set14_047.jpg,128,902,851,984,line
+./train_images/Set14_047.jpg,140,976,824,1064,line
+./train_images/Set14_047.jpg,145,1058,823,1119,line
+./train_images/Set14_047.jpg,140,1111,844,1198,line
+./train_images/Set14_047.jpg,105,1188,806,1263,line
+./train_images/Set14_047.jpg,127,1255,835,1338,line
+./train_images/Set14_047.jpg,136,1331,854,1405,line
+./train_images/Set14_047.jpg,109,1385,868,1496,line
+./train_images/Set13_093 r.jpg,91,38,747,96,line
+./train_images/Set13_093 r.jpg,89,90,751,152,line
+./train_images/Set13_093 r.jpg,97,151,748,203,line
+./train_images/Set13_093 r.jpg,97,205,771,254,line
+./train_images/Set13_093 r.jpg,92,257,764,315,line
+./train_images/Set13_093 r.jpg,91,303,755,355,line
+./train_images/Set13_093 r.jpg,86,351,776,408,line
+./train_images/Set13_093 r.jpg,90,408,755,461,line
+./train_images/Set13_093 r.jpg,94,455,763,523,line
+./train_images/Set13_093 r.jpg,82,520,791,578,line
+./train_images/Set13_093 r.jpg,77,575,751,625,line
+./train_images/Set13_093 r.jpg,77,622,777,685,line
+./train_images/Set13_093 r.jpg,73,684,766,740,line
+./train_images/Set13_093 r.jpg,69,729,766,785,line
+./train_images/Set13_093 r.jpg,70,795,767,844,line
+./train_images/Set13_093 r.jpg,70,846,778,909,line
+./train_images/Set13_093 r.jpg,61,900,703,967,line
+./train_images/Set13_093 r.jpg,67,959,742,1021,line
+./train_images/Set13_093 r.jpg,63,1014,746,1076,line
+./train_images/Set13_093 r.jpg,64,1064,739,1123,line
+./train_images/Set13_093 r.jpg,59,1123,763,1191,line
+./train_images/Set13_093 r.jpg,63,1188,755,1242,line
+./train_images/Set13_093 r.jpg,65,1228,701,1289,line
+./train_images/Set13_093 r.jpg,65,1282,751,1342,line
+./train_images/Set13_093 r.jpg,58,1340,757,1391,line
+./train_images/Set13_093 r.jpg,55,1389,784,1461,line
+./train_images/Set11_292.jpg,267,150,1463,252,line
+./train_images/Set11_292.jpg,267,263,1459,352,line
+./train_images/Set11_292.jpg,270,352,1454,445,line
+./train_images/Set11_292.jpg,263,443,1465,543,line
+./train_images/Set11_292.jpg,261,547,1463,647,line
+./train_images/Set11_292.jpg,265,652,1452,745,line
+./train_images/Set11_292.jpg,252,752,1454,847,line
+./train_images/Set11_292.jpg,252,849,1450,945,line
+./train_images/Set11_292.jpg,249,945,1439,1036,line
+./train_images/Set11_292.jpg,252,1052,1452,1141,line
+./train_images/Set11_292.jpg,241,1130,1454,1229,line
+./train_images/Set11_292.jpg,243,1243,1459,1336,line
+./train_images/Set11_292.jpg,239,1341,1427,1434,line
+./train_images/Set11_292.jpg,245,1436,1456,1538,line
+./train_images/Set11_292.jpg,245,1541,1441,1629,line
+./train_images/Set11_292.jpg,238,1636,1409,1734,line
+./train_images/Set11_292.jpg,241,1736,1434,1830,line
+./train_images/Set11_292.jpg,245,1827,1454,1932,line
+./train_images/Set12_277 v.jpg,84,12,877,100,line
+./train_images/Set12_277 v.jpg,71,79,896,167,line
+./train_images/Set12_277 v.jpg,71,153,824,236,line
+./train_images/Set12_277 v.jpg,90,225,902,302,line
+./train_images/Set12_277 v.jpg,62,292,890,379,line
+./train_images/Set12_277 v.jpg,64,444,894,520,line
+./train_images/Set12_277 v.jpg,66,515,894,588,line
+./train_images/Set12_277 v.jpg,64,585,876,659,line
+./train_images/Set12_277 v.jpg,54,655,893,740,line
+./train_images/Set12_277 v.jpg,58,744,883,823,line
+./train_images/Set12_277 v.jpg,50,966,888,1027,line
+./train_images/Set12_277 v.jpg,55,1116,863,1172,line
+./train_images/Set14_528.jpg,272,257,948,322,line
+./train_images/Set14_528.jpg,265,322,914,397,line
+./train_images/Set14_528.jpg,268,401,924,465,line
+./train_images/Set14_528.jpg,268,473,933,540,line
+./train_images/Set14_528.jpg,262,548,978,620,line
+./train_images/Set14_528.jpg,256,632,938,693,line
+./train_images/Set14_528.jpg,266,698,929,750,line
+./train_images/Set14_528.jpg,261,760,982,844,line
+./train_images/Set14_528.jpg,250,844,914,916,line
+./train_images/Set14_528.jpg,258,926,994,997,line
+./train_images/Set14_528.jpg,260,998,921,1058,line
+./train_images/Set14_528.jpg,264,1057,882,1137,line
+./train_images/Set14_528.jpg,252,1144,896,1210,line
+./train_images/Set14_528.jpg,253,1213,962,1282,line
+./train_images/Set14_528.jpg,252,1289,953,1369,line
+./train_images/Set14_528.jpg,265,1370,840,1428,line
+./train_images/Set12_263 v.jpg,195,51,910,106,line
+./train_images/Set12_263 v.jpg,172,108,902,172,line
+./train_images/Set12_263 v.jpg,188,176,907,240,line
+./train_images/Set12_263 v.jpg,190,236,861,296,line
+./train_images/Set12_263 v.jpg,186,299,903,363,line
+./train_images/Set12_263 v.jpg,186,367,892,426,line
+./train_images/Set12_263 v.jpg,146,555,909,617,line
+./train_images/Set12_263 v.jpg,170,622,892,688,line
+./train_images/Set12_263 v.jpg,166,874,902,936,line
+./train_images/Set12_263 v.jpg,165,933,888,1012,line
+./train_images/Set12_263 v.jpg,164,1009,888,1073,line
+./train_images/Set17_171 v.jpg,164,82,875,146,line
+./train_images/Set17_171 v.jpg,163,298,855,359,line
+./train_images/Set17_171 v.jpg,157,360,875,413,line
+./train_images/Set17_171 v.jpg,156,408,869,462,line
+./train_images/Set17_171 v.jpg,156,461,850,513,line
+./train_images/Set17_171 v.jpg,158,520,866,572,line
+./train_images/Set17_171 v.jpg,156,619,823,685,line
+./train_images/Set17_171 v.jpg,156,727,839,784,line
+./train_images/Set17_171 v.jpg,150,780,842,832,line
+./train_images/Set17_171 v.jpg,147,837,849,895,line
+./train_images/Set17_171 v.jpg,145,887,857,946,line
+./train_images/Set8_541 v.jpg,91,102,978,163,line
+./train_images/Set8_541 v.jpg,89,163,914,227,line
+./train_images/Set8_541 v.jpg,81,224,900,300,line
+./train_images/Set8_541 v.jpg,88,298,949,363,line
+./train_images/Set8_541 v.jpg,84,360,950,431,line
+./train_images/Set8_541 v.jpg,85,431,949,489,line
+./train_images/Set8_541 v.jpg,86,497,962,572,line
+./train_images/Set8_541 v.jpg,79,692,949,773,line
+./train_images/Set8_541 v.jpg,82,772,913,833,line
+./train_images/Set14_310.jpg,290,259,913,332,line
+./train_images/Set14_310.jpg,297,327,941,390,line
+./train_images/Set14_310.jpg,298,390,865,488,line
+./train_images/Set14_310.jpg,289,485,952,560,line
+./train_images/Set14_310.jpg,286,555,934,627,line
+./train_images/Set14_310.jpg,282,626,938,707,line
+./train_images/Set14_310.jpg,288,704,920,761,line
+./train_images/Set14_310.jpg,279,777,959,851,line
+./train_images/Set14_310.jpg,277,847,957,920,line
+./train_images/Set14_310.jpg,283,929,952,1005,line
+./train_images/Set14_310.jpg,222,1002,867,1066,line
+./train_images/Set14_310.jpg,270,1079,873,1142,line
+./train_images/Set14_310.jpg,283,1153,939,1238,line
+./train_images/Set14_310.jpg,264,1223,932,1307,line
+./train_images/Set14_310.jpg,265,1297,930,1373,line
+./train_images/Set14_310.jpg,259,1372,896,1461,line
+./train_images/Set17_174 r.jpg,64,162,720,222,line
+./train_images/Set17_174 r.jpg,67,219,735,270,line
+./train_images/Set17_174 r.jpg,62,265,714,321,line
+./train_images/Set17_174 r.jpg,58,368,748,429,line
+./train_images/Set17_174 r.jpg,61,427,728,480,line
+./train_images/Set17_174 r.jpg,55,579,723,629,line
+./train_images/Set17_174 r.jpg,59,629,752,682,line
+./train_images/Set17_174 r.jpg,56,689,743,737,line
+./train_images/Set17_174 r.jpg,56,769,728,842,line
+./train_images/Set17_174 r.jpg,58,887,765,958,line
+./train_images/Set13_063 v.jpg,212,84,919,158,line
+./train_images/Set13_063 v.jpg,211,156,930,210,line
+./train_images/Set13_063 v.jpg,191,200,911,262,line
+./train_images/Set13_063 v.jpg,192,260,937,315,line
+./train_images/Set13_063 v.jpg,191,314,907,365,line
+./train_images/Set13_063 v.jpg,185,356,925,412,line
+./train_images/Set13_063 v.jpg,191,410,930,464,line
+./train_images/Set13_063 v.jpg,192,467,930,515,line
+./train_images/Set13_063 v.jpg,202,515,910,560,line
+./train_images/Set13_063 v.jpg,198,566,962,624,line
+./train_images/Set13_063 v.jpg,194,616,956,666,line
+./train_images/Set13_063 v.jpg,201,666,944,711,line
+./train_images/Set13_063 v.jpg,200,711,967,767,line
+./train_images/Set13_063 v.jpg,156,762,910,820,line
+./train_images/Set13_063 v.jpg,223,817,960,871,line
+./train_images/Set13_063 v.jpg,220,875,930,926,line
+./train_images/Set13_063 v.jpg,225,926,942,987,line
+./train_images/Set13_063 v.jpg,229,980,937,1033,line
+./train_images/Set13_063 v.jpg,226,1044,941,1091,line
+./train_images/Set13_063 v.jpg,217,1083,944,1139,line
+./train_images/Set13_063 v.jpg,214,1130,948,1200,line
+./train_images/Set13_063 v.jpg,210,1192,938,1248,line
+./train_images/Set13_063 v.jpg,225,1244,961,1298,line
+./train_images/Set13_063 v.jpg,215,1288,935,1352,line
+./train_images/Set13_063 v.jpg,217,1334,935,1397,line
+./train_images/Set13_063 v.jpg,201,1382,938,1475,line
+./train_images/Set16_003.jpg,53,60,824,140,line
+./train_images/Set16_003.jpg,62,137,866,247,line
+./train_images/Set16_003.jpg,63,232,827,317,line
+./train_images/Set16_003.jpg,56,313,818,405,line
+./train_images/Set16_003.jpg,63,402,907,498,line
+./train_images/Set16_003.jpg,45,492,829,580,line
+./train_images/Set16_003.jpg,46,578,845,650,line
+./train_images/Set16_003.jpg,44,645,872,758,line
+./train_images/Set16_003.jpg,47,750,813,834,line
+./train_images/Set16_003.jpg,35,802,774,911,line
+./train_images/Set16_003.jpg,33,917,853,993,line
+./train_images/Set16_003.jpg,27,992,805,1083,line
+./train_images/Set16_003.jpg,34,1072,822,1162,line
+./train_images/Set16_003.jpg,38,1170,878,1279,line
+./train_images/Set16_003.jpg,25,1263,802,1333,line
+./train_images/Set16_003.jpg,31,1333,831,1421,line
+./train_images/Set12_207 v.jpg,96,12,868,111,line
+./train_images/Set12_207 v.jpg,88,95,864,171,line
+./train_images/Set12_207 v.jpg,86,166,853,255,line
+./train_images/Set12_207 v.jpg,88,233,864,300,line
+./train_images/Set12_207 v.jpg,94,300,865,372,line
+./train_images/Set12_207 v.jpg,92,361,831,421,line
+./train_images/Set12_207 v.jpg,93,417,807,493,line
+./train_images/Set12_207 v.jpg,41,488,865,555,line
+./train_images/Set12_207 v.jpg,90,562,871,622,line
+./train_images/Set12_207 v.jpg,92,628,878,691,line
+./train_images/Set12_207 v.jpg,81,696,837,758,line
+./train_images/Set12_207 v.jpg,82,758,856,814,line
+./train_images/Set12_207 v.jpg,80,826,838,896,line
+./train_images/Set12_207 v.jpg,35,895,860,950,line
+./train_images/Set12_207 v.jpg,78,965,791,1024,line
+./train_images/Set12_207 v.jpg,27,1031,845,1092,line
+./train_images/Set12_207 v.jpg,67,1098,867,1152,line
+./train_images/Set12_207 v.jpg,67,1170,842,1214,line
+./train_images/Set12_207 v.jpg,64,1227,837,1297,line
+./train_images/Set11_142.jpg,233,212,1431,303,line
+./train_images/Set11_142.jpg,219,298,1429,408,line
+./train_images/Set11_142.jpg,219,403,1424,485,line
+./train_images/Set11_142.jpg,215,494,1422,568,line
+./train_images/Set11_142.jpg,217,582,1435,694,line
+./train_images/Set11_142.jpg,222,696,1429,785,line
+./train_images/Set11_142.jpg,222,782,1431,896,line
+./train_images/Set11_142.jpg,222,968,1419,1077,line
+./train_images/Set11_142.jpg,331,1068,1424,1128,line
+./train_images/Set11_142.jpg,326,1124,1408,1200,line
+./train_images/Set11_142.jpg,217,1198,1426,1291,line
+./train_images/Set11_142.jpg,333,1294,1426,1350,line
+./train_images/Set11_142.jpg,215,1363,1435,1435,line
+./train_images/Set11_142.jpg,215,1424,1433,1503,line
+./train_images/Set11_142.jpg,207,1498,1424,1577,line
+./train_images/Set11_142.jpg,203,1577,1426,1647,line
+./train_images/Set11_142.jpg,210,1643,1429,1719,line
+./train_images/Set11_142.jpg,210,1717,1417,1801,line
+./train_images/Set11_142.jpg,205,1800,1415,1898,line
+./train_images/Set11_142.jpg,349,1905,1421,1992,line
+./train_images/Set17_184 v.jpg,211,76,845,133,line
+./train_images/Set17_184 v.jpg,213,131,855,176,line
+./train_images/Set17_184 v.jpg,216,173,828,224,line
+./train_images/Set17_184 v.jpg,214,224,843,275,line
+./train_images/Set17_184 v.jpg,211,271,889,334,line
+./train_images/Set17_184 v.jpg,215,321,853,378,line
+./train_images/Set17_184 v.jpg,214,378,841,433,line
+./train_images/Set17_184 v.jpg,205,429,864,481,line
+./train_images/Set17_184 v.jpg,310,481,846,534,line
+./train_images/Set17_184 v.jpg,204,531,839,568,line
+./train_images/Set17_184 v.jpg,205,582,844,634,line
+./train_images/Set17_184 v.jpg,381,637,834,679,line
+./train_images/Set17_184 v.jpg,201,689,861,736,line
+./train_images/Set17_184 v.jpg,201,738,858,781,line
+./train_images/Set17_184 v.jpg,201,784,888,835,line
+./train_images/Set17_184 v.jpg,196,832,865,890,line
+./train_images/Set17_184 v.jpg,201,887,818,938,line
+./train_images/Set17_184 v.jpg,203,934,702,999,line
+./train_images/Set8_491 v.jpg,114,62,947,142,line
+./train_images/Set8_491 v.jpg,114,137,947,200,line
+./train_images/Set8_491 v.jpg,112,342,998,404,line
+./train_images/Set8_491 v.jpg,109,412,983,470,line
+./train_images/Set8_491 v.jpg,115,477,968,536,line
+./train_images/Set8_491 v.jpg,114,551,1007,607,line
+./train_images/Set8_491 v.jpg,120,761,1010,811,line
+./train_images/Set8_491 v.jpg,111,822,963,891,line
+./train_images/Set8_491 v.jpg,122,896,972,954,line
+./train_images/Set8_491 v.jpg,120,961,996,1017,line
+./train_images/Set8_491 v.jpg,123,1023,988,1090,line
+./train_images/Set8_491 v.jpg,128,1234,975,1288,line
+./train_images/Set11_039.jpg,11,142,1180,234,line
+./train_images/Set11_039.jpg,108,252,1191,319,line
+./train_images/Set11_039.jpg,34,336,1198,434,line
+./train_images/Set11_039.jpg,26,452,1204,527,line
+./train_images/Set11_039.jpg,32,552,1206,627,line
+./train_images/Set11_039.jpg,34,652,1209,722,line
+./train_images/Set11_039.jpg,42,737,1218,836,line
+./train_images/Set11_039.jpg,36,832,421,927,line
+./train_images/Set11_039.jpg,39,934,1226,1032,line
+./train_images/Set11_039.jpg,49,1022,1237,1142,line
+./train_images/Set11_039.jpg,47,1147,762,1219,line
+./train_images/Set11_039.jpg,55,1224,1247,1314,line
+./train_images/Set11_039.jpg,59,1329,1224,1411,line
+./train_images/Set11_039.jpg,62,1408,765,1509,line
+./train_images/Set11_039.jpg,63,1526,1267,1606,line
+./train_images/Set11_039.jpg,77,1619,1270,1716,line
+./train_images/Set11_039.jpg,83,1729,1288,1818,line
+./train_images/Set11_039.jpg,81,1818,1277,1901,line
+./train_images/Set16_004.jpg,146,86,891,163,line
+./train_images/Set16_004.jpg,150,162,886,241,line
+./train_images/Set16_004.jpg,144,251,867,327,line
+./train_images/Set16_004.jpg,144,340,894,420,line
+./train_images/Set16_004.jpg,139,432,896,500,line
+./train_images/Set16_004.jpg,132,511,887,583,line
+./train_images/Set16_004.jpg,134,593,882,659,line
+./train_images/Set16_004.jpg,225,658,862,739,line
+./train_images/Set16_004.jpg,143,737,881,826,line
+./train_images/Set16_004.jpg,158,836,891,916,line
+./train_images/Set16_004.jpg,156,926,904,1004,line
+./train_images/Set16_004.jpg,159,1009,903,1083,line
+./train_images/Set16_004.jpg,170,1093,906,1170,line
+./train_images/Set16_004.jpg,170,1165,944,1254,line
+./train_images/Set16_004.jpg,173,1250,903,1340,line
+./train_images/Set16_004.jpg,181,1334,905,1406,line
+./train_images/Set16_004.jpg,453,1409,870,1476,line
+./train_images/Set11_224.jpg,243,178,1439,270,line
+./train_images/Set11_224.jpg,250,280,1445,352,line
+./train_images/Set11_224.jpg,250,378,1445,450,line
+./train_images/Set11_224.jpg,247,454,1439,554,line
+./train_images/Set11_224.jpg,243,556,1447,654,line
+./train_images/Set11_224.jpg,252,660,1454,747,line
+./train_images/Set11_224.jpg,247,762,1443,841,line
+./train_images/Set11_224.jpg,249,862,1450,952,line
+./train_images/Set11_224.jpg,256,962,1452,1049,line
+./train_images/Set11_224.jpg,249,1058,1443,1147,line
+./train_images/Set11_224.jpg,250,1154,1449,1249,line
+./train_images/Set11_224.jpg,254,1260,1452,1349,line
+./train_images/Set11_224.jpg,258,1364,1454,1441,line
+./train_images/Set11_224.jpg,254,1452,1447,1549,line
+./train_images/Set11_224.jpg,254,1552,1454,1645,line
+./train_images/Set11_224.jpg,256,1633,1439,1747,line
+./train_images/Set11_224.jpg,256,1754,1452,1843,line
+./train_images/Set11_224.jpg,378,1849,1001,1939,line
+./train_images/Set13_115 v.jpg,260,28,963,111,line
+./train_images/Set13_115 v.jpg,265,113,955,166,line
+./train_images/Set13_115 v.jpg,275,165,969,220,line
+./train_images/Set13_115 v.jpg,269,216,942,276,line
+./train_images/Set13_115 v.jpg,248,276,982,327,line
+./train_images/Set13_115 v.jpg,291,326,989,373,line
+./train_images/Set13_115 v.jpg,302,375,960,432,line
+./train_images/Set13_115 v.jpg,294,426,932,483,line
+./train_images/Set13_115 v.jpg,290,483,958,535,line
+./train_images/Set13_115 v.jpg,301,532,938,585,line
+./train_images/Set13_115 v.jpg,289,579,973,652,line
+./train_images/Set13_115 v.jpg,296,654,983,696,line
+./train_images/Set13_115 v.jpg,300,689,971,750,line
+./train_images/Set13_115 v.jpg,297,744,950,801,line
+./train_images/Set13_115 v.jpg,301,803,972,858,line
+./train_images/Set13_115 v.jpg,304,861,957,916,line
+./train_images/Set13_115 v.jpg,298,916,945,966,line
+./train_images/Set13_115 v.jpg,291,960,953,1019,line
+./train_images/Set13_115 v.jpg,286,1019,966,1083,line
+./train_images/Set13_115 v.jpg,285,1080,978,1130,line
+./train_images/Set13_115 v.jpg,279,1132,986,1188,line
+./train_images/Set13_115 v.jpg,280,1189,973,1253,line
+./train_images/Set13_115 v.jpg,290,1251,977,1298,line
+./train_images/Set13_115 v.jpg,290,1303,948,1365,line
+./train_images/Set13_115 v.jpg,288,1365,920,1414,line
+./train_images/Set13_115 v.jpg,279,1411,957,1475,line
+./train_images/Set2_005 r.jpg,103,86,1018,183,line
+./train_images/Set2_005 r.jpg,139,183,993,268,line
+./train_images/Set2_005 r.jpg,140,263,1003,342,line
+./train_images/Set2_005 r.jpg,144,342,1001,429,line
+./train_images/Set2_005 r.jpg,155,432,1019,501,line
+./train_images/Set2_005 r.jpg,159,504,1004,590,line
+./train_images/Set2_005 r.jpg,159,590,1036,668,line
+./train_images/Set2_005 r.jpg,132,652,1024,755,line
+./train_images/Set2_005 r.jpg,139,747,1045,827,line
+./train_images/Set2_005 r.jpg,139,824,1044,888,line
+./train_images/Set2_005 r.jpg,132,881,1014,968,line
+./train_images/Set2_005 r.jpg,150,972,1037,1060,line
+./train_images/Set2_005 r.jpg,150,1055,1014,1136,line
+./train_images/Set2_005 r.jpg,149,1127,1026,1198,line
+./train_images/Set2_005 r.jpg,147,1198,1037,1296,line
+./train_images/Set2_005 r.jpg,137,1301,1016,1365,line
+./train_images/Set2_037 v.jpg,158,77,1062,156,line
+./train_images/Set2_037 v.jpg,158,167,1065,249,line
+./train_images/Set2_037 v.jpg,159,252,1050,344,line
+./train_images/Set2_037 v.jpg,152,347,1055,422,line
+./train_images/Set2_037 v.jpg,153,443,1043,501,line
+./train_images/Set2_037 v.jpg,158,502,1037,582,line
+./train_images/Set2_037 v.jpg,150,591,1058,674,line
+./train_images/Set2_037 v.jpg,129,679,1064,755,line
+./train_images/Set2_037 v.jpg,128,774,1052,832,line
+./train_images/Set2_037 v.jpg,129,843,1079,917,line
+./train_images/Set2_037 v.jpg,129,923,1082,1002,line
+./train_images/Set2_037 v.jpg,131,1014,1071,1086,line
+./train_images/Set2_037 v.jpg,140,1092,1077,1162,line
+./train_images/Set2_037 v.jpg,144,1168,1089,1250,line
+./train_images/Set2_037 v.jpg,153,1250,1091,1316,line
+./train_images/Set2_037 v.jpg,149,1314,1092,1411,line
+./train_images/Set13_085 r.jpg,73,76,746,138,line
+./train_images/Set13_085 r.jpg,81,137,791,204,line
+./train_images/Set13_085 r.jpg,84,201,752,247,line
+./train_images/Set13_085 r.jpg,87,243,771,296,line
+./train_images/Set13_085 r.jpg,93,296,734,341,line
+./train_images/Set13_085 r.jpg,82,336,781,395,line
+./train_images/Set13_085 r.jpg,84,393,761,447,line
+./train_images/Set13_085 r.jpg,83,440,724,503,line
+./train_images/Set13_085 r.jpg,73,492,768,548,line
+./train_images/Set13_085 r.jpg,72,546,795,605,line
+./train_images/Set13_085 r.jpg,80,601,742,660,line
+./train_images/Set13_085 r.jpg,68,656,777,711,line
+./train_images/Set13_085 r.jpg,75,706,762,763,line
+./train_images/Set13_085 r.jpg,71,757,826,816,line
+./train_images/Set13_085 r.jpg,33,808,792,874,line
+./train_images/Set13_085 r.jpg,65,873,771,924,line
+./train_images/Set13_085 r.jpg,65,921,767,980,line
+./train_images/Set13_085 r.jpg,48,976,765,1032,line
+./train_images/Set13_085 r.jpg,48,1032,765,1080,line
+./train_images/Set13_085 r.jpg,58,1084,792,1133,line
+./train_images/Set13_085 r.jpg,61,1136,783,1195,line
+./train_images/Set13_085 r.jpg,62,1193,722,1245,line
+./train_images/Set13_085 r.jpg,58,1244,736,1301,line
+./train_images/Set13_085 r.jpg,57,1301,732,1356,line
+./train_images/Set13_085 r.jpg,58,1356,761,1404,line
+./train_images/Set13_085 r.jpg,63,1408,776,1473,line
+./train_images/Set2_119 r.jpg,116,79,917,156,line
+./train_images/Set2_119 r.jpg,133,154,870,208,line
+./train_images/Set2_119 r.jpg,134,216,952,301,line
+./train_images/Set2_119 r.jpg,135,286,939,368,line
+./train_images/Set2_119 r.jpg,128,362,816,447,line
+./train_images/Set2_119 r.jpg,122,425,878,506,line
+./train_images/Set2_119 r.jpg,106,498,893,581,line
+./train_images/Set2_119 r.jpg,120,581,895,642,line
+./train_images/Set2_119 r.jpg,125,640,858,709,line
+./train_images/Set2_119 r.jpg,127,702,837,765,line
+./train_images/Set2_119 r.jpg,129,764,877,824,line
+./train_images/Set2_119 r.jpg,127,821,901,900,line
+./train_images/Set2_119 r.jpg,119,885,859,950,line
+./train_images/Set2_119 r.jpg,110,941,891,1029,line
+./train_images/Set2_119 r.jpg,104,1005,886,1091,line
+./train_images/Set2_119 r.jpg,91,1074,822,1172,line
+./train_images/Set2_119 r.jpg,81,1143,833,1243,line
+./train_images/Set2_119 r.jpg,66,1208,850,1314,line
+./train_images/Set2_058 v.jpg,173,88,1066,172,line
+./train_images/Set2_058 v.jpg,165,173,1078,257,line
+./train_images/Set2_058 v.jpg,163,256,1066,331,line
+./train_images/Set2_058 v.jpg,160,326,1085,408,line
+./train_images/Set2_058 v.jpg,152,475,1086,571,line
+./train_images/Set2_058 v.jpg,152,562,1082,650,line
+./train_images/Set2_058 v.jpg,155,715,1075,808,line
+./train_images/Set2_058 v.jpg,152,804,1084,885,line
+./train_images/Set2_058 v.jpg,155,888,1075,963,line
+./train_images/Set2_058 v.jpg,156,949,1060,1033,line
+./train_images/Set2_058 v.jpg,159,1024,1055,1117,line
+./train_images/Set12_262 r.jpg,18,77,667,144,line
+./train_images/Set12_262 r.jpg,38,146,667,202,line
+./train_images/Set12_262 r.jpg,38,209,702,269,line
+./train_images/Set12_262 r.jpg,33,267,708,326,line
+./train_images/Set12_262 r.jpg,32,326,691,387,line
+./train_images/Set12_262 r.jpg,29,383,712,452,line
+./train_images/Set12_262 r.jpg,30,444,674,519,line
+./train_images/Set12_262 r.jpg,17,631,712,704,line
+./train_images/Set12_262 r.jpg,13,698,686,768,line
+./train_images/Set12_262 r.jpg,13,758,718,818,line
+./train_images/Set12_262 r.jpg,13,816,646,884,line
+./train_images/Set12_262 r.jpg,10,1013,661,1074,line
+./train_images/Set12_262 r.jpg,9,1066,690,1129,line
+./train_images/Set12_262 r.jpg,6,1126,653,1190,line
+./train_images/Set11_082.jpg,262,162,1447,264,line
+./train_images/Set11_082.jpg,262,272,1460,368,line
+./train_images/Set11_082.jpg,266,370,1460,462,line
+./train_images/Set11_082.jpg,258,468,1456,570,line
+./train_images/Set11_082.jpg,258,564,1445,658,line
+./train_images/Set11_082.jpg,260,662,1447,745,line
+./train_images/Set11_082.jpg,256,760,1452,854,line
+./train_images/Set11_082.jpg,256,852,1447,960,line
+./train_images/Set11_082.jpg,320,975,1439,1050,line
+./train_images/Set11_082.jpg,252,1075,1452,1162,line
+./train_images/Set11_082.jpg,385,1172,1454,1243,line
+./train_images/Set11_082.jpg,254,1275,1447,1352,line
+./train_images/Set11_082.jpg,250,1360,1439,1452,line
+./train_images/Set11_082.jpg,254,1468,1443,1537,line
+./train_images/Set11_082.jpg,247,1545,1452,1637,line
+./train_images/Set11_082.jpg,252,1660,1431,1739,line
+./train_images/Set11_082.jpg,252,1756,970,1847,line
+./train_images/Set11_082.jpg,252,1841,1439,1937,line
+./train_images/Set14_059.jpg,135,253,815,337,line
+./train_images/Set14_059.jpg,176,339,823,404,line
+./train_images/Set14_059.jpg,198,406,814,482,line
+./train_images/Set14_059.jpg,164,476,857,550,line
+./train_images/Set14_059.jpg,168,546,868,606,line
+./train_images/Set14_059.jpg,168,604,823,689,line
+./train_images/Set14_059.jpg,173,687,871,767,line
+./train_images/Set14_059.jpg,173,764,896,829,line
+./train_images/Set14_059.jpg,168,825,842,889,line
+./train_images/Set14_059.jpg,165,890,864,962,line
+./train_images/Set14_059.jpg,160,968,798,1053,line
+./train_images/Set14_059.jpg,156,1046,795,1126,line
+./train_images/Set14_059.jpg,157,1117,820,1171,line
+./train_images/Set14_059.jpg,154,1167,821,1248,line
+./train_images/Set14_059.jpg,162,1243,885,1315,line
+./train_images/Set14_059.jpg,160,1312,804,1389,line
+./train_images/Set14_059.jpg,157,1385,807,1526,line
+./train_images/Set13_068 v.jpg,294,50,954,102,line
+./train_images/Set13_068 v.jpg,290,106,944,154,line
+./train_images/Set13_068 v.jpg,290,156,954,209,line
+./train_images/Set13_068 v.jpg,289,213,952,262,line
+./train_images/Set13_068 v.jpg,290,267,960,312,line
+./train_images/Set13_068 v.jpg,289,312,983,362,line
+./train_images/Set13_068 v.jpg,286,360,986,421,line
+./train_images/Set13_068 v.jpg,291,422,960,474,line
+./train_images/Set13_068 v.jpg,293,470,1001,527,line
+./train_images/Set13_068 v.jpg,293,532,955,575,line
+./train_images/Set13_068 v.jpg,283,578,967,635,line
+./train_images/Set13_068 v.jpg,293,643,943,685,line
+./train_images/Set13_068 v.jpg,283,689,947,739,line
+./train_images/Set13_068 v.jpg,286,744,975,801,line
+./train_images/Set13_068 v.jpg,283,802,966,854,line
+./train_images/Set13_068 v.jpg,287,848,939,902,line
+./train_images/Set13_068 v.jpg,297,905,970,954,line
+./train_images/Set13_068 v.jpg,291,959,982,1016,line
+./train_images/Set13_068 v.jpg,293,1021,977,1077,line
+./train_images/Set13_068 v.jpg,295,1074,981,1125,line
+./train_images/Set13_068 v.jpg,295,1125,972,1181,line
+./train_images/Set13_068 v.jpg,298,1167,985,1233,line
+./train_images/Set13_068 v.jpg,302,1224,967,1291,line
+./train_images/Set13_068 v.jpg,304,1281,960,1337,line
+./train_images/Set13_068 v.jpg,305,1331,967,1390,line
+./train_images/Set13_068 v.jpg,295,1386,981,1463,line
+./train_images/Set17_181 r.jpg,77,62,713,107,line
+./train_images/Set17_181 r.jpg,75,111,788,168,line
+./train_images/Set17_181 r.jpg,77,166,801,210,line
+./train_images/Set17_181 r.jpg,76,224,760,268,line
+./train_images/Set17_181 r.jpg,77,266,809,312,line
+./train_images/Set17_181 r.jpg,76,380,794,436,line
+./train_images/Set17_181 r.jpg,78,492,767,531,line
+./train_images/Set17_181 r.jpg,76,746,755,797,line
+./train_images/Set17_181 r.jpg,81,800,775,848,line
+./train_images/Set17_181 r.jpg,80,905,752,956,line
+./train_images/Set17_181 r.jpg,72,966,745,1022,line
+./train_images/Set14_119.jpg,111,232,775,307,line
+./train_images/Set14_119.jpg,121,314,775,380,line
+./train_images/Set14_119.jpg,121,381,787,452,line
+./train_images/Set14_119.jpg,124,452,781,512,line
+./train_images/Set14_119.jpg,130,521,822,592,line
+./train_images/Set14_119.jpg,132,604,781,667,line
+./train_images/Set14_119.jpg,127,667,818,741,line
+./train_images/Set14_119.jpg,128,741,828,804,line
+./train_images/Set14_119.jpg,135,817,808,881,line
+./train_images/Set14_119.jpg,122,884,807,951,line
+./train_images/Set14_119.jpg,124,955,850,1028,line
+./train_images/Set14_119.jpg,124,1025,837,1102,line
+./train_images/Set14_119.jpg,121,1098,818,1165,line
+./train_images/Set14_119.jpg,131,1165,791,1240,line
+./train_images/Set14_119.jpg,127,1244,790,1298,line
+./train_images/Set14_119.jpg,120,1302,765,1377,line
+./train_images/Set14_119.jpg,124,1368,812,1457,line
+./train_images/Set6_0048.JPG,992,488,2592,619,line
+./train_images/Set6_0048.JPG,990,621,2559,745,line
+./train_images/Set6_0048.JPG,985,750,2602,897,line
+./train_images/Set6_0048.JPG,983,885,2652,1033,line
+./train_images/Set6_0048.JPG,978,1028,2542,1152,line
+./train_images/Set6_0048.JPG,976,1164,2576,1285,line
+./train_images/Set6_0048.JPG,978,1292,2535,1428,line
+./train_images/Set6_0048.JPG,978,1430,2519,1550,line
+./train_images/Set6_0048.JPG,964,1564,2609,1702,line
+./train_images/Set6_0048.JPG,971,1697,2533,1850,line
+./train_images/Set6_0048.JPG,957,1838,2633,1952,line
+./train_images/Set6_0048.JPG,978,1961,2566,2097,line
+./train_images/Set6_0048.JPG,961,2092,2578,2228,line
+./train_images/Set6_0048.JPG,971,2252,2583,2354,line
+./train_images/Set6_0048.JPG,964,2371,2633,2514,line
+./train_images/Set6_0048.JPG,973,2521,2495,2621,line
+./train_images/Set6_0048.JPG,971,2635,2523,2747,line
+./train_images/Set6_0048.JPG,959,2754,2502,2876,line
+./train_images/Set6_0048.JPG,959,2888,2559,3000,line
+./train_images/Set6_0048.JPG,961,3021,2571,3142,line
+./train_images/Set6_0048.JPG,952,3145,2519,3290,line
+./train_images/Set6_0048.JPG,954,3288,2554,3426,line
+./train_images/Set6_0048.JPG,3480,485,4976,621,line
+./train_images/Set6_0048.JPG,3476,628,5061,733,line
+./train_images/Set6_0048.JPG,3476,790,4995,888,line
+./train_images/Set6_0048.JPG,3483,919,5002,1011,line
+./train_images/Set6_0048.JPG,3495,1064,4961,1152,line
+./train_images/Set6_0048.JPG,3500,1190,4995,1280,line
+./train_images/Set6_0048.JPG,3502,1326,5019,1421,line
+./train_images/Set6_0048.JPG,3519,1452,4192,1557,line
+./train_images/Set6_0048.JPG,3511,1588,5040,1680,line
+./train_images/Set6_0048.JPG,3514,1711,5090,1823,line
+./train_images/Set6_0048.JPG,3521,1847,5011,1952,line
+./train_images/Set6_0048.JPG,3519,1995,5040,2104,line
+./train_images/Set6_0048.JPG,3523,2123,5021,2223,line
+./train_images/Set6_0048.JPG,3535,2247,5021,2373,line
+./train_images/Set6_0048.JPG,3528,2390,4050,2497,line
+./train_images/Set6_0048.JPG,3507,2509,5078,2616,line
+./train_images/Set6_0048.JPG,3673,2654,5078,2747,line
+./train_images/Set6_0048.JPG,3688,2771,5054,2880,line
+./train_images/Set6_0048.JPG,3680,2890,5047,2988,line
+./train_images/Set6_0048.JPG,3735,3035,5023,3119,line
+./train_images/Set6_0048.JPG,3723,3173,5014,3261,line
+./train_images/Set6_0048.JPG,3647,3292,5142,3440,line
+./train_images/Set13_021 r.jpg,131,10,772,110,line
+./train_images/Set13_021 r.jpg,138,103,753,165,line
+./train_images/Set13_021 r.jpg,131,157,786,207,line
+./train_images/Set13_021 r.jpg,132,211,793,280,line
+./train_images/Set13_021 r.jpg,128,273,545,318,line
+./train_images/Set13_021 r.jpg,123,327,768,382,line
+./train_images/Set13_021 r.jpg,120,386,795,433,line
+./train_images/Set13_021 r.jpg,120,433,787,488,line
+./train_images/Set13_021 r.jpg,113,487,781,547,line
+./train_images/Set13_021 r.jpg,121,560,837,607,line
+./train_images/Set13_021 r.jpg,120,613,796,660,line
+./train_images/Set13_021 r.jpg,121,658,813,721,line
+./train_images/Set13_021 r.jpg,58,713,785,790,line
+./train_images/Set13_021 r.jpg,118,788,740,836,line
+./train_images/Set13_021 r.jpg,123,838,751,891,line
+./train_images/Set13_021 r.jpg,141,886,800,952,line
+./train_images/Set13_021 r.jpg,113,942,791,1015,line
+./train_images/Set13_021 r.jpg,111,1005,772,1063,line
+./train_images/Set13_021 r.jpg,115,1061,842,1120,line
+./train_images/Set13_021 r.jpg,111,1118,802,1186,line
+./train_images/Set13_021 r.jpg,110,1182,781,1232,line
+./train_images/Set13_021 r.jpg,113,1230,778,1290,line
+./train_images/Set13_021 r.jpg,112,1298,792,1353,line
+./train_images/Set13_021 r.jpg,113,1410,686,1480,line
+./train_images/Set14_144.jpg,257,218,1037,311,line
+./train_images/Set14_144.jpg,309,311,1062,373,line
+./train_images/Set14_144.jpg,314,381,1050,465,line
+./train_images/Set14_144.jpg,309,472,1050,555,line
+./train_images/Set14_144.jpg,311,557,1040,611,line
+./train_images/Set14_144.jpg,288,621,1060,713,line
+./train_images/Set14_144.jpg,319,726,1045,795,line
+./train_images/Set14_144.jpg,270,775,1047,878,line
+./train_images/Set14_144.jpg,308,885,1029,970,line
+./train_images/Set14_144.jpg,311,972,1062,1036,line
+./train_images/Set14_144.jpg,288,1040,1040,1127,line
+./train_images/Set14_144.jpg,311,1137,1042,1214,line
+./train_images/Set14_144.jpg,306,1208,1026,1286,line
+./train_images/Set14_144.jpg,311,1288,1067,1370,line
+./train_images/Set14_144.jpg,306,1372,1077,1449,line
+./train_images/Set14_144.jpg,314,1449,1057,1536,line
+./train_images/Set14_144.jpg,191,1537,1078,1663,line
+./train_images/Set14_126.jpg,225,179,962,259,line
+./train_images/Set14_126.jpg,240,256,964,332,line
+./train_images/Set14_126.jpg,245,328,945,423,line
+./train_images/Set14_126.jpg,242,414,1000,501,line
+./train_images/Set14_126.jpg,235,496,1004,587,line
+./train_images/Set14_126.jpg,184,575,1018,689,line
+./train_images/Set14_126.jpg,237,664,968,762,line
+./train_images/Set14_126.jpg,229,753,979,834,line
+./train_images/Set14_126.jpg,234,837,995,921,line
+./train_images/Set14_126.jpg,235,918,989,1014,line
+./train_images/Set14_126.jpg,235,1009,971,1087,line
+./train_images/Set14_126.jpg,218,1082,985,1170,line
+./train_images/Set14_126.jpg,232,1165,970,1250,line
+./train_images/Set14_126.jpg,232,1242,975,1342,line
+./train_images/Set14_126.jpg,184,1328,948,1401,line
+./train_images/Set14_126.jpg,229,1426,953,1501,line
+./train_images/Set14_126.jpg,237,1501,962,1625,line
+./train_images/Set14_351.jpg,92,259,705,346,line
+./train_images/Set14_351.jpg,98,352,745,411,line
+./train_images/Set14_351.jpg,92,422,743,476,line
+./train_images/Set14_351.jpg,76,492,757,559,line
+./train_images/Set14_351.jpg,94,571,769,645,line
+./train_images/Set14_351.jpg,100,647,726,725,line
+./train_images/Set14_351.jpg,104,726,723,814,line
+./train_images/Set14_351.jpg,107,809,800,871,line
+./train_images/Set14_351.jpg,105,877,777,969,line
+./train_images/Set14_351.jpg,102,963,773,1012,line
+./train_images/Set14_351.jpg,108,1018,754,1102,line
+./train_images/Set14_351.jpg,112,1102,822,1180,line
+./train_images/Set14_351.jpg,116,1180,763,1261,line
+./train_images/Set14_351.jpg,115,1257,791,1361,line
+./train_images/Set14_351.jpg,115,1346,818,1414,line
+./train_images/Set14_351.jpg,112,1405,780,1481,line
+./train_images/Set12_225 r.jpg,22,25,786,75,line
+./train_images/Set12_225 r.jpg,17,153,796,205,line
+./train_images/Set12_225 r.jpg,25,283,788,349,line
+./train_images/Set12_225 r.jpg,28,350,794,408,line
+./train_images/Set12_225 r.jpg,26,405,810,466,line
+./train_images/Set12_225 r.jpg,19,534,801,614,line
+./train_images/Set12_225 r.jpg,22,613,795,683,line
+./train_images/Set12_225 r.jpg,23,682,791,740,line
+./train_images/Set12_225 r.jpg,93,874,810,949,line
+./train_images/Set12_225 r.jpg,33,939,816,1016,line
+./train_images/Set12_225 r.jpg,32,1017,806,1073,line
+./train_images/Set12_225 r.jpg,84,1139,817,1217,line
+./train_images/Set13_121 v.jpg,106,30,913,89,line
+./train_images/Set13_121 v.jpg,109,82,946,129,line
+./train_images/Set13_121 v.jpg,110,124,912,184,line
+./train_images/Set13_121 v.jpg,116,182,910,236,line
+./train_images/Set13_121 v.jpg,117,233,950,284,line
+./train_images/Set13_121 v.jpg,102,282,949,334,line
+./train_images/Set13_121 v.jpg,112,336,913,373,line
+./train_images/Set13_121 v.jpg,105,368,917,428,line
+./train_images/Set13_121 v.jpg,105,421,933,485,line
+./train_images/Set13_121 v.jpg,106,480,918,541,line
+./train_images/Set13_121 v.jpg,104,530,934,577,line
+./train_images/Set13_121 v.jpg,106,572,917,622,line
+./train_images/Set13_121 v.jpg,102,618,926,676,line
+./train_images/Set13_121 v.jpg,102,669,932,729,line
+./train_images/Set13_121 v.jpg,97,717,946,780,line
+./train_images/Set13_121 v.jpg,96,776,929,832,line
+./train_images/Set13_121 v.jpg,112,826,917,876,line
+./train_images/Set13_121 v.jpg,113,882,933,944,line
+./train_images/Set13_121 v.jpg,117,942,884,993,line
+./train_images/Set13_121 v.jpg,57,973,970,1045,line
+./train_images/Set13_121 v.jpg,140,1041,949,1093,line
+./train_images/Set13_121 v.jpg,132,1081,769,1128,line
+./train_images/Set13_121 v.jpg,96,1110,925,1174,line
+./train_images/Set13_121 v.jpg,120,1170,933,1228,line
+./train_images/Set13_121 v.jpg,122,1221,925,1282,line
+./train_images/Set13_121 v.jpg,134,1276,956,1349,line
+./train_images/Set2_043 v.jpg,147,16,1080,171,line
+./train_images/Set2_043 v.jpg,142,169,1085,253,line
+./train_images/Set2_043 v.jpg,145,252,1080,316,line
+./train_images/Set2_043 v.jpg,145,312,1074,401,line
+./train_images/Set2_043 v.jpg,152,401,1067,470,line
+./train_images/Set2_043 v.jpg,150,464,1077,552,line
+./train_images/Set2_043 v.jpg,150,547,1059,626,line
+./train_images/Set2_043 v.jpg,153,638,1064,714,line
+./train_images/Set2_043 v.jpg,154,718,1080,783,line
+./train_images/Set2_043 v.jpg,149,788,1056,873,line
+./train_images/Set2_043 v.jpg,153,876,1084,959,line
+./train_images/Set2_043 v.jpg,152,961,1073,1036,line
+./train_images/Set2_043 v.jpg,160,1050,1085,1125,line
+./train_images/Set2_043 v.jpg,153,1123,1078,1200,line
+./train_images/Set2_043 v.jpg,154,1202,1052,1288,line
+./train_images/Set2_043 v.jpg,153,1283,1066,1381,line
+./train_images/Set2_043 v.jpg,153,1361,1023,1480,line
+./train_images/Set14_380.jpg,287,274,965,345,line
+./train_images/Set14_380.jpg,289,343,953,427,line
+./train_images/Set14_380.jpg,284,418,928,493,line
+./train_images/Set14_380.jpg,284,489,883,560,line
+./train_images/Set14_380.jpg,283,556,884,633,line
+./train_images/Set14_380.jpg,281,634,913,724,line
+./train_images/Set14_380.jpg,268,716,928,783,line
+./train_images/Set14_380.jpg,268,783,945,859,line
+./train_images/Set14_380.jpg,272,856,900,934,line
+./train_images/Set14_380.jpg,272,931,889,1003,line
+./train_images/Set14_380.jpg,275,1001,903,1092,line
+./train_images/Set14_380.jpg,268,1087,915,1154,line
+./train_images/Set14_380.jpg,268,1150,919,1213,line
+./train_images/Set14_380.jpg,257,1221,931,1316,line
+./train_images/Set14_380.jpg,254,1309,846,1384,line
+./train_images/Set14_380.jpg,253,1378,862,1460,line
+./train_images/Set12_210 r.jpg,58,44,772,113,line
+./train_images/Set12_210 r.jpg,59,108,778,181,line
+./train_images/Set12_210 r.jpg,59,176,771,248,line
+./train_images/Set12_210 r.jpg,60,251,769,307,line
+./train_images/Set12_210 r.jpg,59,321,772,377,line
+./train_images/Set12_210 r.jpg,60,371,788,434,line
+./train_images/Set12_210 r.jpg,60,431,752,506,line
+./train_images/Set12_210 r.jpg,58,508,761,563,line
+./train_images/Set12_210 r.jpg,58,564,790,639,line
+./train_images/Set12_210 r.jpg,51,643,768,715,line
+./train_images/Set12_210 r.jpg,56,710,769,784,line
+./train_images/Set12_210 r.jpg,51,754,756,842,line
+./train_images/Set12_210 r.jpg,50,837,746,908,line
+./train_images/Set12_210 r.jpg,54,896,740,974,line
+./train_images/Set12_210 r.jpg,47,963,751,1047,line
+./train_images/Set12_210 r.jpg,53,1026,739,1109,line
+./train_images/Set12_210 r.jpg,51,1080,731,1189,line
+./train_images/Set12_210 r.jpg,55,1153,732,1267,line
+./train_images/Set12_210 r.jpg,55,1218,797,1324,line
+./train_images/Set11_328.jpg,245,160,1386,276,line
+./train_images/Set11_328.jpg,243,252,1447,378,line
+./train_images/Set11_328.jpg,249,372,1447,482,line
+./train_images/Set11_328.jpg,250,472,1445,568,line
+./train_images/Set11_328.jpg,252,558,1443,660,line
+./train_images/Set11_328.jpg,247,649,1449,758,line
+./train_images/Set11_328.jpg,249,752,1445,870,line
+./train_images/Set11_328.jpg,252,858,1439,960,line
+./train_images/Set11_328.jpg,300,962,1394,1047,line
+./train_images/Set11_328.jpg,245,1043,1445,1168,line
+./train_images/Set11_328.jpg,292,1164,1264,1243,line
+./train_images/Set11_328.jpg,243,1227,1456,1349,line
+./train_images/Set11_328.jpg,398,1347,1260,1441,line
+./train_images/Set11_328.jpg,249,1429,1458,1556,line
+./train_images/Set11_328.jpg,249,1550,1449,1643,line
+./train_images/Set11_328.jpg,239,1643,1458,1764,line
+./train_images/Set11_328.jpg,241,1756,1450,1839,line
+./train_images/Set11_328.jpg,247,1837,1449,1927,line
+./train_images/Set2_066 v.jpg,55,188,989,294,line
+./train_images/Set2_066 v.jpg,72,351,932,444,line
+./train_images/Set2_066 v.jpg,75,501,947,589,line
+./train_images/Set2_066 v.jpg,73,585,963,654,line
+./train_images/Set2_066 v.jpg,80,729,892,799,line
+./train_images/Set2_066 v.jpg,66,880,547,961,line
+./train_images/Set2_066 v.jpg,63,1027,920,1102,line
+./train_images/Set2_066 v.jpg,54,1241,927,1354,line
+./train_images/Set14_517.jpg,198,217,843,295,line
+./train_images/Set14_517.jpg,201,291,837,375,line
+./train_images/Set14_517.jpg,197,387,855,471,line
+./train_images/Set14_517.jpg,197,466,858,543,line
+./train_images/Set14_517.jpg,195,535,844,597,line
+./train_images/Set14_517.jpg,190,598,851,672,line
+./train_images/Set14_517.jpg,191,670,850,750,line
+./train_images/Set14_517.jpg,190,752,836,840,line
+./train_images/Set14_517.jpg,190,836,882,912,line
+./train_images/Set14_517.jpg,193,909,831,971,line
+./train_images/Set14_517.jpg,183,972,908,1054,line
+./train_images/Set14_517.jpg,194,1050,879,1132,line
+./train_images/Set14_517.jpg,191,1128,833,1194,line
+./train_images/Set14_517.jpg,190,1186,883,1283,line
+./train_images/Set14_517.jpg,190,1286,858,1356,line
+./train_images/Set14_517.jpg,195,1356,964,1452,line
+./train_images/Set2_028 v.jpg,175,143,1020,263,line
+./train_images/Set2_028 v.jpg,179,257,1030,350,line
+./train_images/Set2_028 v.jpg,186,344,1033,427,line
+./train_images/Set2_028 v.jpg,156,424,1026,528,line
+./train_images/Set2_028 v.jpg,157,524,1036,624,line
+./train_images/Set2_028 v.jpg,147,620,1027,718,line
+./train_images/Set2_028 v.jpg,147,714,1036,836,line
+./train_images/Set2_028 v.jpg,156,831,1043,926,line
+./train_images/Set2_028 v.jpg,172,918,1042,1010,line
+./train_images/Set2_028 v.jpg,178,1005,1037,1110,line
+./train_images/Set2_028 v.jpg,173,1102,1062,1192,line
+./train_images/Set2_028 v.jpg,178,1179,1033,1298,line
+./train_images/Set2_028 v.jpg,186,1292,1037,1382,line
+./train_images/Set8_469 r.jpg,32,91,914,182,line
+./train_images/Set8_469 r.jpg,34,174,874,234,line
+./train_images/Set8_469 r.jpg,34,231,838,307,line
+./train_images/Set8_469 r.jpg,40,435,868,508,line
+./train_images/Set8_469 r.jpg,34,501,865,576,line
+./train_images/Set8_469 r.jpg,37,567,883,629,line
+./train_images/Set8_469 r.jpg,40,626,843,708,line
+./train_images/Set8_469 r.jpg,43,829,910,900,line
+./train_images/Set8_469 r.jpg,38,894,894,968,line
+./train_images/Set8_469 r.jpg,35,964,895,1034,line
+./train_images/Set11_285.jpg,30,165,1208,263,line
+./train_images/Set11_285.jpg,18,240,1230,363,line
+./train_images/Set11_285.jpg,22,355,1212,475,line
+./train_images/Set11_285.jpg,26,465,1220,557,line
+./train_images/Set11_285.jpg,18,542,1210,665,line
+./train_images/Set11_285.jpg,18,655,1206,765,line
+./train_images/Set11_285.jpg,75,755,1204,853,line
+./train_images/Set11_285.jpg,16,846,1212,973,line
+./train_images/Set11_285.jpg,14,965,1214,1038,line
+./train_images/Set11_285.jpg,12,1038,1212,1140,line
+./train_images/Set11_285.jpg,10,1132,1206,1255,line
+./train_images/Set11_285.jpg,12,1244,1206,1346,line
+./train_images/Set11_285.jpg,20,1336,1202,1432,line
+./train_images/Set11_285.jpg,20,1434,1206,1544,line
+./train_images/Set11_285.jpg,16,1542,1210,1634,line
+./train_images/Set11_285.jpg,10,1626,1208,1744,line
+./train_images/Set11_285.jpg,16,1738,1193,1834,line
+./train_images/Set11_285.jpg,12,1826,1202,1961,line
+./train_images/Set11_170.jpg,68,186,1421,307,line
+./train_images/Set11_170.jpg,311,300,1343,390,line
+./train_images/Set11_170.jpg,219,382,1423,496,line
+./train_images/Set11_170.jpg,219,482,1423,588,line
+./train_images/Set11_170.jpg,341,580,1219,692,line
+./train_images/Set11_170.jpg,80,639,1435,809,line
+./train_images/Set11_170.jpg,319,786,1431,888,line
+./train_images/Set11_170.jpg,225,882,1388,984,line
+./train_images/Set11_170.jpg,225,968,1437,1090,line
+./train_images/Set11_170.jpg,233,1082,1435,1164,line
+./train_images/Set11_170.jpg,237,1162,1439,1274,line
+./train_images/Set11_170.jpg,233,1266,1443,1370,line
+./train_images/Set11_170.jpg,235,1362,1447,1484,line
+./train_images/Set11_170.jpg,241,1478,1449,1566,line
+./train_images/Set11_170.jpg,241,1558,1452,1652,line
+./train_images/Set11_170.jpg,245,1647,1450,1770,line
+./train_images/Set11_170.jpg,247,1758,1447,1866,line
+./train_images/Set11_170.jpg,243,1856,1452,1972,line
+./train_images/Set17_173 v.jpg,170,107,845,157,line
+./train_images/Set17_173 v.jpg,175,156,843,200,line
+./train_images/Set17_173 v.jpg,171,250,830,300,line
+./train_images/Set17_173 v.jpg,173,308,865,357,line
+./train_images/Set17_173 v.jpg,173,406,836,466,line
+./train_images/Set17_173 v.jpg,171,463,841,525,line
+./train_images/Set17_173 v.jpg,168,616,852,681,line
+./train_images/Set17_173 v.jpg,167,675,861,745,line
+./train_images/Set17_173 v.jpg,171,785,861,836,line
+./train_images/Set17_173 v.jpg,167,833,828,886,line
+./train_images/Set17_173 v.jpg,168,942,890,992,line
+./train_images/Set13_069 v.jpg,337,17,949,100,line
+./train_images/Set13_069 v.jpg,332,98,965,152,line
+./train_images/Set13_069 v.jpg,341,150,950,201,line
+./train_images/Set13_069 v.jpg,322,194,965,250,line
+./train_images/Set13_069 v.jpg,328,258,961,300,line
+./train_images/Set13_069 v.jpg,332,295,955,359,line
+./train_images/Set13_069 v.jpg,259,353,940,422,line
+./train_images/Set13_069 v.jpg,297,413,953,468,line
+./train_images/Set13_069 v.jpg,308,462,938,525,line
+./train_images/Set13_069 v.jpg,310,507,955,574,line
+./train_images/Set13_069 v.jpg,301,564,965,625,line
+./train_images/Set13_069 v.jpg,298,611,931,685,line
+./train_images/Set13_069 v.jpg,316,674,974,725,line
+./train_images/Set13_069 v.jpg,320,729,974,795,line
+./train_images/Set13_069 v.jpg,302,794,958,846,line
+./train_images/Set13_069 v.jpg,297,840,1011,919,line
+./train_images/Set13_069 v.jpg,302,905,982,976,line
+./train_images/Set13_069 v.jpg,304,952,959,1031,line
+./train_images/Set13_069 v.jpg,316,1017,995,1082,line
+./train_images/Set13_069 v.jpg,316,1073,971,1126,line
+./train_images/Set13_069 v.jpg,320,1117,982,1174,line
+./train_images/Set13_069 v.jpg,319,1168,952,1244,line
+./train_images/Set13_069 v.jpg,320,1235,935,1289,line
+./train_images/Set13_069 v.jpg,340,1283,973,1344,line
+./train_images/Set13_069 v.jpg,332,1335,995,1395,line
+./train_images/Set13_069 v.jpg,326,1382,973,1470,line
+./train_images/Set2_053 r.jpg,80,101,1025,192,line
+./train_images/Set2_053 r.jpg,67,185,1026,282,line
+./train_images/Set2_053 r.jpg,74,269,1025,380,line
+./train_images/Set2_053 r.jpg,73,373,1028,466,line
+./train_images/Set2_053 r.jpg,71,441,1025,550,line
+./train_images/Set2_053 r.jpg,66,546,1055,626,line
+./train_images/Set2_053 r.jpg,67,619,1012,712,line
+./train_images/Set2_053 r.jpg,64,703,994,801,line
+./train_images/Set2_053 r.jpg,62,791,998,892,line
+./train_images/Set2_053 r.jpg,64,869,1028,976,line
+./train_images/Set2_053 r.jpg,74,973,1019,1082,line
+./train_images/Set2_053 r.jpg,71,1055,1012,1167,line
+./train_images/Set2_053 r.jpg,73,1157,1012,1249,line
+./train_images/Set2_053 r.jpg,91,1246,1028,1357,line
+./train_images/Set11_345.jpg,57,51,1257,188,line
+./train_images/Set11_345.jpg,55,180,1255,288,line
+./train_images/Set11_345.jpg,57,260,1257,391,line
+./train_images/Set11_345.jpg,75,386,1251,482,line
+./train_images/Set11_345.jpg,71,468,1262,577,line
+./train_images/Set11_345.jpg,77,568,1251,684,line
+./train_images/Set11_345.jpg,73,666,1255,780,line
+./train_images/Set11_345.jpg,77,773,1255,884,line
+./train_images/Set11_345.jpg,71,866,1264,984,line
+./train_images/Set11_345.jpg,66,973,1262,1077,line
+./train_images/Set11_345.jpg,71,1060,1251,1171,line
+./train_images/Set11_345.jpg,66,1160,1246,1273,line
+./train_images/Set11_345.jpg,68,1257,1253,1375,line
+./train_images/Set11_345.jpg,80,1348,1251,1475,line
+./train_images/Set11_345.jpg,77,1462,1284,1573,line
+./train_images/Set11_345.jpg,55,1560,1264,1671,line
+./train_images/Set11_345.jpg,77,1662,1284,1766,line
+./train_images/Set11_345.jpg,80,1751,1208,1857,line
+./train_images/Set11_345.jpg,80,1846,1253,1975,line
+./train_images/Set6_0140.JPG,816,562,2335,685,line
+./train_images/Set6_0140.JPG,816,679,2379,791,line
+./train_images/Set6_0140.JPG,816,835,2366,943,line
+./train_images/Set6_0140.JPG,820,941,2383,1066,line
+./train_images/Set6_0140.JPG,812,1089,2356,1214,line
+./train_images/Set6_0140.JPG,822,1233,2377,1345,line
+./train_images/Set6_0140.JPG,808,1347,2422,1483,line
+./train_images/Set6_0140.JPG,822,1475,2375,1627,line
+./train_images/Set6_0140.JPG,835,1604,2381,1756,line
+./train_images/Set6_0140.JPG,837,1747,2372,1877,line
+./train_images/Set6_0140.JPG,833,1875,2325,2000,line
+./train_images/Set6_0140.JPG,854,2014,2375,2129,line
+./train_images/Set6_0140.JPG,841,2131,2341,2275,line
+./train_images/Set6_0140.JPG,843,2285,2375,2408,line
+./train_images/Set6_0140.JPG,862,2412,2408,2543,line
+./train_images/Set6_0140.JPG,864,2575,1920,2658,line
+./train_images/Set6_0140.JPG,847,2666,2431,2808,line
+./train_images/Set6_0140.JPG,864,2808,1245,2931,line
+./train_images/Set6_0140.JPG,827,2937,2364,3050,line
+./train_images/Set6_0140.JPG,960,3068,2389,3181,line
+./train_images/Set6_0140.JPG,1010,3172,2441,3316,line
+./train_images/Set6_0140.JPG,945,3306,2537,3462,line
+./train_images/Set6_0140.JPG,3543,552,5100,720,line
+./train_images/Set6_0140.JPG,3547,670,5089,808,line
+./train_images/Set6_0140.JPG,3552,850,5110,970,line
+./train_images/Set6_0140.JPG,3550,972,5120,1087,line
+./train_images/Set6_0140.JPG,3547,1095,5066,1229,line
+./train_images/Set6_0140.JPG,3543,1237,5089,1370,line
+./train_images/Set6_0140.JPG,3547,1375,5118,1495,line
+./train_images/Set6_0140.JPG,3552,1514,5058,1625,line
+./train_images/Set6_0140.JPG,3533,1656,5102,1747,line
+./train_images/Set6_0140.JPG,3537,1785,5112,1891,line
+./train_images/Set6_0140.JPG,3543,1902,5143,2025,line
+./train_images/Set6_0140.JPG,3552,2060,5016,2154,line
+./train_images/Set6_0140.JPG,3550,2162,5141,2310,line
+./train_images/Set6_0140.JPG,3537,2295,4408,2414,line
+./train_images/Set6_0140.JPG,3533,2427,5097,2562,line
+./train_images/Set6_0140.JPG,3664,2585,5070,2677,line
+./train_images/Set6_0140.JPG,3729,2708,5083,2802,line
+./train_images/Set6_0140.JPG,3735,2820,5106,2931,line
+./train_images/Set6_0140.JPG,3731,2958,5056,3047,line
+./train_images/Set6_0140.JPG,3735,3087,5112,3191,line
+./train_images/Set6_0140.JPG,3683,3233,5104,3322,line
+./train_images/Set6_0140.JPG,3545,3352,5066,3447,line
+./train_images/Set8_482 r.jpg,40,85,900,191,line
+./train_images/Set8_482 r.jpg,52,350,891,429,line
+./train_images/Set8_482 r.jpg,50,417,905,491,line
+./train_images/Set8_482 r.jpg,50,487,940,561,line
+./train_images/Set8_482 r.jpg,52,557,896,614,line
+./train_images/Set8_482 r.jpg,52,624,612,708,line
+./train_images/Set8_482 r.jpg,52,1138,891,1205,line
+./train_images/Set8_482 r.jpg,59,1194,849,1289,line
+./train_images/Set2_040 v.jpg,153,20,1079,120,line
+./train_images/Set2_040 v.jpg,155,96,1083,214,line
+./train_images/Set2_040 v.jpg,166,198,1074,279,line
+./train_images/Set2_040 v.jpg,157,277,1085,370,line
+./train_images/Set2_040 v.jpg,161,383,1075,461,line
+./train_images/Set2_040 v.jpg,155,453,1074,551,line
+./train_images/Set2_040 v.jpg,155,535,1096,642,line
+./train_images/Set2_040 v.jpg,148,644,1096,725,line
+./train_images/Set2_040 v.jpg,148,720,1075,794,line
+./train_images/Set2_040 v.jpg,120,785,1094,898,line
+./train_images/Set2_040 v.jpg,137,901,1096,981,line
+./train_images/Set2_040 v.jpg,118,977,1061,1075,line
+./train_images/Set2_040 v.jpg,116,1075,1079,1177,line
+./train_images/Set2_040 v.jpg,101,1155,1092,1237,line
+./train_images/Set2_040 v.jpg,96,1218,1096,1327,line
+./train_images/Set14_505.jpg,177,235,862,311,line
+./train_images/Set14_505.jpg,176,310,864,388,line
+./train_images/Set14_505.jpg,191,384,884,461,line
+./train_images/Set14_505.jpg,183,461,840,550,line
+./train_images/Set14_505.jpg,186,540,838,628,line
+./train_images/Set14_505.jpg,186,623,849,696,line
+./train_images/Set14_505.jpg,186,684,886,774,line
+./train_images/Set14_505.jpg,184,757,896,855,line
+./train_images/Set14_505.jpg,181,845,874,920,line
+./train_images/Set14_505.jpg,169,910,869,1003,line
+./train_images/Set14_505.jpg,186,994,903,1093,line
+./train_images/Set14_505.jpg,194,1074,888,1157,line
+./train_images/Set14_505.jpg,191,1154,845,1230,line
+./train_images/Set14_505.jpg,183,1223,869,1316,line
+./train_images/Set14_505.jpg,191,1296,859,1400,line
+./train_images/Set14_505.jpg,186,1386,864,1466,line
+./train_images/Set17_180 v.jpg,129,59,847,120,line
+./train_images/Set17_180 v.jpg,121,178,811,238,line
+./train_images/Set17_180 v.jpg,114,275,860,347,line
+./train_images/Set17_180 v.jpg,116,385,820,459,line
+./train_images/Set17_180 v.jpg,113,595,809,661,line
+./train_images/Set17_180 v.jpg,117,660,802,725,line
+./train_images/Set17_180 v.jpg,108,769,830,838,line
+./train_images/Set17_180 v.jpg,100,829,819,892,line
+./train_images/Set17_180 v.jpg,108,930,798,1004,line
+./train_images/Set14_194.jpg,294,235,922,325,line
+./train_images/Set14_194.jpg,295,310,898,385,line
+./train_images/Set14_194.jpg,297,380,920,450,line
+./train_images/Set14_194.jpg,300,449,931,517,line
+./train_images/Set14_194.jpg,301,511,886,586,line
+./train_images/Set14_194.jpg,304,586,886,664,line
+./train_images/Set14_194.jpg,305,650,888,732,line
+./train_images/Set14_194.jpg,286,711,886,777,line
+./train_images/Set14_194.jpg,305,770,888,855,line
+./train_images/Set14_194.jpg,305,849,877,926,line
+./train_images/Set14_194.jpg,311,919,910,1001,line
+./train_images/Set14_194.jpg,311,982,925,1064,line
+./train_images/Set14_194.jpg,277,1053,905,1132,line
+./train_images/Set14_194.jpg,314,1114,923,1192,line
+./train_images/Set14_194.jpg,317,1180,919,1261,line
+./train_images/Set14_194.jpg,311,1229,944,1319,line
+./train_images/Set14_194.jpg,304,1301,914,1422,line
+./train_images/Set17_170 r.jpg,25,197,716,277,line
+./train_images/Set17_170 r.jpg,212,301,718,355,line
+./train_images/Set17_170 r.jpg,27,350,685,424,line
+./train_images/Set17_170 r.jpg,28,419,715,484,line
+./train_images/Set17_170 r.jpg,31,516,733,572,line
+./train_images/Set17_170 r.jpg,34,624,693,681,line
+./train_images/Set17_170 r.jpg,43,840,734,890,line
+./train_images/Set17_170 r.jpg,46,895,744,954,line
+./train_images/Set17_170 r.jpg,37,948,707,1016,line
+./train_images/Set8_497 v.jpg,116,74,935,164,line
+./train_images/Set8_497 v.jpg,135,161,941,219,line
+./train_images/Set8_497 v.jpg,128,210,944,279,line
+./train_images/Set8_497 v.jpg,120,274,946,358,line
+./train_images/Set8_497 v.jpg,128,349,949,422,line
+./train_images/Set8_497 v.jpg,126,398,949,489,line
+./train_images/Set8_497 v.jpg,125,468,983,552,line
+./train_images/Set8_497 v.jpg,126,519,958,616,line
+./train_images/Set8_497 v.jpg,122,604,980,682,line
+./train_images/Set8_497 v.jpg,120,673,979,752,line
+./train_images/Set8_497 v.jpg,122,740,979,816,line
+./train_images/Set8_497 v.jpg,120,805,962,888,line
+./train_images/Set8_497 v.jpg,123,859,961,946,line
+./train_images/Set8_497 v.jpg,123,935,962,1022,line
+./train_images/Set8_497 v.jpg,125,989,961,1088,line
+./train_images/Set8_497 v.jpg,128,1067,973,1143,line
+./train_images/Set8_497 v.jpg,128,1132,962,1201,line
+./train_images/Set8_497 v.jpg,70,1189,992,1282,line
+./train_images/Set8_477 r.jpg,61,113,905,191,line
+./train_images/Set8_477 r.jpg,61,188,871,250,line
+./train_images/Set8_477 r.jpg,60,496,888,575,line
+./train_images/Set8_477 r.jpg,66,570,880,636,line
+./train_images/Set8_477 r.jpg,71,633,896,721,line
+./train_images/Set8_477 r.jpg,75,711,876,790,line
+./train_images/Set8_477 r.jpg,198,786,680,851,line
+./train_images/Set8_477 r.jpg,78,1226,895,1308,line
+./train_images/Set11_028.jpg,297,145,1481,250,line
+./train_images/Set11_028.jpg,287,241,1200,343,line
+./train_images/Set11_028.jpg,291,335,1472,458,line
+./train_images/Set11_028.jpg,283,427,1429,550,line
+./train_images/Set11_028.jpg,287,537,1477,645,line
+./train_images/Set11_028.jpg,279,618,1464,735,line
+./train_images/Set11_028.jpg,277,720,1470,827,line
+./train_images/Set11_028.jpg,277,812,1429,939,line
+./train_images/Set11_028.jpg,268,927,1468,1020,line
+./train_images/Set11_028.jpg,266,1010,1454,1133,line
+./train_images/Set11_028.jpg,268,1125,1275,1222,line
+./train_images/Set11_028.jpg,258,1212,1454,1320,line
+./train_images/Set11_028.jpg,256,1300,1450,1420,line
+./train_images/Set11_028.jpg,258,1410,1456,1520,line
+./train_images/Set11_028.jpg,258,1506,1441,1622,line
+./train_images/Set11_028.jpg,247,1610,1443,1733,line
+./train_images/Set11_028.jpg,243,1718,1437,1812,line
+./train_images/Set11_028.jpg,239,1802,1450,1925,line
+./train_images/Set2_008 v.jpg,102,75,877,164,line
+./train_images/Set2_008 v.jpg,102,145,881,245,line
+./train_images/Set2_008 v.jpg,100,227,904,320,line
+./train_images/Set2_008 v.jpg,93,308,900,389,line
+./train_images/Set2_008 v.jpg,93,377,870,493,line
+./train_images/Set2_008 v.jpg,79,468,883,560,line
+./train_images/Set2_008 v.jpg,87,537,866,656,line
+./train_images/Set2_008 v.jpg,83,631,850,704,line
+./train_images/Set2_008 v.jpg,85,683,887,779,line
+./train_images/Set2_008 v.jpg,87,768,879,856,line
+./train_images/Set2_008 v.jpg,85,837,852,916,line
+./train_images/Set2_008 v.jpg,87,891,893,1018,line
+./train_images/Set2_008 v.jpg,77,991,875,1083,line
+./train_images/Set2_008 v.jpg,83,1062,854,1154,line
+./train_images/Set2_008 v.jpg,85,1127,885,1229,line
+./train_images/Set2_008 v.jpg,89,1193,864,1339,line
+./train_images/Set11_111.jpg,135,174,930,297,line
+./train_images/Set11_111.jpg,56,284,1215,402,line
+./train_images/Set11_111.jpg,120,374,1243,494,line
+./train_images/Set11_111.jpg,46,482,1235,600,line
+./train_images/Set11_111.jpg,51,579,1241,694,line
+./train_images/Set11_111.jpg,48,661,1205,779,line
+./train_images/Set11_111.jpg,53,761,1241,887,line
+./train_images/Set11_111.jpg,48,866,1241,984,line
+./train_images/Set11_111.jpg,43,969,1256,1076,line
+./train_images/Set11_111.jpg,43,1051,1248,1192,line
+./train_images/Set11_111.jpg,41,1171,1235,1282,line
+./train_images/Set11_111.jpg,51,1261,1233,1366,line
+./train_images/Set11_111.jpg,46,1348,1238,1474,line
+./train_images/Set11_111.jpg,48,1456,1238,1576,line
+./train_images/Set11_111.jpg,43,1556,1235,1674,line
+./train_images/Set11_111.jpg,43,1653,1235,1771,line
+./train_images/Set11_111.jpg,46,1753,1243,1882,line
+./train_images/Set11_111.jpg,51,1848,1246,1976,line
+./train_images/Set11_315.jpg,68,197,1146,293,line
+./train_images/Set11_315.jpg,28,277,1226,397,line
+./train_images/Set11_315.jpg,26,384,1231,504,line
+./train_images/Set11_315.jpg,26,480,1215,597,line
+./train_images/Set11_315.jpg,22,577,1224,695,line
+./train_images/Set11_315.jpg,20,677,1193,793,line
+./train_images/Set11_315.jpg,22,782,1206,886,line
+./train_images/Set11_315.jpg,17,873,1213,975,line
+./train_images/Set11_315.jpg,15,982,1206,1091,line
+./train_images/Set11_315.jpg,17,1053,1220,1191,line
+./train_images/Set11_315.jpg,15,1184,1208,1286,line
+./train_images/Set11_315.jpg,15,1268,1202,1384,line
+./train_images/Set11_315.jpg,13,1357,1217,1491,line
+./train_images/Set11_315.jpg,15,1475,1215,1571,line
+./train_images/Set11_315.jpg,13,1568,1217,1675,line
+./train_images/Set11_315.jpg,15,1664,1200,1777,line
+./train_images/Set11_315.jpg,11,1773,1206,1877,line
+./train_images/Set11_315.jpg,6,1866,1211,1977,line
+./train_images/Set13_047 r.jpg,86,141,729,241,line
+./train_images/Set13_047 r.jpg,89,236,717,297,line
+./train_images/Set13_047 r.jpg,60,267,790,358,line
+./train_images/Set13_047 r.jpg,44,328,737,405,line
+./train_images/Set13_047 r.jpg,43,385,770,444,line
+./train_images/Set13_047 r.jpg,51,433,727,505,line
+./train_images/Set13_047 r.jpg,43,477,735,537,line
+./train_images/Set13_047 r.jpg,48,533,735,594,line
+./train_images/Set13_047 r.jpg,45,572,731,650,line
+./train_images/Set13_047 r.jpg,45,631,785,690,line
+./train_images/Set13_047 r.jpg,50,682,712,750,line
+./train_images/Set13_047 r.jpg,54,736,786,798,line
+./train_images/Set13_047 r.jpg,51,790,766,852,line
+./train_images/Set13_047 r.jpg,47,833,767,908,line
+./train_images/Set13_047 r.jpg,85,891,758,966,line
+./train_images/Set13_047 r.jpg,72,945,759,1013,line
+./train_images/Set13_047 r.jpg,68,1001,725,1063,line
+./train_images/Set13_047 r.jpg,60,1037,744,1114,line
+./train_images/Set13_047 r.jpg,62,1104,741,1175,line
+./train_images/Set13_047 r.jpg,71,1144,755,1208,line
+./train_images/Set13_047 r.jpg,79,1193,783,1256,line
+./train_images/Set13_047 r.jpg,63,1247,740,1306,line
+./train_images/Set13_047 r.jpg,66,1294,732,1359,line
+./train_images/Set13_047 r.jpg,79,1350,706,1431,line
+./train_images/Set13_047 r.jpg,77,1406,768,1483,line
+./train_images/Set13_069 r.jpg,109,30,794,115,line
+./train_images/Set13_069 r.jpg,109,91,801,164,line
+./train_images/Set13_069 r.jpg,108,142,778,224,line
+./train_images/Set13_069 r.jpg,112,204,750,275,line
+./train_images/Set13_069 r.jpg,116,250,782,321,line
+./train_images/Set13_069 r.jpg,101,305,779,376,line
+./train_images/Set13_069 r.jpg,98,357,810,431,line
+./train_images/Set13_069 r.jpg,97,404,838,475,line
+./train_images/Set13_069 r.jpg,95,464,838,531,line
+./train_images/Set13_069 r.jpg,89,510,773,586,line
+./train_images/Set13_069 r.jpg,104,567,812,646,line
+./train_images/Set13_069 r.jpg,101,617,816,705,line
+./train_images/Set13_069 r.jpg,98,673,686,753,line
+./train_images/Set13_069 r.jpg,38,747,750,815,line
+./train_images/Set13_069 r.jpg,102,801,772,871,line
+./train_images/Set13_069 r.jpg,110,853,778,932,line
+./train_images/Set13_069 r.jpg,91,905,790,976,line
+./train_images/Set13_069 r.jpg,93,960,806,1036,line
+./train_images/Set13_069 r.jpg,89,1028,805,1106,line
+./train_images/Set13_069 r.jpg,89,1072,778,1150,line
+./train_images/Set13_069 r.jpg,87,1120,809,1206,line
+./train_images/Set13_069 r.jpg,90,1179,754,1252,line
+./train_images/Set13_069 r.jpg,83,1234,765,1309,line
+./train_images/Set13_069 r.jpg,87,1294,769,1363,line
+./train_images/Set13_069 r.jpg,93,1346,779,1415,line
+./train_images/Set13_069 r.jpg,89,1390,776,1476,line
+./train_images/Set14_190.jpg,375,236,985,304,line
+./train_images/Set14_190.jpg,385,298,1013,377,line
+./train_images/Set14_190.jpg,388,370,1006,445,line
+./train_images/Set14_190.jpg,381,450,1004,519,line
+./train_images/Set14_190.jpg,373,500,998,577,line
+./train_images/Set14_190.jpg,383,567,1006,642,line
+./train_images/Set14_190.jpg,385,640,1009,724,line
+./train_images/Set14_190.jpg,386,713,998,798,line
+./train_images/Set14_190.jpg,390,791,998,878,line
+./train_images/Set14_190.jpg,377,870,988,942,line
+./train_images/Set14_190.jpg,332,931,996,995,line
+./train_images/Set14_190.jpg,370,983,1032,1077,line
+./train_images/Set14_190.jpg,385,1054,986,1139,line
+./train_images/Set14_190.jpg,386,1121,875,1206,line
+./train_images/Set14_190.jpg,352,1195,1006,1281,line
+./train_images/Set14_190.jpg,411,1270,993,1336,line
+./train_images/Set14_190.jpg,381,1324,981,1450,line
+./train_images/Set8_615 v.jpeg,196,119,945,209,line
+./train_images/Set8_615 v.jpeg,200,183,929,252,line
+./train_images/Set8_615 v.jpeg,198,237,939,321,line
+./train_images/Set8_615 v.jpeg,196,1019,944,1095,line
+./train_images/Set8_615 v.jpeg,188,1083,973,1150,line
+./train_images/Set8_615 v.jpeg,191,1139,937,1218,line
+./train_images/Set11_219.jpg,104,133,1264,241,line
+./train_images/Set11_219.jpg,62,231,1270,339,line
+./train_images/Set11_219.jpg,60,327,1279,429,line
+./train_images/Set11_219.jpg,72,422,1270,535,line
+./train_images/Set11_219.jpg,70,527,1266,635,line
+./train_images/Set11_219.jpg,66,633,1275,725,line
+./train_images/Set11_219.jpg,66,720,1277,839,line
+./train_images/Set11_219.jpg,68,829,1270,935,line
+./train_images/Set11_219.jpg,68,922,1279,1033,line
+./train_images/Set11_219.jpg,75,1022,1277,1120,line
+./train_images/Set11_219.jpg,72,1110,1291,1229,line
+./train_images/Set11_219.jpg,77,1214,1277,1322,line
+./train_images/Set11_219.jpg,77,1302,1275,1420,line
+./train_images/Set11_219.jpg,72,1406,1272,1529,line
+./train_images/Set11_219.jpg,181,1516,1283,1622,line
+./train_images/Set11_219.jpg,89,1610,1283,1727,line
+./train_images/Set11_219.jpg,164,1710,1135,1806,line
+./train_images/Set11_219.jpg,79,1789,1289,1935,line
+./train_images/Set2_091 v.jpg,64,121,987,189,line
+./train_images/Set2_091 v.jpg,67,178,1016,266,line
+./train_images/Set2_091 v.jpg,70,256,1000,335,line
+./train_images/Set2_091 v.jpg,63,307,1027,387,line
+./train_images/Set2_091 v.jpg,53,375,1004,463,line
+./train_images/Set2_091 v.jpg,36,435,992,509,line
+./train_images/Set2_091 v.jpg,35,501,1000,572,line
+./train_images/Set2_091 v.jpg,26,567,984,644,line
+./train_images/Set2_091 v.jpg,18,618,978,700,line
+./train_images/Set2_091 v.jpg,44,690,1003,756,line
+./train_images/Set2_091 v.jpg,23,756,989,821,line
+./train_images/Set2_091 v.jpg,38,809,987,886,line
+./train_images/Set2_091 v.jpg,32,878,980,960,line
+./train_images/Set2_091 v.jpg,89,949,980,1032,line
+./train_images/Set2_091 v.jpg,70,1026,992,1100,line
+./train_images/Set2_091 v.jpg,236,1086,975,1176,line
+./train_images/Set2_091 v.jpg,120,1160,996,1247,line
+./train_images/Set2_091 v.jpg,93,1241,973,1323,line
+./train_images/Set2_091 v.jpg,216,1320,987,1389,line
+./train_images/Set2_091 v.jpg,236,1381,996,1493,line
+./train_images/Set14_279.jpg,208,244,829,342,line
+./train_images/Set14_279.jpg,160,322,786,409,line
+./train_images/Set14_279.jpg,159,404,834,491,line
+./train_images/Set14_279.jpg,159,472,770,554,line
+./train_images/Set14_279.jpg,159,563,818,645,line
+./train_images/Set14_279.jpg,162,634,829,711,line
+./train_images/Set14_279.jpg,155,700,804,791,line
+./train_images/Set14_279.jpg,160,780,829,863,line
+./train_images/Set14_279.jpg,157,857,814,939,line
+./train_images/Set14_279.jpg,152,921,777,998,line
+./train_images/Set14_279.jpg,149,986,786,1077,line
+./train_images/Set14_279.jpg,149,1068,778,1152,line
+./train_images/Set14_279.jpg,157,1147,798,1234,line
+./train_images/Set14_279.jpg,145,1226,821,1314,line
+./train_images/Set14_279.jpg,150,1304,844,1390,line
+./train_images/Set14_279.jpg,150,1355,842,1457,line
+./train_images/Set8_543 v.jpg,52,88,1000,184,line
+./train_images/Set8_543 v.jpg,66,180,946,248,line
+./train_images/Set8_543 v.jpg,68,238,972,316,line
+./train_images/Set8_543 v.jpg,70,526,946,602,line
+./train_images/Set8_543 v.jpg,66,600,944,678,line
+./train_images/Set8_543 v.jpg,66,664,964,750,line
+./train_images/Set8_543 v.jpg,70,742,986,824,line
+./train_images/Set13_055 v.jpg,331,17,970,106,line
+./train_images/Set13_055 v.jpg,328,76,996,168,line
+./train_images/Set13_055 v.jpg,325,145,992,218,line
+./train_images/Set13_055 v.jpg,326,198,981,257,line
+./train_images/Set13_055 v.jpg,326,248,973,323,line
+./train_images/Set13_055 v.jpg,331,296,992,375,line
+./train_images/Set13_055 v.jpg,332,359,975,421,line
+./train_images/Set13_055 v.jpg,343,409,990,470,line
+./train_images/Set13_055 v.jpg,335,448,968,531,line
+./train_images/Set13_055 v.jpg,335,495,985,581,line
+./train_images/Set13_055 v.jpg,334,565,990,632,line
+./train_images/Set13_055 v.jpg,335,621,982,693,line
+./train_images/Set13_055 v.jpg,335,687,973,748,line
+./train_images/Set13_055 v.jpg,335,732,970,803,line
+./train_images/Set13_055 v.jpg,340,787,979,865,line
+./train_images/Set13_055 v.jpg,345,850,962,910,line
+./train_images/Set13_055 v.jpg,343,903,992,987,line
+./train_images/Set13_055 v.jpg,342,973,1017,1028,line
+./train_images/Set13_055 v.jpg,342,1023,1017,1096,line
+./train_images/Set13_055 v.jpg,345,1076,1003,1150,line
+./train_images/Set13_055 v.jpg,340,1137,973,1209,line
+./train_images/Set13_055 v.jpg,335,1173,1003,1248,line
+./train_images/Set13_055 v.jpg,353,1240,987,1326,line
+./train_images/Set13_055 v.jpg,348,1301,993,1365,line
+./train_images/Set13_055 v.jpg,348,1343,1007,1426,line
+./train_images/Set13_055 v.jpg,351,1401,1000,1495,line
+./train_images/Set17_189 v.jpg,200,82,787,151,line
+./train_images/Set17_189 v.jpg,185,144,835,203,line
+./train_images/Set17_189 v.jpg,241,194,856,250,line
+./train_images/Set17_189 v.jpg,201,242,841,302,line
+./train_images/Set17_189 v.jpg,197,289,861,356,line
+./train_images/Set17_189 v.jpg,198,335,850,389,line
+./train_images/Set17_189 v.jpg,196,383,819,455,line
+./train_images/Set17_189 v.jpg,192,442,838,498,line
+./train_images/Set17_189 v.jpg,188,489,869,550,line
+./train_images/Set17_189 v.jpg,194,546,853,600,line
+./train_images/Set17_189 v.jpg,192,587,821,651,line
+./train_images/Set17_189 v.jpg,189,639,866,698,line
+./train_images/Set17_189 v.jpg,193,694,853,753,line
+./train_images/Set17_189 v.jpg,192,748,847,803,line
+./train_images/Set17_189 v.jpg,196,802,861,867,line
+./train_images/Set17_189 v.jpg,193,856,839,916,line
+./train_images/Set17_189 v.jpg,188,903,830,953,line
+./train_images/Set17_189 v.jpg,191,953,873,1019,line
+./train_images/Set12_206 r.jpg,42,21,706,103,line
+./train_images/Set12_206 r.jpg,25,90,801,178,line
+./train_images/Set12_206 r.jpg,34,159,756,235,line
+./train_images/Set12_206 r.jpg,29,228,693,310,line
+./train_images/Set12_206 r.jpg,17,300,770,381,line
+./train_images/Set12_206 r.jpg,26,364,748,429,line
+./train_images/Set12_206 r.jpg,31,421,768,506,line
+./train_images/Set12_206 r.jpg,28,496,790,568,line
+./train_images/Set12_206 r.jpg,26,564,778,642,line
+./train_images/Set12_206 r.jpg,28,625,801,712,line
+./train_images/Set12_206 r.jpg,31,689,757,785,line
+./train_images/Set12_206 r.jpg,15,748,792,842,line
+./train_images/Set12_206 r.jpg,21,821,770,921,line
+./train_images/Set12_206 r.jpg,25,884,729,989,line
+./train_images/Set12_206 r.jpg,26,931,762,1048,line
+./train_images/Set12_206 r.jpg,21,1015,750,1125,line
+./train_images/Set12_206 r.jpg,23,1076,787,1189,line
+./train_images/Set12_206 r.jpg,25,1146,765,1245,line
+./train_images/Set12_206 r.jpg,20,1215,751,1326,line
+./train_images/Set8_502 r.jpg,53,157,820,228,line
+./train_images/Set8_502 r.jpg,53,214,853,292,line
+./train_images/Set8_502 r.jpg,64,285,862,340,line
+./train_images/Set8_502 r.jpg,57,339,845,410,line
+./train_images/Set8_502 r.jpg,57,403,837,478,line
+./train_images/Set8_502 r.jpg,60,460,862,537,line
+./train_images/Set8_502 r.jpg,57,529,871,603,line
+./train_images/Set8_502 r.jpg,56,589,857,671,line
+./train_images/Set8_502 r.jpg,60,650,821,721,line
+./train_images/Set8_502 r.jpg,43,885,862,967,line
+./train_images/Set8_502 r.jpg,64,960,873,1042,line
+./train_images/Set8_502 r.jpg,62,1017,760,1085,line
+./train_images/Set13_122 r.jpg,71,39,938,120,line
+./train_images/Set13_122 r.jpg,69,91,936,176,line
+./train_images/Set13_122 r.jpg,71,154,945,221,line
+./train_images/Set13_122 r.jpg,87,201,935,258,line
+./train_images/Set13_122 r.jpg,90,254,949,324,line
+./train_images/Set13_122 r.jpg,90,308,930,357,line
+./train_images/Set13_122 r.jpg,93,347,958,408,line
+./train_images/Set13_122 r.jpg,84,386,979,461,line
+./train_images/Set13_122 r.jpg,84,436,975,516,line
+./train_images/Set13_122 r.jpg,93,493,939,557,line
+./train_images/Set13_122 r.jpg,93,536,963,609,line
+./train_images/Set13_122 r.jpg,83,584,941,652,line
+./train_images/Set13_122 r.jpg,90,639,987,716,line
+./train_images/Set13_122 r.jpg,95,689,935,747,line
+./train_images/Set13_122 r.jpg,82,738,980,809,line
+./train_images/Set13_122 r.jpg,87,793,931,843,line
+./train_images/Set13_122 r.jpg,83,842,927,909,line
+./train_images/Set13_122 r.jpg,84,887,912,961,line
+./train_images/Set13_122 r.jpg,80,936,949,1013,line
+./train_images/Set13_122 r.jpg,84,989,912,1063,line
+./train_images/Set13_122 r.jpg,79,1039,663,1090,line
+./train_images/Set13_122 r.jpg,73,1083,928,1150,line
+./train_images/Set13_122 r.jpg,76,1136,857,1189,line
+./train_images/Set13_122 r.jpg,73,1173,990,1250,line
+./train_images/Set13_122 r.jpg,75,1231,952,1295,line
+./train_images/Set13_122 r.jpg,73,1279,964,1354,line
+./train_images/Set14_104.jpg,258,221,995,330,line
+./train_images/Set14_104.jpg,271,319,991,395,line
+./train_images/Set14_104.jpg,273,386,1008,502,line
+./train_images/Set14_104.jpg,273,463,965,552,line
+./train_images/Set14_104.jpg,280,543,1017,645,line
+./train_images/Set14_104.jpg,282,623,1010,728,line
+./train_images/Set14_104.jpg,221,708,1030,813,line
+./train_images/Set14_104.jpg,284,793,1008,878,line
+./train_images/Set14_104.jpg,282,863,963,963,line
+./train_images/Set14_104.jpg,278,941,1015,1052,line
+./train_images/Set14_104.jpg,273,1030,965,1123,line
+./train_images/Set14_104.jpg,280,1115,1013,1210,line
+./train_images/Set14_104.jpg,280,1197,986,1284,line
+./train_images/Set14_104.jpg,291,1263,1021,1354,line
+./train_images/Set14_104.jpg,284,1345,1023,1445,line
+./train_images/Set14_104.jpg,284,1417,1021,1523,line
+./train_images/Set14_104.jpg,284,1504,989,1641,line
+./train_images/Set16_008.jpg,179,68,943,144,line
+./train_images/Set16_008.jpg,177,124,905,234,line
+./train_images/Set16_008.jpg,179,213,920,312,line
+./train_images/Set16_008.jpg,186,305,924,394,line
+./train_images/Set16_008.jpg,186,387,920,477,line
+./train_images/Set16_008.jpg,184,458,910,562,line
+./train_images/Set16_008.jpg,182,558,915,643,line
+./train_images/Set16_008.jpg,181,639,896,724,line
+./train_images/Set16_008.jpg,175,701,939,822,line
+./train_images/Set16_008.jpg,186,825,943,894,line
+./train_images/Set16_008.jpg,203,881,943,984,line
+./train_images/Set16_008.jpg,198,993,913,1062,line
+./train_images/Set16_008.jpg,187,1046,948,1137,line
+./train_images/Set16_008.jpg,163,1124,943,1231,line
+./train_images/Set16_008.jpg,191,1224,915,1313,line
+./train_images/Set16_008.jpg,203,1305,927,1382,line
+./train_images/Set11_122.jpg,239,160,1439,245,line
+./train_images/Set11_122.jpg,243,254,1445,368,line
+./train_images/Set11_122.jpg,241,339,1460,454,line
+./train_images/Set11_122.jpg,247,449,1460,562,line
+./train_images/Set11_122.jpg,249,539,1450,664,line
+./train_images/Set11_122.jpg,243,629,1472,768,line
+./train_images/Set11_122.jpg,245,735,1464,860,line
+./train_images/Set11_122.jpg,252,849,1460,950,line
+./train_images/Set11_122.jpg,264,1035,1466,1117,line
+./train_images/Set11_122.jpg,378,1113,1472,1190,line
+./train_images/Set11_122.jpg,264,1176,1470,1252,line
+./train_images/Set11_122.jpg,266,1252,1464,1339,line
+./train_images/Set11_122.jpg,264,1323,1476,1409,line
+./train_images/Set11_122.jpg,270,1396,1474,1476,line
+./train_images/Set11_122.jpg,272,1466,1476,1552,line
+./train_images/Set11_122.jpg,270,1531,1470,1623,line
+./train_images/Set11_122.jpg,270,1613,1472,1703,line
+./train_images/Set11_122.jpg,280,1684,1482,1770,line
+./train_images/Set11_122.jpg,284,1752,1484,1845,line
+./train_images/Set11_122.jpg,282,1819,1472,1921,line
+./train_images/Set13_054 r.jpg,44,117,768,188,line
+./train_images/Set13_054 r.jpg,41,167,747,241,line
+./train_images/Set13_054 r.jpg,44,228,789,297,line
+./train_images/Set13_054 r.jpg,41,276,811,332,line
+./train_images/Set13_054 r.jpg,40,316,813,394,line
+./train_images/Set13_054 r.jpg,55,371,795,435,line
+./train_images/Set13_054 r.jpg,49,416,797,483,line
+./train_images/Set13_054 r.jpg,43,470,797,534,line
+./train_images/Set13_054 r.jpg,40,517,798,586,line
+./train_images/Set13_054 r.jpg,52,568,829,638,line
+./train_images/Set13_054 r.jpg,52,614,835,685,line
+./train_images/Set13_054 r.jpg,37,667,828,729,line
+./train_images/Set13_054 r.jpg,44,726,835,800,line
+./train_images/Set13_054 r.jpg,43,770,819,841,line
+./train_images/Set13_054 r.jpg,43,817,829,892,line
+./train_images/Set13_054 r.jpg,41,871,801,946,line
+./train_images/Set13_054 r.jpg,44,926,846,1001,line
+./train_images/Set13_054 r.jpg,40,982,822,1052,line
+./train_images/Set13_054 r.jpg,43,1040,801,1097,line
+./train_images/Set13_054 r.jpg,46,1080,858,1156,line
+./train_images/Set13_054 r.jpg,46,1135,831,1205,line
+./train_images/Set13_054 r.jpg,46,1195,847,1252,line
+./train_images/Set13_054 r.jpg,47,1244,844,1310,line
+./train_images/Set13_054 r.jpg,47,1295,846,1368,line
+./train_images/Set13_054 r.jpg,53,1350,880,1422,line
+./train_images/Set13_054 r.jpg,65,1402,853,1477,line
+./train_images/Set14_494.jpg,296,208,880,306,line
+./train_images/Set14_494.jpg,290,292,962,378,line
+./train_images/Set14_494.jpg,288,364,920,456,line
+./train_images/Set14_494.jpg,286,438,980,526,line
+./train_images/Set14_494.jpg,294,520,966,606,line
+./train_images/Set14_494.jpg,286,594,968,670,line
+./train_images/Set14_494.jpg,276,660,932,758,line
+./train_images/Set14_494.jpg,276,746,908,830,line
+./train_images/Set14_494.jpg,278,816,954,910,line
+./train_images/Set14_494.jpg,286,888,904,970,line
+./train_images/Set14_494.jpg,272,962,938,1056,line
+./train_images/Set14_494.jpg,276,1044,922,1134,line
+./train_images/Set14_494.jpg,276,1126,888,1210,line
+./train_images/Set14_494.jpg,272,1198,948,1252,line
+./train_images/Set14_494.jpg,270,1248,964,1354,line
+./train_images/Set14_494.jpg,280,1348,980,1476,line
+./train_images/Set8_529 v.jpg,156,72,932,154,line
+./train_images/Set8_529 v.jpg,162,136,940,232,line
+./train_images/Set8_529 v.jpg,158,226,948,294,line
+./train_images/Set8_529 v.jpg,156,274,954,344,line
+./train_images/Set8_529 v.jpg,154,338,950,426,line
+./train_images/Set8_529 v.jpg,142,1044,970,1110,line
+./train_images/Set8_529 v.jpg,148,1102,936,1186,line
+./train_images/Set8_529 v.jpg,144,1162,982,1256,line
+./train_images/Set6_0071.JPG,916,561,2533,708,line
+./train_images/Set6_0071.JPG,922,669,2436,813,line
+./train_images/Set6_0071.JPG,922,825,2491,952,line
+./train_images/Set6_0071.JPG,933,966,2475,1077,line
+./train_images/Set6_0071.JPG,927,1097,2488,1233,line
+./train_images/Set6_0071.JPG,933,1211,2566,1361,line
+./train_images/Set6_0071.JPG,930,1375,2488,1516,line
+./train_images/Set6_0071.JPG,925,1500,2461,1627,line
+./train_images/Set6_0071.JPG,925,1630,2508,1766,line
+./train_images/Set6_0071.JPG,919,1755,2516,1900,line
+./train_images/Set6_0071.JPG,930,1897,2461,2038,line
+./train_images/Set6_0071.JPG,927,2011,2544,2166,line
+./train_images/Set6_0071.JPG,933,2177,2552,2300,line
+./train_images/Set6_0071.JPG,930,2305,2511,2433,line
+./train_images/Set6_0071.JPG,938,2441,2416,2555,line
+./train_images/Set6_0071.JPG,933,2561,2477,2702,line
+./train_images/Set6_0071.JPG,936,2677,2511,2816,line
+./train_images/Set6_0071.JPG,941,2797,2500,2947,line
+./train_images/Set6_0071.JPG,941,2925,2463,3066,line
+./train_images/Set6_0071.JPG,941,3075,2508,3219,line
+./train_images/Set6_0071.JPG,938,3216,2483,3327,line
+./train_images/Set6_0071.JPG,944,3347,2611,3494,line
+./train_images/Set6_0071.JPG,3455,561,4969,697,line
+./train_images/Set6_0071.JPG,3433,677,4938,813,line
+./train_images/Set6_0071.JPG,3444,822,4969,958,line
+./train_images/Set6_0071.JPG,3450,938,5025,1066,line
+./train_images/Set6_0071.JPG,3450,1088,4963,1227,line
+./train_images/Set6_0071.JPG,3450,1216,4969,1358,line
+./train_images/Set6_0071.JPG,3455,1352,4969,1505,line
+./train_images/Set6_0071.JPG,3455,1494,4922,1625,line
+./train_images/Set6_0071.JPG,3458,1622,4988,1772,line
+./train_images/Set6_0071.JPG,3458,1761,5008,1891,line
+./train_images/Set6_0071.JPG,3455,1883,5025,2050,line
+./train_images/Set6_0071.JPG,3458,2022,4952,2147,line
+./train_images/Set6_0071.JPG,3455,2136,4986,2311,line
+./train_images/Set6_0071.JPG,3450,2308,4911,2425,line
+./train_images/Set6_0071.JPG,3447,2413,4938,2566,line
+./train_images/Set6_0071.JPG,3441,2555,4947,2722,line
+./train_images/Set6_0071.JPG,3452,2672,4919,2805,line
+./train_images/Set6_0071.JPG,3458,2802,4955,2936,line
+./train_images/Set6_0071.JPG,3463,2927,4986,3072,line
+./train_images/Set6_0071.JPG,3463,3063,4936,3186,line
+./train_images/Set6_0071.JPG,3452,3194,4955,3319,line
+./train_images/Set6_0071.JPG,3463,3322,4980,3488,line
+./train_images/Set2_057 v.jpg,122,86,1071,196,line
+./train_images/Set2_057 v.jpg,120,190,1030,292,line
+./train_images/Set2_057 v.jpg,109,364,1054,471,line
+./train_images/Set2_057 v.jpg,92,547,1084,652,line
+./train_images/Set2_057 v.jpg,96,916,1086,1015,line
+./train_images/Set2_057 v.jpg,98,1009,1088,1090,line
+./train_images/Set2_057 v.jpg,116,1169,1088,1277,line
+./train_images/Set8_551 r.jpg,26,126,873,214,line
+./train_images/Set8_551 r.jpg,55,208,864,276,line
+./train_images/Set8_551 r.jpg,55,266,846,341,line
+./train_images/Set8_551 r.jpg,55,333,880,408,line
+./train_images/Set8_551 r.jpg,57,580,876,666,line
+./train_images/Set8_551 r.jpg,62,657,855,726,line
+./train_images/Set8_551 r.jpg,53,723,867,798,line
+./train_images/Set8_551 r.jpg,46,780,874,873,line
+./train_images/Set8_551 r.jpg,64,908,969,992,line
+./train_images/Set17_176 r.jpg,48,75,742,133,line
+./train_images/Set17_176 r.jpg,52,228,732,293,line
+./train_images/Set17_176 r.jpg,50,287,736,350,line
+./train_images/Set17_176 r.jpg,48,395,755,456,line
+./train_images/Set17_176 r.jpg,57,450,762,516,line
+./train_images/Set17_176 r.jpg,53,502,733,567,line
+./train_images/Set17_176 r.jpg,53,557,722,615,line
+./train_images/Set17_176 r.jpg,50,607,748,670,line
+./train_images/Set17_176 r.jpg,50,710,751,778,line
+./train_images/Set17_176 r.jpg,52,822,747,881,line
+./train_images/Set17_176 r.jpg,45,873,778,938,line
+./train_images/Set13_110 r.jpg,86,33,857,124,line
+./train_images/Set13_110 r.jpg,97,100,852,173,line
+./train_images/Set13_110 r.jpg,89,142,866,221,line
+./train_images/Set13_110 r.jpg,95,198,844,266,line
+./train_images/Set13_110 r.jpg,104,242,734,311,line
+./train_images/Set13_110 r.jpg,27,298,859,359,line
+./train_images/Set13_110 r.jpg,114,344,860,404,line
+./train_images/Set13_110 r.jpg,110,392,895,456,line
+./train_images/Set13_110 r.jpg,107,436,927,508,line
+./train_images/Set13_110 r.jpg,111,485,905,555,line
+./train_images/Set13_110 r.jpg,113,533,911,608,line
+./train_images/Set13_110 r.jpg,111,584,886,650,line
+./train_images/Set13_110 r.jpg,115,634,921,713,line
+./train_images/Set13_110 r.jpg,115,686,915,756,line
+./train_images/Set13_110 r.jpg,115,742,904,802,line
+./train_images/Set13_110 r.jpg,114,795,891,862,line
+./train_images/Set13_110 r.jpg,117,842,943,913,line
+./train_images/Set13_110 r.jpg,117,885,873,959,line
+./train_images/Set13_110 r.jpg,115,940,960,1018,line
+./train_images/Set13_110 r.jpg,127,995,917,1068,line
+./train_images/Set13_110 r.jpg,120,1042,884,1107,line
+./train_images/Set13_110 r.jpg,121,1089,817,1162,line
+./train_images/Set13_110 r.jpg,53,1150,863,1218,line
+./train_images/Set13_110 r.jpg,127,1185,950,1268,line
+./train_images/Set13_110 r.jpg,144,1246,915,1307,line
+./train_images/Set13_110 r.jpg,137,1289,950,1368,line
+./train_images/Set2_056 v.jpg,131,100,1033,226,line
+./train_images/Set2_056 v.jpg,133,202,1075,322,line
+./train_images/Set2_056 v.jpg,133,300,1055,406,line
+./train_images/Set2_056 v.jpg,124,393,1051,488,line
+./train_images/Set2_056 v.jpg,126,471,1037,571,line
+./train_images/Set2_056 v.jpg,122,560,1057,662,line
+./train_images/Set2_056 v.jpg,117,640,1024,744,line
+./train_images/Set2_056 v.jpg,120,715,1022,828,line
+./train_images/Set2_056 v.jpg,117,808,1060,900,line
+./train_images/Set2_056 v.jpg,111,886,1068,980,line
+./train_images/Set2_056 v.jpg,108,973,1046,1084,line
+./train_images/Set2_056 v.jpg,106,1053,1057,1166,line
+./train_images/Set2_056 v.jpg,106,1146,1031,1242,line
+./train_images/Set2_056 v.jpg,106,1231,1013,1348,line
+./train_images/Set11_202.jpg,219,154,1421,256,line
+./train_images/Set11_202.jpg,221,254,1426,334,line
+./train_images/Set11_202.jpg,221,345,1421,454,line
+./train_images/Set11_202.jpg,213,430,1413,560,line
+./train_images/Set11_202.jpg,219,545,1423,652,line
+./train_images/Set11_202.jpg,221,636,1415,743,line
+./train_images/Set11_202.jpg,215,739,1408,858,line
+./train_images/Set11_202.jpg,213,832,1241,930,line
+./train_images/Set11_202.jpg,213,921,1421,1041,line
+./train_images/Set11_202.jpg,213,1015,1417,1154,line
+./train_images/Set11_202.jpg,208,1117,1434,1245,line
+./train_images/Set11_202.jpg,221,1236,1432,1352,line
+./train_images/Set11_202.jpg,219,1317,1417,1445,line
+./train_images/Set11_202.jpg,358,1452,976,1539,line
+./train_images/Set11_202.jpg,208,1536,1421,1643,line
+./train_images/Set11_202.jpg,378,1626,1243,1736,line
+./train_images/Set11_202.jpg,421,1745,1230,1839,line
+./train_images/Set11_202.jpg,447,1832,1239,1958,line
+./train_images/Set14_264.jpg,318,196,947,286,line
+./train_images/Set14_264.jpg,320,269,952,357,line
+./train_images/Set14_264.jpg,318,328,945,416,line
+./train_images/Set14_264.jpg,325,428,1000,496,line
+./train_images/Set14_264.jpg,316,488,937,576,line
+./train_images/Set14_264.jpg,322,567,942,644,line
+./train_images/Set14_264.jpg,322,625,984,716,line
+./train_images/Set14_264.jpg,320,723,979,776,line
+./train_images/Set14_264.jpg,318,781,959,862,line
+./train_images/Set14_264.jpg,318,854,961,944,line
+./train_images/Set14_264.jpg,318,922,810,1011,line
+./train_images/Set14_264.jpg,262,1011,979,1094,line
+./train_images/Set14_264.jpg,328,1079,940,1167,line
+./train_images/Set14_264.jpg,337,1155,938,1223,line
+./train_images/Set14_264.jpg,374,1240,942,1311,line
+./train_images/Set14_264.jpg,337,1310,911,1403,line
+./train_images/Set17_173 r.jpg,49,83,741,149,line
+./train_images/Set17_173 r.jpg,49,140,745,202,line
+./train_images/Set17_173 r.jpg,55,292,764,363,line
+./train_images/Set17_173 r.jpg,50,350,750,410,line
+./train_images/Set17_173 r.jpg,49,403,748,466,line
+./train_images/Set17_173 r.jpg,54,571,729,633,line
+./train_images/Set17_173 r.jpg,51,623,779,689,line
+./train_images/Set17_173 r.jpg,50,675,751,741,line
+./train_images/Set17_173 r.jpg,51,776,761,845,line
+./train_images/Set17_173 r.jpg,41,836,755,912,line
+./train_images/Set17_172 r.jpg,41,144,732,211,line
+./train_images/Set17_172 r.jpg,40,245,714,314,line
+./train_images/Set17_172 r.jpg,38,350,753,419,line
+./train_images/Set17_172 r.jpg,40,461,717,524,line
+./train_images/Set17_172 r.jpg,43,571,714,639,line
+./train_images/Set17_172 r.jpg,40,669,758,741,line
+./train_images/Set17_172 r.jpg,34,777,703,858,line
+./train_images/Set17_172 r.jpg,38,834,729,906,line
+./train_images/Set17_172 r.jpg,39,949,720,1018,line
+./train_images/Set13_044 r.jpg,47,32,803,119,line
+./train_images/Set13_044 r.jpg,97,103,825,182,line
+./train_images/Set13_044 r.jpg,101,156,794,228,line
+./train_images/Set13_044 r.jpg,114,203,818,282,line
+./train_images/Set13_044 r.jpg,78,265,835,334,line
+./train_images/Set13_044 r.jpg,77,301,822,376,line
+./train_images/Set13_044 r.jpg,69,351,800,419,line
+./train_images/Set13_044 r.jpg,84,407,797,469,line
+./train_images/Set13_044 r.jpg,78,440,832,534,line
+./train_images/Set13_044 r.jpg,77,518,857,594,line
+./train_images/Set13_044 r.jpg,84,573,807,628,line
+./train_images/Set13_044 r.jpg,82,619,814,681,line
+./train_images/Set13_044 r.jpg,77,671,855,744,line
+./train_images/Set13_044 r.jpg,82,734,842,800,line
+./train_images/Set13_044 r.jpg,73,778,847,852,line
+./train_images/Set13_044 r.jpg,77,835,851,911,line
+./train_images/Set13_044 r.jpg,64,896,810,964,line
+./train_images/Set13_044 r.jpg,69,948,814,1030,line
+./train_images/Set13_044 r.jpg,68,1001,817,1084,line
+./train_images/Set13_044 r.jpg,69,1051,826,1111,line
+./train_images/Set13_044 r.jpg,67,1103,860,1171,line
+./train_images/Set13_044 r.jpg,75,1163,839,1231,line
+./train_images/Set13_044 r.jpg,81,1206,792,1285,line
+./train_images/Set13_044 r.jpg,75,1259,757,1332,line
+./train_images/Set13_044 r.jpg,68,1315,810,1380,line
+./train_images/Set13_044 r.jpg,19,1364,811,1457,line
+./train_images/Set14_164.jpg,311,220,944,316,line
+./train_images/Set14_164.jpg,301,309,924,379,line
+./train_images/Set14_164.jpg,311,364,961,449,line
+./train_images/Set14_164.jpg,318,438,961,524,line
+./train_images/Set14_164.jpg,314,499,924,588,line
+./train_images/Set14_164.jpg,316,572,935,666,line
+./train_images/Set14_164.jpg,316,648,946,722,line
+./train_images/Set14_164.jpg,242,711,979,803,line
+./train_images/Set14_164.jpg,316,788,961,874,line
+./train_images/Set14_164.jpg,309,862,933,962,line
+./train_images/Set14_164.jpg,329,938,970,1009,line
+./train_images/Set14_164.jpg,318,996,968,1075,line
+./train_images/Set14_164.jpg,329,1070,955,1153,line
+./train_images/Set14_164.jpg,325,1135,977,1220,line
+./train_images/Set14_164.jpg,325,1209,987,1287,line
+./train_images/Set14_164.jpg,340,1277,1007,1359,line
+./train_images/Set14_164.jpg,346,1348,981,1487,line
+./train_images/Set14_239.jpg,184,245,768,336,line
+./train_images/Set14_239.jpg,184,318,802,388,line
+./train_images/Set14_239.jpg,177,388,804,475,line
+./train_images/Set14_239.jpg,190,461,820,554,line
+./train_images/Set14_239.jpg,181,522,847,615,line
+./train_images/Set14_239.jpg,188,606,838,690,line
+./train_images/Set14_239.jpg,179,670,790,770,line
+./train_images/Set14_239.jpg,184,759,838,863,line
+./train_images/Set14_239.jpg,181,829,772,934,line
+./train_images/Set14_239.jpg,175,902,804,1018,line
+./train_images/Set14_239.jpg,175,979,827,1072,line
+./train_images/Set14_239.jpg,175,1052,761,1136,line
+./train_images/Set14_239.jpg,179,1129,863,1206,line
+./train_images/Set14_239.jpg,163,1193,815,1286,line
+./train_images/Set14_239.jpg,159,1265,786,1347,line
+./train_images/Set14_239.jpg,170,1336,788,1434,line
+./train_images/Set14_165.jpg,179,215,847,309,line
+./train_images/Set14_165.jpg,167,288,832,373,line
+./train_images/Set14_165.jpg,167,356,798,445,line
+./train_images/Set14_165.jpg,166,430,839,507,line
+./train_images/Set14_165.jpg,162,492,873,581,line
+./train_images/Set14_165.jpg,162,571,805,664,line
+./train_images/Set14_165.jpg,166,643,858,732,line
+./train_images/Set14_165.jpg,135,709,841,794,line
+./train_images/Set14_165.jpg,162,788,845,873,line
+./train_images/Set14_165.jpg,154,856,798,933,line
+./train_images/Set14_165.jpg,156,918,845,1005,line
+./train_images/Set14_165.jpg,132,983,796,1075,line
+./train_images/Set14_165.jpg,156,1062,813,1137,line
+./train_images/Set14_165.jpg,154,1113,881,1198,line
+./train_images/Set14_165.jpg,135,1184,811,1266,line
+./train_images/Set14_165.jpg,137,1252,820,1345,line
+./train_images/Set14_165.jpg,86,1318,807,1460,line
+./train_images/Set8_499 v.jpg,149,132,1025,236,line
+./train_images/Set8_499 v.jpg,147,209,947,290,line
+./train_images/Set8_499 v.jpg,141,270,943,354,line
+./train_images/Set8_499 v.jpg,149,541,990,621,line
+./train_images/Set8_499 v.jpg,143,601,925,683,line
+./train_images/Set8_499 v.jpg,145,670,959,741,line
+./train_images/Set8_499 v.jpg,141,730,965,819,line
+./train_images/Set8_499 v.jpg,141,796,794,885,line
+./train_images/Set17_177 v.jpg,177,116,844,171,line
+./train_images/Set17_177 v.jpg,176,163,850,221,line
+./train_images/Set17_177 v.jpg,177,212,845,273,line
+./train_images/Set17_177 v.jpg,181,312,842,380,line
+./train_images/Set17_177 v.jpg,177,366,874,428,line
+./train_images/Set17_177 v.jpg,173,527,846,596,line
+./train_images/Set17_177 v.jpg,174,580,830,637,line
+./train_images/Set17_177 v.jpg,176,688,868,756,line
+./train_images/Set17_177 v.jpg,172,800,850,868,line
+./train_images/Set17_177 v.jpg,180,858,816,922,line
+./train_images/Set17_177 v.jpg,181,962,843,1023,line
+./train_images/Set2_099 r.jpg,103,92,938,199,line
+./train_images/Set2_099 r.jpg,92,192,927,276,line
+./train_images/Set2_099 r.jpg,109,261,938,369,line
+./train_images/Set2_099 r.jpg,109,347,939,434,line
+./train_images/Set2_099 r.jpg,109,425,950,521,line
+./train_images/Set2_099 r.jpg,110,501,976,605,line
+./train_images/Set2_099 r.jpg,110,581,919,669,line
+./train_images/Set2_099 r.jpg,118,658,963,776,line
+./train_images/Set2_099 r.jpg,116,756,958,850,line
+./train_images/Set2_099 r.jpg,138,827,969,923,line
+./train_images/Set2_099 r.jpg,132,898,956,996,line
+./train_images/Set2_099 r.jpg,119,990,969,1096,line
+./train_images/Set2_099 r.jpg,132,1070,936,1172,line
+./train_images/Set2_099 r.jpg,136,1147,952,1241,line
+./train_images/Set2_099 r.jpg,150,1223,923,1369,line
+./train_images/Set2_025 r.jpg,85,131,929,204,line
+./train_images/Set2_025 r.jpg,78,208,934,291,line
+./train_images/Set2_025 r.jpg,73,285,967,373,line
+./train_images/Set2_025 r.jpg,68,372,932,455,line
+./train_images/Set2_025 r.jpg,65,447,934,529,line
+./train_images/Set2_025 r.jpg,62,518,936,619,line
+./train_images/Set2_025 r.jpg,63,622,965,704,line
+./train_images/Set2_025 r.jpg,70,686,950,783,line
+./train_images/Set2_025 r.jpg,68,765,940,873,line
+./train_images/Set2_025 r.jpg,60,880,916,972,line
+./train_images/Set2_025 r.jpg,59,937,921,1052,line
+./train_images/Set2_025 r.jpg,57,1032,906,1149,line
+./train_images/Set2_025 r.jpg,59,1106,936,1239,line
+./train_images/Set2_025 r.jpg,63,1198,947,1334,line
+./train_images/Set11_333.jpg,68,146,1263,232,line
+./train_images/Set11_333.jpg,63,224,1262,318,line
+./train_images/Set11_333.jpg,68,296,1265,365,line
+./train_images/Set11_333.jpg,65,363,1256,450,line
+./train_images/Set11_333.jpg,70,439,1251,522,line
+./train_images/Set11_333.jpg,68,503,1253,598,line
+./train_images/Set11_333.jpg,67,577,1255,667,line
+./train_images/Set11_333.jpg,60,651,1253,744,line
+./train_images/Set11_333.jpg,60,718,1246,815,line
+./train_images/Set11_333.jpg,179,803,743,882,line
+./train_images/Set11_333.jpg,63,860,1256,960,line
+./train_images/Set11_333.jpg,136,948,1253,1027,line
+./train_images/Set11_333.jpg,172,1022,612,1086,line
+./train_images/Set11_333.jpg,55,1086,1208,1172,line
+./train_images/Set11_333.jpg,127,1160,1253,1239,line
+./train_images/Set11_333.jpg,53,1225,1250,1312,line
+./train_images/Set11_333.jpg,60,1308,1255,1375,line
+./train_images/Set11_333.jpg,172,1379,1250,1455,line
+./train_images/Set11_333.jpg,58,1444,1250,1539,line
+./train_images/Set11_333.jpg,131,1524,1253,1596,line
+./train_images/Set11_333.jpg,62,1582,1255,1672,line
+./train_images/Set11_333.jpg,124,1662,1248,1750,line
+./train_images/Set11_333.jpg,58,1734,1246,1820,line
+./train_images/Set11_333.jpg,127,1812,1244,1896,line
+./train_images/Set11_333.jpg,287,1874,767,1965,line
+./train_images/Set8_464 v.jpg,113,113,931,206,line
+./train_images/Set8_464 v.jpg,109,513,936,596,line
+./train_images/Set8_464 v.jpg,109,583,927,662,line
+./train_images/Set8_464 v.jpg,113,657,922,727,line
+./train_images/Set8_464 v.jpg,116,718,952,796,line
+./train_images/Set8_464 v.jpg,116,781,962,865,line
+./train_images/Set8_464 v.jpg,122,1111,937,1191,line
+./train_images/Set8_464 v.jpg,124,1172,959,1263,line
+./train_images/Set8_464 v.jpg,126,1259,952,1327,line
+./train_images/Set17_189 r.jpg,70,82,704,145,line
+./train_images/Set17_189 r.jpg,70,139,727,200,line
+./train_images/Set17_189 r.jpg,79,187,727,243,line
+./train_images/Set17_189 r.jpg,79,238,730,302,line
+./train_images/Set17_189 r.jpg,79,290,754,353,line
+./train_images/Set17_189 r.jpg,83,345,700,395,line
+./train_images/Set17_189 r.jpg,77,387,741,448,line
+./train_images/Set17_189 r.jpg,80,438,730,496,line
+./train_images/Set17_189 r.jpg,77,487,723,547,line
+./train_images/Set17_189 r.jpg,86,538,738,595,line
+./train_images/Set17_189 r.jpg,77,588,709,650,line
+./train_images/Set17_189 r.jpg,83,645,706,702,line
+./train_images/Set17_189 r.jpg,87,702,731,753,line
+./train_images/Set17_189 r.jpg,63,746,717,801,line
+./train_images/Set17_189 r.jpg,77,790,722,847,line
+./train_images/Set17_189 r.jpg,68,834,768,897,line
+./train_images/Set17_189 r.jpg,74,890,745,950,line
+./train_images/Set17_189 r.jpg,81,930,748,997,line
+./train_images/Set17_189 r.jpg,169,982,504,1026,line
+./train_images/Set17_178 v.jpg,160,68,813,130,line
+./train_images/Set17_178 v.jpg,164,165,846,235,line
+./train_images/Set17_178 v.jpg,163,217,898,288,line
+./train_images/Set17_178 v.jpg,167,384,868,447,line
+./train_images/Set17_178 v.jpg,163,436,848,497,line
+./train_images/Set17_178 v.jpg,164,544,852,598,line
+./train_images/Set17_178 v.jpg,167,645,837,706,line
+./train_images/Set17_178 v.jpg,170,915,860,964,line
+./train_images/Set17_178 v.jpg,171,967,881,1040,line
+./train_images/Set2_010 r.jpg,123,125,916,229,line
+./train_images/Set2_010 r.jpg,130,190,919,309,line
+./train_images/Set2_010 r.jpg,136,263,876,385,line
+./train_images/Set2_010 r.jpg,132,349,912,450,line
+./train_images/Set2_010 r.jpg,123,421,872,540,line
+./train_images/Set2_010 r.jpg,127,490,870,612,line
+./train_images/Set2_010 r.jpg,98,716,878,818,line
+./train_images/Set2_010 r.jpg,92,859,636,959,line
+./train_images/Set2_010 r.jpg,92,930,859,1056,line
+./train_images/Set2_010 r.jpg,92,1014,894,1120,line
+./train_images/Set2_010 r.jpg,98,1074,849,1192,line
+./train_images/Set11_051.jpg,42,173,1237,271,line
+./train_images/Set11_051.jpg,37,255,1231,366,line
+./train_images/Set11_051.jpg,44,357,1235,464,line
+./train_images/Set11_051.jpg,46,462,1235,564,line
+./train_images/Set11_051.jpg,35,557,1226,651,line
+./train_images/Set11_051.jpg,40,644,1231,766,line
+./train_images/Set11_051.jpg,40,757,1228,846,line
+./train_images/Set11_051.jpg,35,842,1235,960,line
+./train_images/Set11_051.jpg,37,953,1231,1062,line
+./train_images/Set11_051.jpg,31,1051,1224,1151,line
+./train_images/Set11_051.jpg,35,1146,1224,1262,line
+./train_images/Set11_051.jpg,35,1255,1231,1357,line
+./train_images/Set11_051.jpg,31,1348,1237,1453,line
+./train_images/Set11_051.jpg,31,1446,1224,1555,line
+./train_images/Set11_051.jpg,26,1528,1233,1660,line
+./train_images/Set11_051.jpg,24,1651,1215,1748,line
+./train_images/Set11_051.jpg,26,1728,1220,1842,line
+./train_images/Set11_051.jpg,26,1831,1226,1928,line
+./train_images/Set11_275.jpg,51,168,1265,263,line
+./train_images/Set11_275.jpg,51,242,1253,344,line
+./train_images/Set11_275.jpg,46,325,1263,408,line
+./train_images/Set11_275.jpg,46,387,1236,480,line
+./train_images/Set11_275.jpg,48,459,1255,553,line
+./train_images/Set11_275.jpg,44,542,1257,629,line
+./train_images/Set11_275.jpg,80,608,1236,691,line
+./train_images/Set11_275.jpg,48,682,1251,776,line
+./train_images/Set11_275.jpg,191,772,727,865,line
+./train_images/Set11_275.jpg,36,857,1246,961,line
+./train_images/Set11_275.jpg,38,955,1244,1053,line
+./train_images/Set11_275.jpg,38,1044,1253,1157,line
+./train_images/Set11_275.jpg,38,1151,1223,1263,line
+./train_images/Set11_275.jpg,29,1261,1242,1368,line
+./train_images/Set11_275.jpg,25,1351,1238,1465,line
+./train_images/Set11_275.jpg,27,1453,1236,1565,line
+./train_images/Set11_275.jpg,29,1555,1248,1640,line
+./train_images/Set11_275.jpg,42,1648,1242,1780,line
+./train_images/Set11_275.jpg,34,1768,1242,1846,line
+./train_images/Set11_275.jpg,31,1836,1257,1970,line
+./train_images/Set13_036 v.jpg,235,112,898,202,line
+./train_images/Set13_036 v.jpg,243,186,917,263,line
+./train_images/Set13_036 v.jpg,258,238,887,308,line
+./train_images/Set13_036 v.jpg,243,287,930,349,line
+./train_images/Set13_036 v.jpg,247,341,949,417,line
+./train_images/Set13_036 v.jpg,247,394,943,467,line
+./train_images/Set13_036 v.jpg,246,442,928,521,line
+./train_images/Set13_036 v.jpg,243,497,957,579,line
+./train_images/Set13_036 v.jpg,261,556,957,628,line
+./train_images/Set13_036 v.jpg,257,609,936,689,line
+./train_images/Set13_036 v.jpg,253,664,947,746,line
+./train_images/Set13_036 v.jpg,228,704,952,782,line
+./train_images/Set13_036 v.jpg,258,768,960,838,line
+./train_images/Set13_036 v.jpg,249,821,946,908,line
+./train_images/Set13_036 v.jpg,239,878,950,946,line
+./train_images/Set13_036 v.jpg,238,921,967,1001,line
+./train_images/Set13_036 v.jpg,250,975,956,1046,line
+./train_images/Set13_036 v.jpg,206,1042,938,1108,line
+./train_images/Set13_036 v.jpg,295,1098,942,1160,line
+./train_images/Set13_036 v.jpg,246,1136,935,1201,line
+./train_images/Set13_036 v.jpg,235,1183,976,1247,line
+./train_images/Set13_036 v.jpg,241,1238,976,1310,line
+./train_images/Set13_036 v.jpg,247,1302,952,1364,line
+./train_images/Set13_036 v.jpg,247,1349,953,1417,line
+./train_images/Set13_036 v.jpg,257,1397,945,1482,line
+./train_images/Set8_621 v.jpeg,174,78,900,153,line
+./train_images/Set8_621 v.jpeg,188,130,921,215,line
+./train_images/Set8_621 v.jpeg,185,202,914,276,line
+./train_images/Set8_621 v.jpeg,185,261,909,346,line
+./train_images/Set8_621 v.jpeg,164,922,897,990,line
+./train_images/Set8_621 v.jpeg,171,984,909,1054,line
+./train_images/Set8_621 v.jpeg,180,1040,877,1112,line
+./train_images/Set8_621 v.jpeg,177,1092,888,1183,line
+./train_images/Set2_110 v.jpg,114,116,875,173,line
+./train_images/Set2_110 v.jpg,108,186,883,250,line
+./train_images/Set2_110 v.jpg,96,247,890,322,line
+./train_images/Set2_110 v.jpg,93,318,860,390,line
+./train_images/Set2_110 v.jpg,73,378,878,444,line
+./train_images/Set2_110 v.jpg,68,436,911,503,line
+./train_images/Set2_110 v.jpg,59,491,932,552,line
+./train_images/Set2_110 v.jpg,63,549,906,614,line
+./train_images/Set2_110 v.jpg,70,608,950,662,line
+./train_images/Set2_110 v.jpg,81,655,949,729,line
+./train_images/Set2_110 v.jpg,59,722,926,798,line
+./train_images/Set2_110 v.jpg,70,793,942,860,line
+./train_images/Set2_110 v.jpg,75,854,939,914,line
+./train_images/Set2_110 v.jpg,80,911,929,996,line
+./train_images/Set2_110 v.jpg,98,973,944,1055,line
+./train_images/Set2_110 v.jpg,114,1032,918,1114,line
+./train_images/Set2_110 v.jpg,114,1096,934,1188,line
+./train_images/Set2_110 v.jpg,116,1152,926,1226,line
+./train_images/Set2_110 v.jpg,136,1204,945,1304,line
+./train_images/Set2_110 v.jpg,144,1259,918,1350,line
+./train_images/Set2_110 v.jpg,160,1313,959,1411,line
+./train_images/Set2_110 v.jpg,162,1367,949,1498,line
+./train_images/Set2_038 v.jpg,160,165,1025,246,line
+./train_images/Set2_038 v.jpg,151,239,1020,327,line
+./train_images/Set2_038 v.jpg,153,322,1067,418,line
+./train_images/Set2_038 v.jpg,139,412,1062,493,line
+./train_images/Set2_038 v.jpg,143,489,1060,575,line
+./train_images/Set2_038 v.jpg,124,572,1056,667,line
+./train_images/Set2_038 v.jpg,124,660,1056,737,line
+./train_images/Set2_038 v.jpg,134,720,1063,808,line
+./train_images/Set2_038 v.jpg,137,810,1055,884,line
+./train_images/Set2_038 v.jpg,136,877,1056,970,line
+./train_images/Set2_038 v.jpg,146,967,1048,1065,line
+./train_images/Set2_038 v.jpg,144,1051,1053,1131,line
+./train_images/Set2_038 v.jpg,144,1122,1008,1212,line
+./train_images/Set2_038 v.jpg,143,1206,1053,1293,line
+./train_images/Set2_038 v.jpg,144,1291,1034,1375,line
+./train_images/Set2_038 v.jpg,151,1367,1048,1456,line
+./train_images/Set14_485.jpg,165,244,820,320,line
+./train_images/Set14_485.jpg,160,317,850,401,line
+./train_images/Set14_485.jpg,162,389,884,467,line
+./train_images/Set14_485.jpg,160,446,887,574,line
+./train_images/Set14_485.jpg,155,546,820,641,line
+./train_images/Set14_485.jpg,162,632,898,731,line
+./train_images/Set14_485.jpg,162,706,841,791,line
+./train_images/Set14_485.jpg,155,779,870,884,line
+./train_images/Set14_485.jpg,150,868,901,963,line
+./train_images/Set14_485.jpg,156,943,848,1008,line
+./train_images/Set14_485.jpg,153,1008,887,1122,line
+./train_images/Set14_485.jpg,132,1100,798,1175,line
+./train_images/Set14_485.jpg,146,1155,862,1262,line
+./train_images/Set14_485.jpg,151,1251,787,1336,line
+./train_images/Set14_485.jpg,146,1320,815,1412,line
+./train_images/Set14_485.jpg,151,1394,829,1503,line
+./train_images/Set14_520.jpg,226,252,863,327,line
+./train_images/Set14_520.jpg,216,331,891,398,line
+./train_images/Set14_520.jpg,222,396,903,470,line
+./train_images/Set14_520.jpg,226,463,926,549,line
+./train_images/Set14_520.jpg,219,555,904,626,line
+./train_images/Set14_520.jpg,211,627,890,711,line
+./train_images/Set14_520.jpg,214,704,893,798,line
+./train_images/Set14_520.jpg,214,765,891,877,line
+./train_images/Set14_520.jpg,224,865,868,944,line
+./train_images/Set14_520.jpg,211,934,921,1009,line
+./train_images/Set14_520.jpg,214,1006,891,1070,line
+./train_images/Set14_520.jpg,211,1081,877,1177,line
+./train_images/Set14_520.jpg,213,1140,881,1245,line
+./train_images/Set14_520.jpg,211,1232,888,1329,line
+./train_images/Set14_520.jpg,216,1303,916,1408,line
+./train_images/Set14_520.jpg,213,1375,886,1501,line
+./train_images/Set8_489 v.jpg,117,98,935,175,line
+./train_images/Set8_489 v.jpg,115,165,931,245,line
+./train_images/Set8_489 v.jpg,104,229,968,298,line
+./train_images/Set8_489 v.jpg,110,425,915,509,line
+./train_images/Set8_489 v.jpg,112,487,943,578,line
+./train_images/Set8_489 v.jpg,110,551,973,645,line
+./train_images/Set8_489 v.jpg,114,760,992,842,line
+./train_images/Set8_489 v.jpg,112,818,951,896,line
+./train_images/Set8_489 v.jpg,117,1140,926,1231,line
+./train_images/Set8_489 v.jpg,114,1210,973,1296,line
+./train_images/Set2_103 v.jpg,185,55,936,146,line
+./train_images/Set2_103 v.jpg,206,130,930,191,line
+./train_images/Set2_103 v.jpg,195,185,934,287,line
+./train_images/Set2_103 v.jpg,177,265,983,361,line
+./train_images/Set2_103 v.jpg,200,351,975,434,line
+./train_images/Set2_103 v.jpg,210,426,981,510,line
+./train_images/Set2_103 v.jpg,197,502,942,595,line
+./train_images/Set2_103 v.jpg,214,577,971,663,line
+./train_images/Set2_103 v.jpg,220,626,1014,722,line
+./train_images/Set2_103 v.jpg,200,706,975,802,line
+./train_images/Set2_103 v.jpg,220,787,973,873,line
+./train_images/Set2_103 v.jpg,220,863,1002,951,line
+./train_images/Set2_103 v.jpg,228,934,959,1020,line
+./train_images/Set2_103 v.jpg,224,995,979,1091,line
+./train_images/Set2_103 v.jpg,230,1077,969,1189,line
+./train_images/Set2_103 v.jpg,230,1153,983,1259,line
+./train_images/Set2_047 r.jpg,19,106,944,188,line
+./train_images/Set2_047 r.jpg,24,191,1008,288,line
+./train_images/Set2_047 r.jpg,29,296,1003,380,line
+./train_images/Set2_047 r.jpg,29,360,996,472,line
+./train_images/Set2_047 r.jpg,27,452,973,552,line
+./train_images/Set2_047 r.jpg,36,544,980,642,line
+./train_images/Set2_047 r.jpg,42,618,968,727,line
+./train_images/Set2_047 r.jpg,42,711,963,839,line
+./train_images/Set2_047 r.jpg,37,795,955,926,line
+./train_images/Set2_047 r.jpg,32,880,949,1009,line
+./train_images/Set2_047 r.jpg,34,972,932,1103,line
+./train_images/Set2_047 r.jpg,45,1068,957,1173,line
+./train_images/Set2_047 r.jpg,55,1142,968,1265,line
+./train_images/Set2_047 r.jpg,57,1221,973,1337,line
+./train_images/Set2_047 r.jpg,55,1322,990,1424,line
+./train_images/Set13_039 r.jpg,64,36,811,116,line
+./train_images/Set13_039 r.jpg,74,101,811,175,line
+./train_images/Set13_039 r.jpg,74,148,787,235,line
+./train_images/Set13_039 r.jpg,68,220,803,289,line
+./train_images/Set13_039 r.jpg,67,262,796,340,line
+./train_images/Set13_039 r.jpg,74,329,802,400,line
+./train_images/Set13_039 r.jpg,68,362,796,434,line
+./train_images/Set13_039 r.jpg,75,416,774,497,line
+./train_images/Set13_039 r.jpg,87,460,773,551,line
+./train_images/Set13_039 r.jpg,79,517,784,607,line
+./train_images/Set13_039 r.jpg,79,579,775,653,line
+./train_images/Set13_039 r.jpg,74,630,784,711,line
+./train_images/Set13_039 r.jpg,36,679,702,762,line
+./train_images/Set13_039 r.jpg,98,741,797,835,line
+./train_images/Set13_039 r.jpg,94,794,782,892,line
+./train_images/Set13_039 r.jpg,73,856,827,940,line
+./train_images/Set13_039 r.jpg,77,915,848,981,line
+./train_images/Set13_039 r.jpg,73,972,805,1055,line
+./train_images/Set13_039 r.jpg,77,1040,837,1098,line
+./train_images/Set13_039 r.jpg,83,1098,856,1160,line
+./train_images/Set13_039 r.jpg,78,1146,820,1227,line
+./train_images/Set13_039 r.jpg,83,1197,865,1265,line
+./train_images/Set13_039 r.jpg,89,1241,858,1331,line
+./train_images/Set13_039 r.jpg,98,1307,806,1386,line
+./train_images/Set13_039 r.jpg,97,1355,841,1431,line
+./train_images/Set13_039 r.jpg,101,1415,798,1494,line
+./train_images/Set17_188 r.jpg,45,65,704,128,line
+./train_images/Set17_188 r.jpg,52,125,695,192,line
+./train_images/Set17_188 r.jpg,57,170,707,235,line
+./train_images/Set17_188 r.jpg,53,223,707,288,line
+./train_images/Set17_188 r.jpg,54,271,716,338,line
+./train_images/Set17_188 r.jpg,59,329,688,389,line
+./train_images/Set17_188 r.jpg,61,377,742,436,line
+./train_images/Set17_188 r.jpg,57,419,711,479,line
+./train_images/Set17_188 r.jpg,58,470,721,546,line
+./train_images/Set17_188 r.jpg,66,533,703,591,line
+./train_images/Set17_188 r.jpg,61,578,705,646,line
+./train_images/Set17_188 r.jpg,61,629,696,702,line
+./train_images/Set17_188 r.jpg,61,677,740,752,line
+./train_images/Set17_188 r.jpg,59,733,720,807,line
+./train_images/Set17_188 r.jpg,58,785,728,847,line
+./train_images/Set17_188 r.jpg,58,833,705,896,line
+./train_images/Set17_188 r.jpg,57,890,702,951,line
+./train_images/Set17_188 r.jpg,64,933,717,1014,line
+./train_images/Set13_027 v.jpg,261,9,967,97,line
+./train_images/Set13_027 v.jpg,260,71,953,156,line
+./train_images/Set13_027 v.jpg,260,133,961,214,line
+./train_images/Set13_027 v.jpg,266,185,994,252,line
+./train_images/Set13_027 v.jpg,259,242,990,325,line
+./train_images/Set13_027 v.jpg,260,318,976,378,line
+./train_images/Set13_027 v.jpg,250,345,818,428,line
+./train_images/Set13_027 v.jpg,225,409,957,505,line
+./train_images/Set13_027 v.jpg,274,477,960,554,line
+./train_images/Set13_027 v.jpg,301,536,992,635,line
+./train_images/Set13_027 v.jpg,280,590,970,664,line
+./train_images/Set13_027 v.jpg,287,654,998,730,line
+./train_images/Set13_027 v.jpg,287,705,990,794,line
+./train_images/Set13_027 v.jpg,276,770,1004,852,line
+./train_images/Set13_027 v.jpg,270,836,980,916,line
+./train_images/Set13_027 v.jpg,267,892,971,969,line
+./train_images/Set13_027 v.jpg,256,946,1000,1029,line
+./train_images/Set13_027 v.jpg,250,1005,983,1091,line
+./train_images/Set13_027 v.jpg,252,1076,980,1153,line
+./train_images/Set13_027 v.jpg,253,1123,957,1204,line
+./train_images/Set13_027 v.jpg,261,1191,981,1266,line
+./train_images/Set13_027 v.jpg,261,1260,997,1332,line
+./train_images/Set13_027 v.jpg,269,1308,991,1385,line
+./train_images/Set13_027 v.jpg,278,1360,992,1433,line
+./train_images/Set13_027 v.jpg,254,1421,967,1498,line
+./train_images/Set13_012 r.jpg,84,125,853,210,line
+./train_images/Set13_012 r.jpg,84,201,884,271,line
+./train_images/Set13_012 r.jpg,81,231,865,325,line
+./train_images/Set13_012 r.jpg,72,295,845,368,line
+./train_images/Set13_012 r.jpg,69,340,860,410,line
+./train_images/Set13_012 r.jpg,74,400,900,462,line
+./train_images/Set13_012 r.jpg,86,448,875,518,line
+./train_images/Set13_012 r.jpg,78,507,865,574,line
+./train_images/Set13_012 r.jpg,80,557,872,633,line
+./train_images/Set13_012 r.jpg,80,621,884,690,line
+./train_images/Set13_012 r.jpg,80,671,827,730,line
+./train_images/Set13_012 r.jpg,80,721,880,787,line
+./train_images/Set13_012 r.jpg,80,768,968,853,line
+./train_images/Set13_012 r.jpg,13,809,853,887,line
+./train_images/Set13_012 r.jpg,72,881,840,943,line
+./train_images/Set13_012 r.jpg,71,928,851,1001,line
+./train_images/Set13_012 r.jpg,81,981,845,1050,line
+./train_images/Set13_012 r.jpg,74,1031,839,1112,line
+./train_images/Set13_012 r.jpg,72,1084,863,1157,line
+./train_images/Set13_012 r.jpg,77,1133,828,1207,line
+./train_images/Set13_012 r.jpg,59,1184,869,1248,line
+./train_images/Set13_012 r.jpg,66,1236,837,1313,line
+./train_images/Set13_012 r.jpg,63,1292,880,1359,line
+./train_images/Set13_012 r.jpg,72,1343,877,1410,line
+./train_images/Set13_012 r.jpg,75,1393,827,1468,line
+./train_images/Set11_053.jpg,22,146,1216,264,line
+./train_images/Set11_053.jpg,26,236,1222,358,line
+./train_images/Set11_053.jpg,30,354,1024,448,line
+./train_images/Set11_053.jpg,24,450,1198,548,line
+./train_images/Set11_053.jpg,24,542,1208,642,line
+./train_images/Set11_053.jpg,20,630,1222,746,line
+./train_images/Set11_053.jpg,24,742,1220,842,line
+./train_images/Set11_053.jpg,26,838,1224,926,line
+./train_images/Set11_053.jpg,26,922,1212,1020,line
+./train_images/Set11_053.jpg,32,1024,1216,1132,line
+./train_images/Set11_053.jpg,26,1140,1226,1240,line
+./train_images/Set11_053.jpg,26,1228,1222,1332,line
+./train_images/Set11_053.jpg,28,1332,1218,1444,line
+./train_images/Set11_053.jpg,24,1422,1218,1528,line
+./train_images/Set11_053.jpg,24,1516,1224,1638,line
+./train_images/Set11_053.jpg,24,1628,1226,1734,line
+./train_images/Set11_053.jpg,26,1724,1230,1838,line
+./train_images/Set11_053.jpg,26,1824,1210,1934,line
+./train_images/Set14_153.jpg,155,220,862,300,line
+./train_images/Set14_153.jpg,163,294,808,370,line
+./train_images/Set14_153.jpg,172,362,862,432,line
+./train_images/Set14_153.jpg,165,424,829,508,line
+./train_images/Set14_153.jpg,168,498,874,574,line
+./train_images/Set14_153.jpg,170,570,822,660,line
+./train_images/Set14_153.jpg,168,650,817,715,line
+./train_images/Set14_153.jpg,168,703,824,793,line
+./train_images/Set14_153.jpg,168,782,844,863,line
+./train_images/Set14_153.jpg,168,850,862,931,line
+./train_images/Set14_153.jpg,168,925,794,996,line
+./train_images/Set14_153.jpg,168,987,851,1062,line
+./train_images/Set14_153.jpg,146,1051,810,1137,line
+./train_images/Set14_153.jpg,179,1131,831,1212,line
+./train_images/Set14_153.jpg,170,1198,806,1265,line
+./train_images/Set14_153.jpg,155,1258,812,1343,line
+./train_images/Set14_153.jpg,139,1329,831,1439,line
+./train_images/Set12_238 v.jpg,195,82,928,155,line
+./train_images/Set12_238 v.jpg,201,338,926,398,line
+./train_images/Set12_238 v.jpg,206,401,922,446,line
+./train_images/Set12_238 v.jpg,203,505,921,578,line
+./train_images/Set12_238 v.jpg,195,568,910,630,line
+./train_images/Set12_238 v.jpg,192,685,921,761,line
+./train_images/Set12_238 v.jpg,186,920,895,988,line
+./train_images/Set12_238 v.jpg,188,985,900,1050,line
+./train_images/Set2_036 r.jpg,27,114,940,200,line
+./train_images/Set2_036 r.jpg,22,209,972,304,line
+./train_images/Set2_036 r.jpg,21,291,939,390,line
+./train_images/Set2_036 r.jpg,31,380,916,483,line
+./train_images/Set2_036 r.jpg,34,480,942,575,line
+./train_images/Set2_036 r.jpg,36,560,931,668,line
+./train_images/Set2_036 r.jpg,31,659,903,740,line
+./train_images/Set2_036 r.jpg,24,732,937,840,line
+./train_images/Set2_036 r.jpg,29,814,922,916,line
+./train_images/Set2_036 r.jpg,34,909,916,990,line
+./train_images/Set2_036 r.jpg,40,990,896,1077,line
+./train_images/Set2_036 r.jpg,39,1078,898,1190,line
+./train_images/Set2_036 r.jpg,50,1181,950,1262,line
+./train_images/Set2_036 r.jpg,45,1257,949,1365,line
+./train_images/Set2_036 r.jpg,52,1355,944,1447,line
+./train_images/Set14_185.jpg,162,209,845,303,line
+./train_images/Set14_185.jpg,167,296,845,381,line
+./train_images/Set14_185.jpg,168,362,847,431,line
+./train_images/Set14_185.jpg,122,422,837,509,line
+./train_images/Set14_185.jpg,160,498,811,581,line
+./train_images/Set14_185.jpg,160,572,860,670,line
+./train_images/Set14_185.jpg,160,652,818,727,line
+./train_images/Set14_185.jpg,155,726,868,801,line
+./train_images/Set14_185.jpg,152,790,822,880,line
+./train_images/Set14_185.jpg,150,867,839,949,line
+./train_images/Set14_185.jpg,152,929,849,1024,line
+./train_images/Set14_185.jpg,147,1003,845,1100,line
+./train_images/Set14_185.jpg,144,1080,804,1150,line
+./train_images/Set14_185.jpg,131,1144,821,1245,line
+./train_images/Set14_185.jpg,131,1218,788,1304,line
+./train_images/Set14_185.jpg,122,1290,832,1386,line
+./train_images/Set14_185.jpg,129,1360,849,1500,line
+./train_images/Set14_201.jpg,155,258,775,348,line
+./train_images/Set14_201.jpg,155,339,846,422,line
+./train_images/Set14_201.jpg,160,415,813,496,line
+./train_images/Set14_201.jpg,158,500,827,575,line
+./train_images/Set14_201.jpg,162,567,796,643,line
+./train_images/Set14_201.jpg,165,636,791,718,line
+./train_images/Set14_201.jpg,163,701,848,793,line
+./train_images/Set14_201.jpg,160,786,820,877,line
+./train_images/Set14_201.jpg,165,865,827,965,line
+./train_images/Set14_201.jpg,165,946,801,1031,line
+./train_images/Set14_201.jpg,177,1015,784,1094,line
+./train_images/Set14_201.jpg,172,1084,843,1181,line
+./train_images/Set14_201.jpg,172,1165,796,1253,line
+./train_images/Set14_201.jpg,174,1244,822,1322,line
+./train_images/Set14_201.jpg,170,1315,765,1405,line
+./train_images/Set14_201.jpg,163,1387,853,1472,line
+./train_images/Set8_481 v.jpg,168,77,987,147,line
+./train_images/Set8_481 v.jpg,168,134,968,223,line
+./train_images/Set8_481 v.jpg,169,207,1004,274,line
+./train_images/Set8_481 v.jpg,169,263,977,346,line
+./train_images/Set8_481 v.jpg,163,338,1003,412,line
+./train_images/Set8_481 v.jpg,168,400,953,484,line
+./train_images/Set8_481 v.jpg,157,593,953,671,line
+./train_images/Set8_481 v.jpg,171,660,820,733,line
+./train_images/Set8_481 v.jpg,161,979,985,1060,line
+./train_images/Set8_481 v.jpg,165,1046,990,1125,line
+./train_images/Set8_481 v.jpg,168,1106,1012,1176,line
+./train_images/Set8_481 v.jpg,168,1163,982,1258,line
+./train_images/Set2_002 r.jpg,172,123,992,205,line
+./train_images/Set2_002 r.jpg,174,196,979,280,line
+./train_images/Set2_002 r.jpg,167,270,990,350,line
+./train_images/Set2_002 r.jpg,160,343,989,430,line
+./train_images/Set2_002 r.jpg,156,416,972,512,line
+./train_images/Set2_002 r.jpg,170,507,985,589,line
+./train_images/Set2_002 r.jpg,165,565,969,674,line
+./train_images/Set2_002 r.jpg,169,661,961,749,line
+./train_images/Set2_002 r.jpg,190,745,981,809,line
+./train_images/Set2_002 r.jpg,181,799,1001,892,line
+./train_images/Set2_002 r.jpg,181,883,981,956,line
+./train_images/Set2_002 r.jpg,183,952,1005,1034,line
+./train_images/Set2_002 r.jpg,190,1029,979,1105,line
+./train_images/Set2_002 r.jpg,187,1098,985,1189,line
+./train_images/Set2_002 r.jpg,194,1174,979,1249,line
+./train_images/Set2_002 r.jpg,201,1245,1003,1343,line
+./train_images/Set8_513 v.jpg,82,71,911,147,line
+./train_images/Set8_513 v.jpg,79,136,926,222,line
+./train_images/Set8_513 v.jpg,84,207,925,280,line
+./train_images/Set8_513 v.jpg,80,528,900,620,line
+./train_images/Set8_513 v.jpg,90,607,939,668,line
+./train_images/Set8_513 v.jpg,87,666,907,736,line
+./train_images/Set8_513 v.jpg,87,728,900,817,line
+./train_images/Set8_513 v.jpg,95,807,914,877,line
+./train_images/Set8_513 v.jpg,104,1193,920,1276,line
+./train_images/Set2_063 v.jpg,264,293,1020,386,line
+./train_images/Set2_063 v.jpg,191,359,927,452,line
+./train_images/Set2_063 v.jpg,128,544,983,640,line
+./train_images/Set2_063 v.jpg,142,615,928,728,line
+./train_images/Set2_063 v.jpg,91,767,889,854,line
+./train_images/Set2_063 v.jpg,94,981,911,1081,line
+./train_images/Set2_063 v.jpg,94,1128,977,1228,line
+./train_images/Set2_063 v.jpg,93,1208,949,1303,line
+./train_images/Set2_063 v.jpg,74,1344,923,1489,line
+./train_images/Set2_051 r.jpg,24,80,922,163,line
+./train_images/Set2_051 r.jpg,26,162,919,244,line
+./train_images/Set2_051 r.jpg,29,239,913,332,line
+./train_images/Set2_051 r.jpg,27,331,1004,419,line
+./train_images/Set2_051 r.jpg,37,413,919,475,line
+./train_images/Set2_051 r.jpg,36,472,950,580,line
+./train_images/Set2_051 r.jpg,50,577,919,663,line
+./train_images/Set2_051 r.jpg,39,657,957,729,line
+./train_images/Set2_051 r.jpg,44,734,944,808,line
+./train_images/Set2_051 r.jpg,42,804,940,886,line
+./train_images/Set2_051 r.jpg,40,883,1006,960,line
+./train_images/Set2_051 r.jpg,37,954,991,1049,line
+./train_images/Set2_051 r.jpg,31,1032,936,1129,line
+./train_images/Set2_051 r.jpg,37,1122,926,1229,line
+./train_images/Set2_051 r.jpg,39,1208,932,1303,line
+./train_images/Set14_101.jpg,68,212,768,306,line
+./train_images/Set14_101.jpg,70,294,760,368,line
+./train_images/Set14_101.jpg,65,365,750,460,line
+./train_images/Set14_101.jpg,65,434,767,517,line
+./train_images/Set14_101.jpg,70,501,770,600,line
+./train_images/Set14_101.jpg,68,586,794,674,line
+./train_images/Set14_101.jpg,72,653,808,748,line
+./train_images/Set14_101.jpg,74,743,770,827,line
+./train_images/Set14_101.jpg,74,803,834,891,line
+./train_images/Set14_101.jpg,79,887,806,972,line
+./train_images/Set14_101.jpg,27,958,786,1053,line
+./train_images/Set14_101.jpg,77,1020,789,1113,line
+./train_images/Set14_101.jpg,79,1096,789,1186,line
+./train_images/Set14_101.jpg,75,1160,777,1253,line
+./train_images/Set14_101.jpg,79,1250,784,1317,line
+./train_images/Set14_101.jpg,74,1310,767,1400,line
+./train_images/Set14_101.jpg,74,1389,794,1513,line
+./train_images/Set14_466.jpg,301,219,949,318,line
+./train_images/Set14_466.jpg,300,292,958,387,line
+./train_images/Set14_466.jpg,321,379,985,461,line
+./train_images/Set14_466.jpg,318,445,938,530,line
+./train_images/Set14_466.jpg,312,518,947,603,line
+./train_images/Set14_466.jpg,312,589,970,676,line
+./train_images/Set14_466.jpg,320,663,927,743,line
+./train_images/Set14_466.jpg,274,736,994,838,line
+./train_images/Set14_466.jpg,296,830,929,914,line
+./train_images/Set14_466.jpg,305,890,969,981,line
+./train_images/Set14_466.jpg,300,974,972,1054,line
+./train_images/Set14_466.jpg,307,1036,983,1110,line
+./train_images/Set14_466.jpg,309,1114,901,1200,line
+./train_images/Set14_466.jpg,309,1190,954,1276,line
+./train_images/Set14_466.jpg,305,1265,967,1354,line
+./train_images/Set14_466.jpg,307,1330,934,1429,line
+./train_images/Set8_593 v.jpg,173,96,966,161,line
+./train_images/Set8_593 v.jpg,174,149,957,230,line
+./train_images/Set8_593 v.jpg,177,214,969,284,line
+./train_images/Set8_593 v.jpg,180,287,942,371,line
+./train_images/Set8_593 v.jpg,179,344,982,423,line
+./train_images/Set8_593 v.jpg,184,412,979,487,line
+./train_images/Set8_593 v.jpg,193,866,974,931,line
+./train_images/Set8_593 v.jpg,190,909,1006,1003,line
+./train_images/Set8_593 v.jpg,190,987,977,1061,line
+./train_images/Set8_593 v.jpg,201,1053,992,1123,line
+./train_images/Set14_430.jpg,222,253,794,335,line
+./train_images/Set14_430.jpg,238,329,900,402,line
+./train_images/Set14_430.jpg,226,390,763,487,line
+./train_images/Set14_430.jpg,228,459,838,570,line
+./train_images/Set14_430.jpg,173,546,853,636,line
+./train_images/Set14_430.jpg,242,630,883,701,line
+./train_images/Set14_430.jpg,250,707,890,769,line
+./train_images/Set14_430.jpg,229,766,828,849,line
+./train_images/Set14_430.jpg,211,845,849,928,line
+./train_images/Set14_430.jpg,214,921,874,1002,line
+./train_images/Set14_430.jpg,216,992,804,1076,line
+./train_images/Set14_430.jpg,207,1063,870,1142,line
+./train_images/Set14_430.jpg,204,1135,845,1219,line
+./train_images/Set14_430.jpg,207,1205,884,1287,line
+./train_images/Set14_430.jpg,201,1274,818,1366,line
+./train_images/Set14_430.jpg,197,1359,860,1452,line
+./train_images/Set2_059 r.jpg,22,191,942,277,line
+./train_images/Set2_059 r.jpg,24,263,933,345,line
+./train_images/Set2_059 r.jpg,22,345,972,423,line
+./train_images/Set2_059 r.jpg,20,551,1007,633,line
+./train_images/Set2_059 r.jpg,29,630,980,710,line
+./train_images/Set2_059 r.jpg,35,708,982,779,line
+./train_images/Set2_059 r.jpg,44,826,991,930,line
+./train_images/Set2_059 r.jpg,48,1041,1002,1152,line
+./train_images/Set2_059 r.jpg,48,1119,972,1226,line
+./train_images/Set13_005 r.jpg,86,103,957,197,line
+./train_images/Set13_005 r.jpg,80,168,946,250,line
+./train_images/Set13_005 r.jpg,77,225,923,293,line
+./train_images/Set13_005 r.jpg,69,275,921,348,line
+./train_images/Set13_005 r.jpg,78,336,931,406,line
+./train_images/Set13_005 r.jpg,77,373,948,446,line
+./train_images/Set13_005 r.jpg,75,438,944,500,line
+./train_images/Set13_005 r.jpg,63,477,907,557,line
+./train_images/Set13_005 r.jpg,59,546,934,605,line
+./train_images/Set13_005 r.jpg,55,577,922,652,line
+./train_images/Set13_005 r.jpg,56,643,930,703,line
+./train_images/Set13_005 r.jpg,59,692,953,771,line
+./train_images/Set13_005 r.jpg,60,763,928,818,line
+./train_images/Set13_005 r.jpg,44,796,972,877,line
+./train_images/Set13_005 r.jpg,51,864,963,926,line
+./train_images/Set13_005 r.jpg,50,914,905,976,line
+./train_images/Set13_005 r.jpg,25,965,923,1040,line
+./train_images/Set13_005 r.jpg,89,1023,967,1096,line
+./train_images/Set13_005 r.jpg,86,1072,982,1132,line
+./train_images/Set13_005 r.jpg,114,1126,901,1180,line
+./train_images/Set13_005 r.jpg,98,1169,878,1253,line
+./train_images/Set13_005 r.jpg,96,1232,886,1302,line
+./train_images/Set13_005 r.jpg,92,1276,953,1350,line
+./train_images/Set13_005 r.jpg,98,1323,964,1406,line
+./train_images/Set13_005 r.jpg,98,1380,903,1489,line
+./train_images/Set2_117 v.jpg,153,100,1011,167,line
+./train_images/Set2_117 v.jpg,150,152,974,222,line
+./train_images/Set2_117 v.jpg,162,216,919,279,line
+./train_images/Set2_117 v.jpg,141,267,950,349,line
+./train_images/Set2_117 v.jpg,141,335,919,416,line
+./train_images/Set2_117 v.jpg,149,388,985,471,line
+./train_images/Set2_117 v.jpg,150,476,943,552,line
+./train_images/Set2_117 v.jpg,149,541,926,619,line
+./train_images/Set2_117 v.jpg,149,613,946,700,line
+./train_images/Set2_117 v.jpg,149,679,917,759,line
+./train_images/Set2_117 v.jpg,147,752,943,828,line
+./train_images/Set2_117 v.jpg,146,822,953,908,line
+./train_images/Set2_117 v.jpg,138,892,997,989,line
+./train_images/Set2_117 v.jpg,141,967,962,1053,line
+./train_images/Set2_117 v.jpg,137,1046,973,1129,line
+./train_images/Set2_117 v.jpg,137,1122,964,1208,line
+./train_images/Set2_117 v.jpg,152,1197,961,1279,line
+./train_images/Set2_117 v.jpg,138,1274,934,1379,line
+./train_images/Set13_099 v.jpg,75,56,953,117,line
+./train_images/Set13_099 v.jpg,73,114,965,167,line
+./train_images/Set13_099 v.jpg,71,161,987,219,line
+./train_images/Set13_099 v.jpg,80,208,929,273,line
+./train_images/Set13_099 v.jpg,79,252,951,312,line
+./train_images/Set13_099 v.jpg,74,302,970,365,line
+./train_images/Set13_099 v.jpg,73,347,966,406,line
+./train_images/Set13_099 v.jpg,71,391,934,461,line
+./train_images/Set13_099 v.jpg,66,439,926,500,line
+./train_images/Set13_099 v.jpg,67,487,953,550,line
+./train_images/Set13_099 v.jpg,75,543,916,598,line
+./train_images/Set13_099 v.jpg,70,584,946,652,line
+./train_images/Set13_099 v.jpg,62,639,969,698,line
+./train_images/Set13_099 v.jpg,61,685,978,744,line
+./train_images/Set13_099 v.jpg,60,730,951,802,line
+./train_images/Set13_099 v.jpg,65,792,939,858,line
+./train_images/Set13_099 v.jpg,65,841,967,915,line
+./train_images/Set13_099 v.jpg,62,897,935,966,line
+./train_images/Set13_099 v.jpg,51,947,970,1003,line
+./train_images/Set13_099 v.jpg,55,993,950,1053,line
+./train_images/Set13_099 v.jpg,58,1042,900,1097,line
+./train_images/Set13_099 v.jpg,74,1089,950,1165,line
+./train_images/Set13_099 v.jpg,84,1141,894,1214,line
+./train_images/Set13_099 v.jpg,83,1184,960,1266,line
+./train_images/Set13_099 v.jpg,78,1242,925,1316,line
+./train_images/Set13_099 v.jpg,80,1294,929,1369,line
+./train_images/Set17_188 v.jpg,220,80,844,150,line
+./train_images/Set17_188 v.jpg,213,135,855,193,line
+./train_images/Set17_188 v.jpg,215,187,855,245,line
+./train_images/Set17_188 v.jpg,213,235,832,296,line
+./train_images/Set17_188 v.jpg,217,291,877,348,line
+./train_images/Set17_188 v.jpg,210,336,835,395,line
+./train_images/Set17_188 v.jpg,210,389,826,448,line
+./train_images/Set17_188 v.jpg,209,437,828,505,line
+./train_images/Set17_188 v.jpg,211,491,868,552,line
+./train_images/Set17_188 v.jpg,205,540,822,601,line
+./train_images/Set17_188 v.jpg,194,597,881,647,line
+./train_images/Set17_188 v.jpg,198,647,858,696,line
+./train_images/Set17_188 v.jpg,195,693,838,752,line
+./train_images/Set17_188 v.jpg,194,737,823,811,line
+./train_images/Set17_188 v.jpg,200,793,843,851,line
+./train_images/Set17_188 v.jpg,195,844,811,911,line
+./train_images/Set17_188 v.jpg,195,890,813,947,line
+./train_images/Set17_188 v.jpg,190,946,847,1009,line
+./train_images/Set12_236 v.jpg,107,31,910,127,line
+./train_images/Set12_236 v.jpg,104,121,891,190,line
+./train_images/Set12_236 v.jpg,103,185,904,254,line
+./train_images/Set12_236 v.jpg,107,248,898,321,line
+./train_images/Set12_236 v.jpg,108,314,901,385,line
+./train_images/Set12_236 v.jpg,104,442,912,505,line
+./train_images/Set12_236 v.jpg,109,584,891,650,line
+./train_images/Set12_236 v.jpg,105,644,890,712,line
+./train_images/Set12_236 v.jpg,102,834,898,911,line
+./train_images/Set12_236 v.jpg,101,907,883,970,line
+./train_images/Set12_236 v.jpg,123,1037,927,1103,line
+./train_images/Set17_183 r.jpg,93,84,744,139,line
+./train_images/Set17_183 r.jpg,87,292,778,359,line
+./train_images/Set17_183 r.jpg,84,352,791,408,line
+./train_images/Set17_183 r.jpg,87,406,757,451,line
+./train_images/Set17_183 r.jpg,101,571,805,626,line
+./train_images/Set17_183 r.jpg,97,622,770,681,line
+./train_images/Set17_183 r.jpg,94,672,781,725,line
+./train_images/Set17_183 r.jpg,96,778,778,832,line
+./train_images/Set17_183 r.jpg,91,828,791,894,line
+./train_images/Set17_183 r.jpg,97,886,810,939,line
+./train_images/Set17_183 r.jpg,95,936,773,1006,line
+./train_images/Set17_183 r.jpg,91,1000,765,1062,line
+./train_images/Set13_034 r.jpg,35,48,744,135,line
+./train_images/Set13_034 r.jpg,48,127,744,187,line
+./train_images/Set13_034 r.jpg,44,169,758,234,line
+./train_images/Set13_034 r.jpg,45,229,782,292,line
+./train_images/Set13_034 r.jpg,39,272,717,339,line
+./train_images/Set13_034 r.jpg,48,319,764,384,line
+./train_images/Set13_034 r.jpg,36,366,817,436,line
+./train_images/Set13_034 r.jpg,35,413,773,468,line
+./train_images/Set13_034 r.jpg,34,458,784,530,line
+./train_images/Set13_034 r.jpg,31,500,777,578,line
+./train_images/Set13_034 r.jpg,23,562,737,634,line
+./train_images/Set13_034 r.jpg,31,621,781,684,line
+./train_images/Set13_034 r.jpg,23,673,775,751,line
+./train_images/Set13_034 r.jpg,23,735,773,796,line
+./train_images/Set13_034 r.jpg,26,792,790,852,line
+./train_images/Set13_034 r.jpg,39,843,765,910,line
+./train_images/Set13_034 r.jpg,20,895,813,952,line
+./train_images/Set13_034 r.jpg,20,946,817,1018,line
+./train_images/Set13_034 r.jpg,23,1011,815,1091,line
+./train_images/Set13_034 r.jpg,24,1069,802,1148,line
+./train_images/Set13_034 r.jpg,24,1124,750,1193,line
+./train_images/Set13_034 r.jpg,24,1183,779,1249,line
+./train_images/Set13_034 r.jpg,19,1236,769,1308,line
+./train_images/Set13_034 r.jpg,27,1286,736,1367,line
+./train_images/Set13_034 r.jpg,29,1346,744,1420,line
+./train_images/Set13_034 r.jpg,26,1395,739,1484,line
+./train_images/Set8_605 v.jpeg,201,70,962,145,line
+./train_images/Set8_605 v.jpeg,201,140,1025,217,line
+./train_images/Set8_605 v.jpeg,201,204,990,287,line
+./train_images/Set8_605 v.jpeg,193,270,990,351,line
+./train_images/Set8_605 v.jpeg,193,335,973,414,line
+./train_images/Set8_605 v.jpeg,187,400,987,473,line
+./train_images/Set8_605 v.jpeg,190,459,909,529,line
+./train_images/Set8_605 v.jpeg,192,840,989,926,line
+./train_images/Set8_605 v.jpeg,189,915,956,987,line
+./train_images/Set8_605 v.jpeg,187,968,989,1054,line
+./train_images/Set8_605 v.jpeg,185,1034,956,1118,line
+./train_images/Set2_003 v.jpg,140,95,995,191,line
+./train_images/Set2_003 v.jpg,156,186,998,264,line
+./train_images/Set2_003 v.jpg,162,259,976,349,line
+./train_images/Set2_003 v.jpg,164,338,946,422,line
+./train_images/Set2_003 v.jpg,171,407,973,502,line
+./train_images/Set2_003 v.jpg,164,497,956,571,line
+./train_images/Set2_003 v.jpg,147,559,970,646,line
+./train_images/Set2_003 v.jpg,149,638,956,732,line
+./train_images/Set2_003 v.jpg,146,713,961,804,line
+./train_images/Set2_003 v.jpg,146,789,995,877,line
+./train_images/Set2_003 v.jpg,146,859,953,946,line
+./train_images/Set2_003 v.jpg,146,925,931,1022,line
+./train_images/Set2_003 v.jpg,140,1001,965,1082,line
+./train_images/Set2_003 v.jpg,143,1070,956,1173,line
+./train_images/Set2_003 v.jpg,141,1152,882,1238,line
+./train_images/Set2_003 v.jpg,138,1228,929,1304,line
+./train_images/Set11_055.jpg,16,141,1201,252,line
+./train_images/Set11_055.jpg,18,243,1203,345,line
+./train_images/Set11_055.jpg,16,334,1212,447,line
+./train_images/Set11_055.jpg,18,429,1209,552,line
+./train_images/Set11_055.jpg,12,534,1209,632,line
+./train_images/Set11_055.jpg,16,625,1210,745,line
+./train_images/Set11_055.jpg,25,743,1214,839,line
+./train_images/Set11_055.jpg,18,829,1205,939,line
+./train_images/Set11_055.jpg,18,934,1220,1041,line
+./train_images/Set11_055.jpg,21,1030,1220,1141,line
+./train_images/Set11_055.jpg,16,1116,1238,1223,line
+./train_images/Set11_055.jpg,16,1216,1218,1332,line
+./train_images/Set11_055.jpg,20,1321,1165,1438,line
+./train_images/Set11_055.jpg,20,1418,1207,1534,line
+./train_images/Set11_055.jpg,20,1516,1207,1643,line
+./train_images/Set11_055.jpg,14,1630,1205,1730,line
+./train_images/Set11_055.jpg,20,1718,1220,1827,line
+./train_images/Set11_055.jpg,20,1814,1210,1927,line
+./train_images/Set14_141.jpg,149,171,821,256,line
+./train_images/Set14_141.jpg,150,247,820,339,line
+./train_images/Set14_141.jpg,146,331,788,407,line
+./train_images/Set14_141.jpg,152,400,857,473,line
+./train_images/Set14_141.jpg,120,463,797,553,line
+./train_images/Set14_141.jpg,150,552,842,630,line
+./train_images/Set14_141.jpg,149,613,853,704,line
+./train_images/Set14_141.jpg,128,694,834,772,line
+./train_images/Set14_141.jpg,146,763,810,828,line
+./train_images/Set14_141.jpg,142,824,850,918,line
+./train_images/Set14_141.jpg,147,901,791,979,line
+./train_images/Set14_141.jpg,143,971,830,1052,line
+./train_images/Set14_141.jpg,140,1039,801,1127,line
+./train_images/Set14_141.jpg,140,1117,805,1181,line
+./train_images/Set14_141.jpg,142,1173,863,1265,line
+./train_images/Set14_141.jpg,143,1247,847,1336,line
+./train_images/Set14_141.jpg,146,1326,808,1420,line
+./train_images/Set12_270 v.jpg,225,63,893,128,line
+./train_images/Set12_270 v.jpg,224,255,878,316,line
+./train_images/Set12_270 v.jpg,226,312,913,386,line
+./train_images/Set12_270 v.jpg,226,379,895,440,line
+./train_images/Set12_270 v.jpg,219,628,896,690,line
+./train_images/Set12_270 v.jpg,220,692,895,754,line
+./train_images/Set12_270 v.jpg,222,750,895,822,line
+./train_images/Set12_270 v.jpg,226,934,901,1009,line
+./train_images/Set12_270 v.jpg,225,1007,909,1072,line
+./train_images/Set8_596 r.jpeg,54,67,835,149,line
+./train_images/Set8_596 r.jpeg,53,145,836,216,line
+./train_images/Set8_596 r.jpeg,47,260,857,352,line
+./train_images/Set8_596 r.jpeg,50,210,842,267,line
+./train_images/Set8_596 r.jpeg,46,263,860,353,line
+./train_images/Set8_596 r.jpeg,46,343,879,419,line
+./train_images/Set8_596 r.jpeg,43,389,869,472,line
+./train_images/Set8_596 r.jpeg,45,457,849,538,line
+./train_images/Set8_596 r.jpeg,46,528,861,595,line
+./train_images/Set8_596 r.jpeg,43,589,863,661,line
+./train_images/Set8_596 r.jpeg,46,646,828,739,line
+./train_images/Set8_596 r.jpeg,46,730,856,798,line
+./train_images/Set8_596 r.jpeg,47,787,867,852,line
+./train_images/Set8_596 r.jpeg,52,842,865,910,line
+./train_images/Set8_596 r.jpeg,50,898,838,1001,line
+./train_images/Set8_596 r.jpeg,52,984,850,1056,line
+./train_images/Set8_596 r.jpeg,49,1035,871,1116,line
+./train_images/Set8_596 r.jpeg,47,1098,916,1180,line
+./train_images/Set8_596 r.jpeg,47,1167,857,1261,line
